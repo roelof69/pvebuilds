@@ -11,7 +11,7 @@ weight: 10
     left: 0%;
     height:100vh;
     width:100vw;
-    margin-top:135px;
+
     overflow:hidden;
 }
 
