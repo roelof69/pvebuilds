@@ -1,6 +1,6 @@
 ---
 
-Title: "M10 Gold World Records"
+Title: ""
 description: "New World M10 World Records."
 lead: "The World's Fastest M10 Gold Clear Times."
 weight: 600
@@ -68,7 +68,7 @@ toc: false
     }
   </script>
 
-<div style="background-color:rgba(0, 0, 0, 0.75);padding-top:125px;margin-top:-220px;padding-bottom:50px;color:white;">
+<div style="background-color:rgba(0, 0, 0, 0.75);padding-top:125px;margin-top:-125px;padding-bottom:50px;color:white;">
 
 <h1>M10 Gold World Records</h1>
 
