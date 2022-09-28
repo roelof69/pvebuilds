@@ -7,7 +7,7 @@ weight: 10
     position:fixed;
     top: 135px;
     left: 0px;
-    height:100vh;
+    height:93vh;
     width:100vw;
     margin-top:-75px;
     overflow:hidden;
@@ -16,8 +16,8 @@ weight: 10
 #iframe-container iframe {
   position: relative;
   display:flex;
-  height:100vh;
-  width:100vw;
+  height:100%;
+  width:100%;
 }
 </style>
 
