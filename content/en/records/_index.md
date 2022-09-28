@@ -54,8 +54,8 @@ toc: false
       player = new YT.Player('player', {
         height: '100%',
         width: '100%',
-        videoId: 'kTA1JrtRy1k',
-        playerVars: { 'autoplay': 1, 'playsinline': 1, 'loop': 1, 'list': "PLn2kD3sUIiolab_ULFqrsGjAre82RUinM" },
+        videoId: 'ZHO0ZnXQrww',
+        playerVars: { 'autoplay': 1, 'playsinline': 1, 'loop': 1, 'list': "PLn2kD3sUIiokXPgqH53FUkZPcq3EA90ix" },
         events: {
           'onReady': onPlayerReady
         }
