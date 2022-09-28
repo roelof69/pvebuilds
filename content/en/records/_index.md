@@ -68,6 +68,76 @@ toc: false
     }
   </script>
 
+<!-- Twitch Video Embed -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<div id="twitch" class="hide">
+</div>
+<div id="twitch2" class="hide">
+</div>
+
+<script>
+  var options = {
+    channel: "m11pve",
+    width: 1280,
+    height: 720,
+    parent: ["pvebuilds.xyz"]
+  };
+  var options2 = {
+    channel: "genedictb",
+    width: 1280,
+    height: 720,
+    parent: ["pvebuilds.xyz"]
+  };
+  var player2 = new Twitch.Player("twitch2", options2);
+  var player = new Twitch.Player("twitch", options);
+  player.addEventListener(Twitch.Player.READY, initiate)
+  player.addEventListener(Twitch.Player.OFFLINE, initiate2);
+
+  function initiate() {
+    player.addEventListener(Twitch.Player.ONLINE, handleOnline);
+    player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+    player.removeEventListener(Twitch.Player.READY, initiate);
+  }
+
+  function handleOnline() {
+    document.getElementById("twitch").classList.remove('hide');
+    player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
+    player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+    player2.pause();
+    player2.setMuted(true);
+    player.setMuted(false);
+    player.setVolume(0.1);
+  }
+
+  function handleOffline() {
+    player.setMuted(true);
+    document.getElementById("twitch").classList.add('hide');
+    player.removeEventListener(Twitch.Player.OFFLINE, handleOffline);
+  }
+  function initiate2() {
+    player2.addEventListener(Twitch.Player.ONLINE, handleOnline2);
+    player2.addEventListener(Twitch.Player.OFFLINE, handleOffline2);
+    player2.removeEventListener(Twitch.Player.READY, initiate2);
+  }
+
+  function handleOnline2() {
+    document.getElementById("twitch2").classList.remove('hide');
+    player2.removeEventListener(Twitch.Player.ONLINE, handleOnline2);
+    player2.addEventListener(Twitch.Player.OFFLINE, handleOffline2);
+    player2.setMuted(false);
+    player2.setVolume(0.1);
+  }
+
+  function handleOffline2() {
+    document.getElementById("twitch2").classList.add('hide');
+    player2.removeEventListener(Twitch.Player.OFFLINE, handleOffline2);
+    player2.addEventListener(Twitch.Player.ONLINE, handleOnline2);
+    player2.setMuted(true);
+  }
+</script>
+
+
 <div style="background-color:rgba(0, 0, 0, 0.75);padding-top:125px;margin-top:-125px;padding-bottom:50px;color:white;">
 
 <h1>M10 Gold World Records</h1>
