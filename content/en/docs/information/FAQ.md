@@ -32,7 +32,7 @@ Your armour should have at least Ward on all pieces.
 DPS and Tanks should have:
 |   DPS/Tank   	|      Perk 1      	|              Perk 2              	|                                Perk 3                               	|
 |:-------:	|:----------------:	|:--------------------------------:	|:-------------------------------------------------------------------:	|
-|  Amulet 	|      Health      	|       Elemental  Protection      	|                         Empowered>Refreshing                        	|
+|  Amulet 	|      Health      	|       Elemental  Protection      	|                         Refreshing or Empowered                        	|
 |   Ring  	|     Leeching     	| DamageType   (e.g. Slash Damage) 	| Refreshing=Hearty.  If you're **over** 150DEX, Refreshing is better. 	|
 | Earring 	| Refreshing Toast 	|            Refreshing            	|             Purifying Toast=Beloved=Evasive >Regenerating            	|
 
