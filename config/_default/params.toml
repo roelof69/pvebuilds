@@ -75,7 +75,7 @@ copyRight = "Copyright (c) 2021-2022 Roelof"
 alert = true
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Welcome to the new and improved pvebuilds.xyz! There will a lot added in the coming weeks...<br> Thanks for visiting -Roelof"
+# alertText = "Welcome to the new and improved pvebuilds.xyz! There will a lot added in the coming weeks...<br> Thanks for visiting -Roelof"
 
 [sections]
   sectionNav = ["docs", "guides"]
