@@ -1,53 +1,150 @@
 {{ define "main" }}
+<style>
+  .transparent-bg{
+    background:rgba(0, 0, 0, 0.753);
+    position:fixed;
+    z-index:-1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height:500%;
+    width:66vw;
+    overflow:hidden;
+  }
+  @media screen and (max-width:1800px) {
+    .transparent-bg {
+      width: 85vw;
+    }
+  }
+
+  @media screen and (max-width:1300px) {
+    .transparent-bg {
+      width: 90vw;
+    }
+  }
+  .h5{ color:#fbbc69;
+  }
+</style>
+
+
+<div class="transparent-bg"></div>
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">
     <div class="col-lg-12 text-center">
-      <h1 class="mt-0">{{ .Title }}</h1>
+      <h1 class="mt-0" style="color:#fbbc69;">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get-started" }}</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
+      <p class="lead" style="color:white;">{{ .Params.lead | safeHTML }}</p>
+      <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fbbc69;" href="/builds"
+        role="button">{{ i18n "get-started" }}</a>
+      <!--<p class="meta" style="color:rgb(189, 189, 189);">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>-->
+    </div>
+  </div>
+</section>
+
+
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+{{ if eq $.Site.Language.LanguageName "English" }}
+
+<section class="section section-sm">
+  <div class="container"style="color:white;">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <h2 class="h2"><a href="https://twitch.tv/M11PvE" style="color:#6441a5e1;">Twitch</a></h2>
+        <p><a class ="h5" href="https://twitch.tv/M11PvE">→ Follow us on Twitch ←</a><br> We try to stream 25 Mutation 10's per
+          week. If you don't follow, you'll regret it.</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h2"><a href="https://discord.gg/VnMQ8ymWuD" style="color:#5865f2b2;">Discord</a></h2>
+        <a  class ="h5" href="https://discord.gg/VnMQ8ymWuD">→ Join the pvebuilds.xyz community ← </a>
+        <br> 
+        Message <a href="https://discord.com/users/144300697230376960"><u>Roelof</u></a> with any comments, questions, or
+        suggestions.</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h2"><a href="https://youtube.com/M11PvE" style="color:rgba(255, 0, 0, 0.568);">YouTube</a></h2>
+        <p><a  class ="h5" href="https://youtube.com/M11PvE">→ Watch us on Youtube ← </a><br>All of our world records and personal
+          bests are uploaded here.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <h2 class="h4" style="color:#fbbc69;">Questions?</h2>
+        <p>Can't find what you're looking for?<br>Need more information?<br> <a  class ="h5" 
+            href="https://discord.com/channels/949706001941151839/1017199461249851433">→ Visit our help channel ← </a>
+        </p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4" style="color:#fbbc69;">Dark Mode</h2>
+        <p>This website has a dark mode. <br>Enable it by clicking the icon at the top right.</p>
+      </div>
     </div>
   </div>
 </section>
 {{ end }}
 
-{{ define "sidebar-prefooter" }}
-  {{ if eq $.Site.Language.LanguageName "English" }}
-  <section class="section section-sm">
-    <div class="container">
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Security aware</h2>
-          <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Fast by default ⚡️</h2>
-          <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=59aafe464a68f8bc30b8e9a636d5b053">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">SEO-ready</h2>
-          <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
-        </div>
-      </div>
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Full text search</h2>
-          <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Page layouts</h2>
-          <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Dark mode</h2>
-          <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-  {{ end }}
+<!-- YT VIDEO BACKGROUND -->
+<div style="position:fixed;top:0;left:0;height:100vh;width:100vw;z-index:-2;">
+  <div id="player" class="bg" style="z-index:0;"></div>
+</div>
+<style>
+  .bg {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 118%;
+    height: 118%;
+    pointer-events: none;
+    overflow:hidden;
+  }
+
+  @media screen and (max-width:1000px) {
+    .bg {
+      width: 165%;
+      height: 165%;
+    }
+  }
+
+  @media screen and (max-width:500px) {
+    .bg {
+      width: 400%;
+      height: 400%;
+    }
+  }
+</style>
+<script>
+  // 2. This code loads the IFrame Player API code asynchronously.
+  var tag = document.createElement('script');
+
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  // 3. This function creates an <iframe> (and YouTube player)
+  //    after the API code downloads.
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      height: '100%',
+      width: '100%',
+      videoId: 'kTA1JrtRy1k',
+      playerVars: { 'autoplay': 1, 'playsinline': 1, 'loop': 1, 'list': "PLn2kD3sUIiolab_ULFqrsGjAre82RUinM" },
+      events: {
+        'onReady': onPlayerReady
+      }
+    });
+  }
+  // 4. The API will call this function when the video player is ready.
+  function onPlayerReady(event) {
+    event.target.mute();
+    event.target.playVideo();
+  }
+</script>
+
+
 {{ end }}
 
 {{ define "sidebar-footer" }}

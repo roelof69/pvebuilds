@@ -12,7 +12,7 @@ $border-dark: $gray-800;
 $body-color-dark: $gray-300;
 $dots-dark: darken($body-color-dark, 50%);
 
-$link-color-dark: $blue-300;
+$link-color-dark: #fbbc69;
 $button-color-dark: $link-color-dark;
 $focus-color-dark: lighten($link-color-dark, 2.5%);
 
@@ -137,7 +137,7 @@ $navbar-dark-active-color:          $link-color-dark;
 }
 
 [data-dark-mode] body .alert-primary a {
-  color: $body-bg-dark;
+  color: #fbbc69;
 }
 
 [data-dark-mode] body .alert-doks {
@@ -419,8 +419,8 @@ $navbar-dark-active-color:          $link-color-dark;
 }
 
 [data-dark-mode] body .alert-primary {
-  background: $link-color-dark;
-  color: $body-bg-dark;
+  background: black;
+  color: #fbbc69;
 }
 
 [data-dark-mode] body .figure-caption {
