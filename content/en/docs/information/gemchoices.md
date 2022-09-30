@@ -6,30 +6,48 @@ weight: 20
 toc: true
 ---
 
-## Armour Gems
+## Armour gems
 The ideal gem loadout is 58.1% Elemental resist, via 8 mutation-specific gems with elemental protection on amulet or shield.
 
 The majority of damage in mutations is elemental, so in order to perform consistently it's important to have a high base resistance against the mutation. 
 
 
 
-### How the Fortify cap works in the game files
+## How the fortify cap works
 
- Fortify is capped at 50% including gems, **except** if you achieve **equal to or greater than** 50.0% resistance.
- 
- Achieving this breakpoint will nullify any fortify you apply towards the specific resistance, **gemstone dusts still apply**.
- ####
-AF = Affixes (Gems, Oakflesh, Gemstone Dust); 
+Each of your individual resistances are capped at 50%. Seen here in your inventory:<br><br>
+<img src="https://i.imgur.com/UBokXGg.png"> 
+<br><br>
+However, if you're able to achieve over 50% in this interface, via gems and protection perk, then the cap becomes the % displayed.
+<br><br>
+This means that if you have, for example, 50% Nature Resistance and you apply 30% Fortify:
 
-SE = Status Effects (Fortify applied actively via abilities or your healer); 
+- You cannot increase your Nature Resistance above 50%, so the 30% Fortify is wasted.
+  
+- 30% Fortify is applied to **all other resistances**, and is capped at 50% in each resistance.
+  
 
-ABS = Total Absorption
+### Damage absorption formula
+
+
+<br>
+
+AF = Affixes (Gems)
+
+SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust)
+
+ARM = Ward armour perks
+<br><br>
+
+Your minimum resistance is set to the maximum of (AF+SE), with AF being capped at 50% unless you exceed it naturally.
+
 ```
-if (AF >= 0.5 or AF <=-0.3) ABS = AF else ABS=MAX(-0.3,MIN(AF+SE,0.5))
+MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ARM
 ```
 
-### Ideal gems based on Elemental Absorption %
-#### 58.1% Elemental Absorption
+
+## Ideal gems based on elemental absorption %
+### 58.1% Elemental Absorption
 If you have an amulet or shield with **elemental protection** it's worth it to go above the 50% cap. Gemstone Dust also stacks with your 58.1% resistance, making this setup by far the most consistent. 
 
 | Fortify 	|    Gem Choice   	| ElementalAbs 	| PhysicalAbs 	| TotalAbs 	|
@@ -43,7 +61,7 @@ If you have an amulet or shield with **elemental protection** it's worth it to g
 
 
 
-#### Sub 50% Base Absorption
+### Sub 50% Base Absorption
 If you're unable to achieve the 50% breakpoint, you should pick gems depending on how much fortify you can reliably apply. Below is a table of the ideal gem choices for each fortify %.
 
 | Fortify 	|    Gem Choice   	| ElementalAbs 	| PhysicalAbs 	| TotalAbs 	|
