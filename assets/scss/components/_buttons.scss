@@ -71,15 +71,15 @@ pre {
   font-family: $font-family-sans-serif;
   font-size: $font-size-sm;
   padding: 0.25rem 0.5rem;
-  color: $color-btn-text;
-  background-color: $color-btn-bg;
-  border-color: $color-btn-border;
+  color: white;
+  background-color: black;
+  border-color: #fbbc69;
 }
 
 .btn-copy:hover {
   color: $color-btn-text;
-  background-color: lighten($color-btn-bg, 5%);
-  border-color: lighten($color-btn-border, 15%);
+  background-color: lighten(black, 5%);
+  border-color: lighten(#fbbc69, 15%);
 }
 
 .btn-copy:focus {
