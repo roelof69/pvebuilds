@@ -109,7 +109,6 @@ pre {
 
 .btn-copy::after {
   content: "Copy";
-  display: block;
   color: white;
   background-color: black;
   border-color: #fbbc69;  
@@ -117,7 +116,6 @@ pre {
 
 .btn-copy:hover::after {
   content: "Copy";
-  display: block;
   color: white;
   background-color: lighten(black, 5%);
   border-color: lighten(#fbbc69, 15%);
@@ -153,7 +151,6 @@ pre {
   color: $body-color;
   background-color: transparent;
   outline: 0;
-  box-shadow: none;
 }
 
 .btn-toggle::before {

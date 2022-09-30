@@ -433,20 +433,17 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] body .copy-status::after {
   content: "Copy";
-  display: block;
   color: $body-color-dark;
 }
 
 [data-dark-mode] body .copy-status:hover::after {
   content: "Copy";
-  display: block;
   color: $link-color-dark;
 }
 
 [data-dark-mode] body .copy-status:focus::after,
 [data-dark-mode] body .copy-status:active::after {
   content: "Copied";
-  display: block;
   color: $link-color-dark;
 }
 
