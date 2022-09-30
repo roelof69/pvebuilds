@@ -110,20 +110,26 @@ pre {
 .btn-copy::after {
   content: "Copy";
   display: block;
-  color: $color-btn-text;
+  color: white;
+  background-color: black;
+  border-color: #fbbc69;  
 }
 
 .btn-copy:hover::after {
   content: "Copy";
   display: block;
-  color: $color-btn-text;
+  color: white;
+  background-color: lighten(black, 5%);
+  border-color: lighten(#fbbc69, 15%);
 }
 
 .btn-copy:focus::after,
 .btn-copy:active::after {
   content: "Copied";
   display: block;
-  color: $color-btn-text;
+  color: white;
+  background-color: lighten(black, 5%);
+  border-color: lighten(#fbbc69, 15%);
 }
 
 .collapsible-sidebar {
