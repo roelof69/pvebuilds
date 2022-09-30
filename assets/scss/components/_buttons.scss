@@ -61,8 +61,15 @@ pre {
   }
 }
 
+@include media-breakpoint-up(md) {
+  pre:hover .btn-copy {
+    visibility: visible !important;
+  }
+}
+
 .btn-copy {
   transition: opacity 0.3s ease-in-out;
+  visibility: hidden !important;
   position: absolute;
   right: 0.25rem;
   top: 0.25rem;
@@ -71,8 +78,13 @@ pre {
   font-size: $font-size-sm;
   padding: 0.25rem 0.5rem;
   color: $color-btn-text;
-  background-color: black;
+  background-color: #000000;
   border-color: $color-btn-border;
+}
+.btn-copy:hover {
+  color: $color-btn-text;
+  background-color: lighten(#000000, 5%);
+  border-color: lighten($color-btn-border, 15%);
 }
 
 .btn-copy::after {
