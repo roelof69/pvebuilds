@@ -39,7 +39,7 @@ SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust) [
 ABS = Ward armour perks and potions
 <br><br>
 
-Your absorption is the value of: ((Affixes =<50%)+Status Effects) + ABS
+Your absorption is the value of: ((Affixes 50%<= ) + Status Effects) + ABS
 
 ```
 MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ABS
