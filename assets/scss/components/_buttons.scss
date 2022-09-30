@@ -86,7 +86,6 @@ pre {
   color: white;
   background-color: lighten(black, 5%);
   border-color: lighten(#fbbc69, 15%);
-  // box-shadow: none;
 }
 
 .btn-copy:active,
@@ -96,10 +95,10 @@ pre {
   border-color: lighten(#fbbc69, 15%);
 }
 
-// .btn-copy:active:focus,
-// .btn-copy.active:focus {
-//   box-shadow: none;
-// }
+ .btn-copy:active:focus,
+ .btn-copy.active:focus {
+   box-shadow: none;
+ }
 
 @include media-breakpoint-up(md) {
   pre:hover .btn-copy {
@@ -109,24 +108,15 @@ pre {
 
 .btn-copy::after {
   content: "Copy";
-  color: white;
-  background-color: black;
-  border-color: #fbbc69;  
 }
 
 .btn-copy:hover::after {
   content: "Copy";
-  color: white;
-  background-color: lighten(black, 5%);
-  border-color: lighten(#fbbc69, 15%);
 }
 
 .btn-copy:focus::after,
 .btn-copy:active::after {
   content: "Copied";
-  color: white;
-  background-color: black;
-  border-color: #fbbc69;
 }
 
 .collapsible-sidebar {
