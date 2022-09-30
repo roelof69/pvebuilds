@@ -61,12 +61,6 @@ pre {
   }
 }
 
-@include media-breakpoint-up(md) {
-  pre:hover .btn-copy {
-    visibility: visible !important;
-  }
-}
-
 .btn-copy {
   transition: opacity 0.3s ease-in-out;
   visibility: hidden !important;
@@ -78,29 +72,58 @@ pre {
   font-size: $font-size-sm;
   padding: 0.25rem 0.5rem;
   color: $color-btn-text;
-  background-color: #000000;
+  background-color: $color-btn-bg;
   border-color: $color-btn-border;
 }
+
 .btn-copy:hover {
   color: $color-btn-text;
-  background-color: lighten(#000000, 5%);
+  background-color: lighten($color-btn-bg, 5%);
   border-color: lighten($color-btn-border, 15%);
+}
+
+.btn-copy:focus {
+  color: $color-btn-text;
+  background-color: $color-btn-bg;
+  border-color: lighten($color-btn-border, 15%);
+  box-shadow: none;
+}
+
+.btn-copy:active,
+.btn-copy.active {
+  color: $color-btn-text;
+  background-color: $color-btn-bg;
+  border-color: lighten($color-btn-border, 15%);
+}
+
+.btn-copy:active:focus,
+.btn-copy.active:focus {
+  box-shadow: none;
+}
+
+@include media-breakpoint-up(md) {
+  pre:hover .btn-copy {
+    visibility: visible !important;
+  }
 }
 
 .btn-copy::after {
   content: "Copy";
-
+  display: block;
+  color: $color-btn-text;
 }
 
 .btn-copy:hover::after {
   content: "Copy";
-
+  display: block;
+  color: $color-btn-text;
 }
 
 .btn-copy:focus::after,
 .btn-copy:active::after {
   content: "Copied";
-
+  display: block;
+  color: $color-btn-text;
 }
 
 .collapsible-sidebar {
@@ -124,6 +147,7 @@ pre {
   color: $body-color;
   background-color: transparent;
   outline: 0;
+  box-shadow: none;
 }
 
 .btn-toggle::before {

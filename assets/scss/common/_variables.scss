@@ -15,7 +15,8 @@ $black:    #000000;
 $yellow:   #ffe000;
 $black:    #1d2d35;
 $beige:    #fbf7f0;
-$m11: #fbbc69;
+$m11:      #fbbc69;
+
 // $red:      #e55235;
 $purple:   #5d2f86;
 $brown:    #aa9c84;
@@ -151,8 +152,8 @@ $card-border-color:                 $gray-200;
 //
 // Define alert colors, border radius, and padding.
 
-$alert-padding-y:                   0.5rem;
-$alert-padding-x:                   0;
+$alert-padding-y:                   $spacer;
+$alert-padding-x:                   $spacer * 1.5;
 $alert-margin-bottom:               0;
 $alert-border-radius:               0;
 $alert-link-font-weight:            $headings-font-weight;
