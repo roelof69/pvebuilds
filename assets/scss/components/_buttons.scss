@@ -91,8 +91,7 @@ pre {
 .btn-copy:active,
 .btn-copy.active {
   color: white;
-  background-color: lighten(black, 5%);
-  border-color: lighten(#fbbc69, 15%);
+
 }
 
  .btn-copy:active:focus,
@@ -112,11 +111,23 @@ pre {
 
 .btn-copy:hover::after {
   content: "Copy";
+  z-index: 10;
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-sm;
+  color: white;
+  background-color: lighten(black, 5%);
+  border-color: #fbbc69;
 }
 
 .btn-copy:focus::after,
 .btn-copy:active::after {
   content: "Copied";
+  z-index: 10;
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-sm;
+  color: white;
+  background-color: lighten(black, 5%);
+  border-color: #fbbc69;
 }
 
 .collapsible-sidebar {
