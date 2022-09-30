@@ -77,23 +77,23 @@ pre {
 }
 
 .btn-copy:hover {
-  color: $color-btn-text;
+  color: white;
   background-color: lighten(black, 5%);
   border-color: lighten(#fbbc69, 15%);
 }
 
 .btn-copy:focus {
-  color: $color-btn-text;
-  background-color: $color-btn-bg;
-  border-color: lighten($color-btn-border, 15%);
+  color: white;
+  background-color: lighten(black, 5%);
+  border-color: lighten(#fbbc69, 15%);
   box-shadow: none;
 }
 
 .btn-copy:active,
 .btn-copy.active {
-  color: $color-btn-text;
-  background-color: $color-btn-bg;
-  border-color: lighten($color-btn-border, 15%);
+  color: white;
+  background-color: lighten(black, 5%);
+  border-color: lighten(#fbbc69, 15%);
 }
 
 .btn-copy:active:focus,
