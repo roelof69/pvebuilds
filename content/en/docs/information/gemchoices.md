@@ -36,13 +36,13 @@ AF = Affixes (Gems)
 
 SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust) [50% Cap]
 
-ARM = Ward armour perks
+ABS = Ward armour perks and potions
 <br><br>
 
-Your absorption is the value of: (Affixes + Status Effects) + Ward Perks.
+Your absorption is the value of: ((Affixes =<50%)+Status Effects) + ABS
 
 ```
-MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ARM
+MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ABS
 ```
 
 
