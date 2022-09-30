@@ -34,12 +34,12 @@ This means that if you have, for example, 50% Nature Resistance and you apply 30
 
 AF = Affixes (Gems)
 
-SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust)
+SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust) [50% Cap]
 
 ARM = Ward armour perks
 <br><br>
 
-Your minimum resistance is set to the maximum of (AF+SE), with AF being capped at 50% unless you exceed it naturally.
+Your absorption is the value of: (Affixes + Status Effects) + Ward Perks.
 
 ```
 MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ARM
