@@ -124,7 +124,6 @@ pre {
 .btn-copy:focus::after,
 .btn-copy:active::after {
   content: "Copied";
-  display: block;
   color: white;
   background-color: black;
   border-color: #fbbc69;
