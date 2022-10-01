@@ -127,7 +127,7 @@ toc: false
     parent: ["pvebuilds.xyz"]
   };
   var options2 = {
-    channel: "ulfhednar",
+    channel: "genedictb",
     width: 1280,
     height: 720,
     parent: ["pvebuilds.xyz"]
