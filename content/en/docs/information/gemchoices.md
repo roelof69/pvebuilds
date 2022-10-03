@@ -28,7 +28,7 @@ This means that if you have, for example, 50% Nature Resistance and you apply 30
   
 
 ### Damage absorption formula
-Credit to <t style="color:#fbbc69;">Mixed Nuts</t>.
+Credit to <a href="https://discord.com/users/205096956941434880"><u>Mixed Nuts</u></a>.
 
 -- This the best guess at the logic behind damage absorption in-game.
 <br>
@@ -37,16 +37,16 @@ Credit to <t style="color:#fbbc69;">Mixed Nuts</t>.
 
 - SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust)
 
-- ABS = Ward armour perks and potions
+- ABSVitals = Ward armour perks and potions
 
 ```
-MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ABS
+MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ABSVitals
 ```
 <br>
 
-Put simply, your absorption is: (AF + SE) + ABS
+Put simply, your absorption is: **(AF + SE)** + ABSVitals
 
-- AF + SE is capped at 50%, unless AF is over 50% as mentioned above.
+- **AF + SE** is capped at 50%, unless AF is over 50% as mentioned above.
 
 <br>
 
