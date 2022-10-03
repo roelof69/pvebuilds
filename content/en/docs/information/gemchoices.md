@@ -28,41 +28,43 @@ This means that if you have, for example, 50% Nature Resistance and you apply 30
   
 
 ### Damage absorption formula
+Credit to <t style="color:#fbbc69;">Mixed Nuts</t>.
 
-
+-- This the best guess at the logic behind damage absorption in-game.
 <br>
 
-AF = Affixes (Gems)
+- AF = Affixes (Gems)
 
-SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust) [50% Cap]
+- SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust)
 
-ABS = Ward armour perks and potions
-<br><br>
-
-Your absorption is the value of: ((Affixes 50%<= ) + Status Effects) + ABS
+- ABS = Ward armour perks and potions
 
 ```
 MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ABS
 ```
+<br>
 
+Put simply, your absorption is: (AF + SE) + ABS
+
+- AF + SE is capped at 50%, unless AF is over 50% as mentioned above.
+
+<br>
+
+---
 
 ## Ideal gems based on elemental absorption %
 ### 58.1% Elemental Absorption
-If you have an amulet or shield with **elemental protection** it's worth it to go above the 50% cap. Gemstone Dust also stacks with your 58.1% resistance, making this setup by far the most consistent. 
+If you have an amulet or shield with **elemental protection** it's worth it to go above the 50% cap. Ward potions also stacks with your 58.1% resistance, making this setup by far the most consistent. (Gemstone Dust & Oakflesh Balm are counted as fortify %)
 
 | Fortify 	|    Gem Choice   	| ElementalAbs 	| PhysicalAbs 	| TotalAbs 	|
 |:-------:	|:---------------:	|:------------:	|:-----------:	|:--------:	|
 |   35%   	|    8Specific    	|     58.1%    	|     35%     	|   46.6%  	|
-|   35%   	|    8Specific    	|     83.1% w/Strong Gemstone Dust    	|     35%     	|   **59.1%**  	|
-|   35%   	|    8Specific    	|     93.1% w/Powerful Gemstone Dust    	|     35%     	|   **64.1%**  	|
 |   50%   	|    8Specific    	|     58.1%    	|     50%     	|   54.1%  	|
-|   50%   	|    8Specific    	|     83.1% w/Strong Gemstone Dust   	|     50%     	|   **66.6%**  	|
-|   50%   	|    8Specific    	|     93.1% w/Powerful Gemstone Dust    	|     50%     	|   **71.6%**  	|
 
 
 
 ### Sub 50% Base Absorption
-If you're unable to achieve the 50% breakpoint, you should pick gems depending on how much fortify you can reliably apply. Below is a table of the ideal gem choices for each fortify %.
+If you're unable to achieve the 50% breakpoint, you should pick gems based on how much fortify you can reliably apply. Below is a table of the ideal gem choices for each fortify %.
 
 | Fortify 	|    Gem Choice   	| ElementalAbs 	| PhysicalAbs 	| TotalAbs 	|
 |:-------:	|:---------------:	|:------------:	|:-----------:	|:--------:	|
