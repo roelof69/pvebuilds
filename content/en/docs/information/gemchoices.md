@@ -28,7 +28,7 @@ This means that if you have, for example, 50% Nature Resistance and you apply 30
   
 
 ### Damage absorption formula
-Credit to <a href="https://discord.com/users/205096956941434880"><u>Mixed Nuts</u></a>.
+Credit to <a href="https://discord.com/users/205096956941434880"><t>Mixed Nuts</t></a>.
 
 -- This the best guess at the logic behind damage absorption in-game.
 <br>
