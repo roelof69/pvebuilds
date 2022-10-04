@@ -5,4 +5,5 @@
 {{- end }}
 
 
-/docs/information       /info
+# Redirect with a 301
+/docs/information/*     /info/:splat    301
