@@ -7,7 +7,7 @@ url = "/"
 name = "High Level PvE"
 weight = 10
 identifier = "builds"
-url = "/docs/builds/"
+url = "/builds/"
 
 [[main]]
 name = "Information"
