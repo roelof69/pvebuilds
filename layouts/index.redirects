@@ -5,5 +5,7 @@
 {{- end }}
 
 
-# Redirect with a 200
- https://pvebuilds.xyz/info/*  https://pvebuilds.xyz/docs/information/:splat    200!
+# _redirects
+https://pvebuilds.xyz/docs/information/*    https://pvebuilds.xyz/nw/info/:splat    301!
+https://pvebuilds.xyz/docs/*     https://pvebuilds.xyz/nw/:splat     301!
+https://pvebuilds.xyz/worldrecords/*    https://pvebuilds.xyz/records/:splat    301!
