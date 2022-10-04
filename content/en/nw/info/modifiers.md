@@ -1,15 +1,17 @@
 ---
 title: "Mutators"
 description: "Mutation 10 Mutators/Modifiers."
+lead: "Each mutated expedition has three mutators applied:"
 weight: 11
 toc: true
 ---
 
-Each mutated expedition has three mutators applied:
 1. Mutation - Elemental type for the week
 2. Promotion - Applies buffs to mobs
 3. Curse - Applies debuffs to players
 
+---
+---
 
 ## Mutation (Element)
 
@@ -20,10 +22,13 @@ Each mutated expedition has three mutators applied:
 <img src="https://i.imgur.com/MumxhFK.png"></img>
 
 ### Nature - Overgrown
-
+<img src="https://i.imgur.com/8JxrIN6.png"></img>
 
 ### Ice - Icebound
 <img src="https://i.imgur.com/dmrRUzZ.png"></img>
+
+---
+---
 
 ## Promotion (Mob Buffs)
 
@@ -31,7 +36,7 @@ Each mutated expedition has three mutators applied:
 <img src="https://i.imgur.com/PaP8U8P.png"></img>
 
 ### Savage
-coming soon...
+<img src="https://i.imgur.com/xlf1RmP.png"></img>
 
 ### Oppressive
 <img src="https://i.imgur.com/TUASR7B.png"></img>
@@ -39,16 +44,19 @@ coming soon...
 ### Barbaric
 <img src="https://i.imgur.com/ubz5qm8.png"></img>
 
+---
+---
+
 ## Curse (Player Debuffs)
 
 ### Desiccated
 <img src="https://i.imgur.com/7ZTzuol.png"></img>
 
 ### Censored
-coming soon...
+<img src="https://i.imgur.com/ksKRURa.png"></img>
 
 ### Fiendish
-<img src="https://i.imgur.com/dmrRUzZ.png"></img>
+<img src="https://i.imgur.com/9SsTjjw.png"></img>
 
 ### Frenzied
 <img src="https://i.imgur.com/aBOx4Ti.png"></img>
