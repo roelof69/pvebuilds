@@ -216,9 +216,9 @@ SnS+WH | Hatchet+Spear | Rapier+IG | Hatchet+GA | LS+VG
 
 ---
 
-## 14:10 - The Lazarus Instrumentality
+## 13:04 - The Lazarus Instrumentality
 
-**[Reddit](https://www.reddit.com/r/newworldgame/comments/xcjv1p/wr_lazarus_m10_speedrun_14m10/) || [VOD](https://www.youtube.com/watch?v=JTJHGpm5fIo)**
+**[Reddit](https://www.reddit.com/r/newworldgame/comments/xuuljv/wr_lazarus_m10_speedrun_13m04/) || [VOD](https://www.youtube.com/watch?v=yrjU7_QVRmE)**
 
 Server: **Nysa (EU)**
 
