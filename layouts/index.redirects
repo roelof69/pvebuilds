@@ -4,3 +4,6 @@
 {{- end }}
 {{- end }}
 
+
+# Redirect with a 200
+ https://pvebuilds.xyz/info/*  https://pvebuilds.xyz/docs/information/:splat    200!
