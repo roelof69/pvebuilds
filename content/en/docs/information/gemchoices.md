@@ -16,7 +16,7 @@ The majority of damage in mutations is elemental, so in order to perform consist
 ## How the fortify cap works
 
 Each of your individual resistances are capped at 50%. Seen here in your inventory:<br><br>
-<img src="https://i.imgur.com/UBokXGg.png"> 
+<img src="https://i.imgur.com/UBokXGg.png"></img>
 <br><br>
 However, if you're able to achieve over 50% in this interface, via gems and protection perk, then the cap becomes the % displayed.
 <br><br>
