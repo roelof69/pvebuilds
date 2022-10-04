@@ -6,4 +6,4 @@
 
 
 # Redirect with a 301
-# https://pvebuilds.xyz/docs/information/*    https://pvebuilds.xyz/info/:splat   301!
+ https://pvebuilds.xyz/docs/information/*    https://pvebuilds.xyz/info/:splat   200!
