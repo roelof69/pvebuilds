@@ -14,32 +14,42 @@ Each mutated expedition has three mutators applied:
 ## Mutation (Element)
 
 ### Void - Eternal
+<img src="https://i.imgur.com/7I9KdsH.png"></img>
 
 ### Fire - Hellfire
+<img src="https://i.imgur.com/MumxhFK.png"></img>
 
 ### Nature - Overgrown
 
-### Ice - Icebound
 
+### Ice - Icebound
+<img src="https://i.imgur.com/dmrRUzZ.png"></img>
 
 ## Promotion (Mob Buffs)
 
 ### Indomitable
+<img src="https://i.imgur.com/PaP8U8P.png"></img>
 
 ### Savage
+coming soon...
 
 ### Oppressive
+<img src="https://i.imgur.com/TUASR7B.png"></img>
 
 ### Barbaric
-
+<img src="https://i.imgur.com/ubz5qm8.png"></img>
 
 ## Curse (Player Debuffs)
 
 ### Desiccated
+<img src="https://i.imgur.com/7ZTzuol.png"></img>
 
 ### Censored
+coming soon...
 
 ### Fiendish
+<img src="https://i.imgur.com/dmrRUzZ.png"></img>
 
 ### Frenzied
+<img src="https://i.imgur.com/aBOx4Ti.png"></img>
 
