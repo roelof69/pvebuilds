@@ -1,6 +1,7 @@
 ---
 title: "Garden of Genesis"
 lead: "M10 Speedrun Leaderboards."
+description: "Lazarus M10 Speedrun Leaderboard."
 weight: 101
 toc: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: "The Depths"
 lead: "M10 Speedrun Leaderboards."
+description: "Depths M10 Speedrun Leaderboard."
 weight: 140
 toc: false
 ---
