@@ -121,13 +121,13 @@ toc: false
 
 <script>
   var options = {
-    channel: "genedictb",
+    channel: "m11pve",
     width: 1280,
     height: 720,
     parent: ["pvebuilds.xyz"]
   };
   var options2 = {
-    channel: "frangie",
+    channel: "genedictb",
     width: 1280,
     height: 720,
     parent: ["pvebuilds.xyz"]
