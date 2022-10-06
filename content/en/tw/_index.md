@@ -5,13 +5,13 @@ weight: 10
 ---
 
 <style>#iframe-container {
-    position:fixed;
-    top: 135px;
-    left: 0px;
-    height:93vh;
-    width:100vw;
-    margin-top:-75px;
-    overflow:hidden;
+    position: fixed;
+    left: 0;
+    top: 0;            /* <<< No offset */
+    bottom: 0;         /* <<< Pull to the bottom for height */
+    margin: 60px 0 0; /* <<< gives room for the navbar */
+    width: 100vw;
+    overflow-y: scroll;
 }
 
 #iframe-container iframe {
