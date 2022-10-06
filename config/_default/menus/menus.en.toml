@@ -17,6 +17,13 @@ weight = 20
 parent = "builds"
 
 [[main]]
+name = "Leaderboards"
+url = "/nw/leaderboards"
+# url = "/docs/1.0/information/introduction/"
+weight = 50
+parent = "builds"
+
+[[main]]
 name = "Builds"
 weight = 40
 url = "/builds/"
