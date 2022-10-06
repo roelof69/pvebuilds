@@ -5,12 +5,12 @@ description: "Depths M10 Speedrun Leaderboard."
 weight: 140
 toc: false
 ---
-<!-- {{< details "#1 - 17:53 - M11" >}}
-Players: 
+<!-- {{< details "#1 - 14:15 - Benedicat" >}}
+Players: **Drexen | Benedict G. | Hrodgir | Riasq | Corisita**
 
-Weapons: 
+Weapons: SnS+WH | Hatchet+Spear | Rapier+IG | Hatchet+GA | LS+VG
 
-Server:
+Server: Nysa (EU)
 
 Mutation:
 
