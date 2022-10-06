@@ -8,16 +8,18 @@ toc: true
 
 ---
 
-## How Fortify Cap Works
+## How The Fortify Cap Works
 
 Each of your individual resistances are capped at 50%. Seen here in your inventory:<br><br>
 <img src="https://i.imgur.com/UBokXGg.png"></img>
 <br><br>
-However, if you're able to achieve over 50% in this interface, via gems and protection perk, then the cap becomes the % displayed.
+However, if you're able to achieve over 50% in this interface, via gems and protection perk, then your cap is set to the % displayed.
 <br><br>
-This means that if you have, for example, 50% Nature Resistance and you apply 30% Fortify:
+This means that if you have, for example, 52% Ice Resistance and you apply 30% Fortify:
 
-- You cannot increase your Nature Resistance above 50%, so the 30% Fortify is wasted.
+- Your Ice Resistance is set to 52%
+
+- You cannot increase your Ice Resistance above 52%, except via more gems, so the 30% Fortify is wasted.
   
 - 30% Fortify is applied to **all other resistances**, and is capped at 50% in each resistance.
   
@@ -27,7 +29,7 @@ This means that if you have, for example, 50% Nature Resistance and you apply 30
 ### Damage Absorption Formula
 Credit to <a href="https://discord.com/users/205096956941434880"><t>Mixed Nuts</t></a>.
 
--- This the best guess at the logic behind damage absorption in-game and is what the above calculator is based on.
+-- This the best guess at the logic behind damage absorption in-game and is what the below calculator is based on.
 <br>
 
 - AF = Affixes (Gems)
