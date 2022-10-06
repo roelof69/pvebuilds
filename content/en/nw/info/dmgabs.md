@@ -27,7 +27,7 @@ This means that if you have, for example, 52% Ice Resistance and you apply 30% F
 ---
 
 ### Damage Absorption Formula
-Credit to <a href="https://discord.com/users/205096956941434880"><t>Mixed Nuts</t></a>.
+Credit to <a href="https://discord.com/users/205096956941434880" target="_blank"><t>Mixed Nuts</t></a>.
 
 -- This the best guess at the logic behind damage absorption in-game and is what the below calculator is based on.
 <br>
@@ -77,11 +77,11 @@ height:770px;
 
 
 ## Absorption Calculator
-<p class="desktop">If you want to make a copy,&nbsp;<a href="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing"><t>click here</t></a>.</p>
+<p class="desktop">If you want to make a copy,&nbsp;<a href="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing" target="_blank"><t>click here</t></a>.</p>
 
 <div class="desktop">
 <iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing?&amp;rm=minimal&amp;single=true&amp;headers=false&amp;"></iframe>
 </div>
-<p class="mobile">Unfortunately the calculator isn't usable from mobile/windows this small, <a href="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing"><t>please tap here to use it</t></a>.</p>
+<p class="mobile">Unfortunately the calculator isn't usable from mobile/windows this small, <a href="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing" target="_blank"><t>please tap here to open it in a new tab</t></a>.</p>
 
 ---

@@ -190,7 +190,7 @@ Listed in order of fastest -> slowest expedition.
 ---
 
 ## 08:58 - Garden of Genesis
-**[VOD1](https://www.youtube.com/watch?v=dDpG-hSfmJ0) || [VOD2](https://www.youtube.com/watch?v=-eG2SRCqnGY)**
+**<a href="https://www.youtube.com/watch?v=dDpG-hSfmJ0" target="_blank">VOD1</a> || <a href="https://www.youtube.com/watch?v=-eG2SRCqnGY" target="_blank">VOD2</a>**
 
 Server: **Nysa (EU)**
 
@@ -203,8 +203,7 @@ Hatchet+IG | Hatchet+Spear | Hatchet+GA | Hatchet+VG | LS+VG
 ---
 
 ## 12:37 - Dynasty Shipyard
-
-**[VOD](https://www.youtube.com/watch?v=lps2Wz4dOjY)**
+**<a href="https://www.youtube.com/watch?v=lps2Wz4dOjY" target="_blank">VOD</a>**
 
 Server: **Nysa (EU)**
 
@@ -218,7 +217,7 @@ SnS+WH | Hatchet+Spear | Rapier+IG | Hatchet+GA | LS+VG
 
 ## 13:04 - The Lazarus Instrumentality
 
-**[Reddit](https://www.reddit.com/r/newworldgame/comments/xuuljv/wr_lazarus_m10_speedrun_13m04/) || [VOD](https://www.youtube.com/watch?v=yrjU7_QVRmE)**
+**<a href="https://www.reddit.com/r/newworldgame/comments/xuuljv/wr_lazarus_m10_speedrun_13m04/" target="_blank">Reddit</a> || <a href="https://www.youtube.com/watch?v=yrjU7_QVRmE" target="_blank">VOD</a>**
 
 Server: **Nysa (EU)**
 
@@ -232,7 +231,7 @@ Sns+WH | Rapier+Spear | Rapier+IG | WH+GA | LS+VG
 
 ## 17:53 - The Depths
 
-**[IMG](https://imgur.com/a/NAxcPEu)**
+**<a href="https://imgur.com/a/NAxcPEu" target="_blank">IMG</a>**
 
 Server: **Delos (AP)**
 
@@ -245,8 +244,7 @@ SnS+GA | Rapier+IG | Spear+Hatchet/GA | Rapier+Spear | LS+VG
 ---
 
 ## 18:15 - Barnacles and Blackpowder
-
-**[IMG](https://gyazo.com/614ca973056571e5fc422d6bab04d6f5)** || **[VOD](https://www.twitch.tv/videos/1600744357)**
+**<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_blank">IMG</a> || <a href="https://www.twitch.tv/videos/1600744357" target="_blank">VOD</a>**
 
 Server: **Delos (AP)**
 
@@ -259,8 +257,8 @@ Sword+WH/Hatchet | Hatchet+IG | WH+GA | Hatchet+GA | LS+VG
 ---
 
 ## 22:10 - Tempest's Heart
+**<a href="https://www.reddit.com/r/newworldgame/comments/xpdbie/wr_tempest_m10_speedrun_22m10/" target="_blank">IMG</a> || <a href="https://www.youtube.com/watch?v=FytVRgBbwmI" target="_blank">VOD</a>**
 
-**[IMG](https://www.reddit.com/r/newworldgame/comments/xpdbie/wr_tempest_m10_speedrun_22m10/)** || **[VOD](https://www.youtube.com/watch?v=FytVRgBbwmI)**
 
 Server: **Nysa (EU)**
 
