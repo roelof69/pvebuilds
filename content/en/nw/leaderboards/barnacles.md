@@ -24,6 +24,22 @@ Links: **<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_b
 
 ---
 
+{{< details "#2 - 20:38 - Uploaded by Bd3ricks & eRectile Dysfunct" >}}
+Players: **eRectile Dysfunct | Bd3ricks | Lilith Crane | Goldbergstein | Boostinn**
+
+Weapons: Sword+WH | Hatchet+GA | Hatchet+GA | Hatchet+GA | LS+VG
+
+Server: idk
+
+Mutation: Overgrown + Savage + Desiccated
+
+Links: **<a href="https://www.youtube.com/watch?v=baq7grO7WT8" target="_blank">DPS VOD</a> || <a href="https://www.youtube.com/watch?v=28y6sRNvnNY" target="_blank">Tank VOD</a>**
+
+{{< /details >}}
+
+
+---
+
 <br>
 <br>
 

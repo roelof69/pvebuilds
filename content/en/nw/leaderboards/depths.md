@@ -35,6 +35,21 @@ Links: **<a href="https://imgur.com/a/NAxcPEu" target="_blank">IMG</a>**
 
 ---
 
+{{< details "#3 - 19:41 - Uploaded by Bd3ricks" >}}
+Players: **eRectile Dysfunct | Bd3ricks | Lilith Crane | Goldbergstein | PandaWife**
+
+Weapons: Sword+WH | Hatchet+GA | Hatchet+GA | Hatchet+GA | LS+VG
+
+Server: idk
+
+Mutation: Icebound + Berserk + Frenzied
+
+Links: **<a href="https://www.youtube.com/watch?v=V573wLzpoSs" target="_blank">VOD</a>**
+
+{{< /details >}}
+
+---
+
 <br>
 <br>
 
