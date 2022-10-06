@@ -26,6 +26,8 @@ toc: true
 
 -- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_livelinesst5_v2" target="_blank">Liveliness  || Corrupted Bane + Vicious + Chain</a>
 
+-- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_afterthoughtt5_v2" target="_blank">Afterthought  || Lost Bane + Vicious + Chain</a>
+
 ---
 
 ### Hatchet
