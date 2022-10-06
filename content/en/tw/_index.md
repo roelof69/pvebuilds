@@ -11,7 +11,7 @@ weight: 10
     bottom: 0;         /* <<< Pull to the bottom for height */
     margin: 60px 0 0; /* <<< gives room for the navbar */
     width: 100vw;
-    overflow-y: scroll;
+    overflow: hidden;
 }
 
 #iframe-container iframe {
