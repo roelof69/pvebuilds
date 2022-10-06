@@ -6,9 +6,11 @@ weight: 30
 toc: true
 ---
 
-1. Mutation - Elemental type for the week
+1. **Mutation** - Elemental type for the week
 2. Promotion - Applies buffs to mobs
 3. Curse - Applies debuffs to players
+   
+- The Curse changes each week to match the Mutation (Element).
 
 ---
 ---
@@ -48,6 +50,7 @@ toc: true
 ---
 
 ## Curse (Player Debuffs)
+The Curse changes each week to match the Mutation (Element). These screenshots are mixed but the %'s remain the same. 
 
 ### Desiccated
 <img src="https://i.imgur.com/7ZTzuol.png"></img>
