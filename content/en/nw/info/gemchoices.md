@@ -6,84 +6,15 @@ weight: 20
 toc: true
 ---
 
-## Armour gems
+## Armour Gems
 The ideal gem loadout is 58.1% Elemental resist, via 8 mutation-specific gems with elemental protection on amulet or shield.
 
 The majority of damage in mutations is elemental, so in order to perform consistently it's important to have a high base resistance against the mutation. 
 
-
-
-## How the fortify cap works
-
-Each of your individual resistances are capped at 50%. Seen here in your inventory:<br><br>
-<img src="https://i.imgur.com/UBokXGg.png"></img>
-<br><br>
-However, if you're able to achieve over 50% in this interface, via gems and protection perk, then the cap becomes the % displayed.
-<br><br>
-This means that if you have, for example, 50% Nature Resistance and you apply 30% Fortify:
-
-- You cannot increase your Nature Resistance above 50%, so the 30% Fortify is wasted.
-  
-- 30% Fortify is applied to **all other resistances**, and is capped at 50% in each resistance.
-  
-## Absorption Calculator
-The sheet for this calculator can be found [here](https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing) if you want to make a copy.
-
-<div style="display:flex;height:700px;width:105%;overflow:hidden;">
-<iframe width="100%" height="100%" style="margin-left:-48px;margin-top:-25px;" src="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing?&amp;rm=minimal&amp;single=true&amp;headers=false&amp;"></iframe>
-</div>
-
-
-### Damage absorption formula
-Credit to <a href="https://discord.com/users/205096956941434880"><t>Mixed Nuts</t></a>.
-
--- This the best guess at the logic behind damage absorption in-game.
-<br>
-
-- AF = Affixes (Gems)
-
-- SE = Status Effects (Fortify via healer, abilities, oakflesh or gemstone dust)
-
-- ABSVitals = Ward armour perks and potions
-
-```
-MIN(MAX(AF+SE,MIN(AF,-0.3)),MAX(AF,0.5))+ABSVitals
-```
-<br>
-
-Put simply, your absorption is: **(AF + SE)** + ABSVitals
-
-- **AF + SE** is capped at 50%, unless AF is over 50% as mentioned above.
-
-<br>
-
+See [here](/nw/info/dmgabs) for more information about damage absorption.
 
 ---
-
-## Ideal gems based on elemental absorption %
-### 58.1% Elemental Absorption
-If you have an amulet or shield with **elemental protection** it's worth it to go above the 50% cap. Ward potions also stacks with your 58.1% resistance, making this setup by far the most consistent. (Gemstone Dust & Oakflesh Balm are counted as fortify %)
-
-| Fortify 	|    Gem Choice   	| ElementalAbs 	| PhysicalAbs 	| TotalAbs 	|
-|:-------:	|:---------------:	|:------------:	|:-----------:	|:--------:	|
-|   35%   	|    8Specific    	|     58.1%    	|     35%     	|   46.6%  	|
-|   50%   	|    8Specific    	|     58.1%    	|     50%     	|   54.1%  	|
-
-
-
-### Sub 50% Base Absorption
-If you're unable to achieve the 50% breakpoint, you should pick gems based on how much fortify you can reliably apply. Below is a table of the ideal gem choices for each fortify %.
-
-| Fortify 	|    Gem Choice   	| ElementalAbs 	| PhysicalAbs 	| TotalAbs 	|
-|:-------:	|:---------------:	|:------------:	|:-----------:	|:--------:	|
-|   10%   	| 6Specific,2Onyx 	|      46%     	|     15%     	|   30.5%  	|
-|   20%   	| 5Specific,3Onyx 	|      50%     	|    27.5%    	|   38.8%  	|
-|   30%   	| 3Specific,5Onyx 	|      48%     	|    42.5%    	|   45.3%  	|
-|   35%   	| 2Specific,6Onyx 	|      47%     	|     50%     	|   48.5%  	|
-|   40%   	|   4Opals,4Onyx  	|      50%     	|     50%     	|   50.0%  	|
-|   50%   	|       N/A       	|      50%     	|     50%     	|   50.0%  	|
-
-
+---
 
 ## Weapon Gems
 ### DPS
@@ -105,10 +36,15 @@ examples:
 
 -- Spear vs. Ancients = (30% - 0%)/2 = 15% (Topaz is worth using for the consistent uptime)
 
+---
 
 ### Healer
 Healers should have a Cut Pristine Diamond in their Lifestaff, and a mobtype weakness gem in their Void Gauntlet.
 
+---
+
 ### Tank
 Tanks should be using a Cut Pristine Carnelian in **both** weapons.
+
+- Alternatively, DPS Tanks can use <a href="https://nwdb.info/db/perk/perkid_earring_threatadd" target="_blank">Despised</a> on their Earring while using the same gems as a DPS. You lose your taunts, but as long as you attack you will hold aggro (Not viable for The Depths).
 
