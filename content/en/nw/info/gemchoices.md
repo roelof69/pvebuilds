@@ -26,6 +26,13 @@ This means that if you have, for example, 50% Nature Resistance and you apply 30
   
 - 30% Fortify is applied to **all other resistances**, and is capped at 50% in each resistance.
   
+## Absorption Calculator
+The sheet for this calculator can be found [here](https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing) if you want to make a copy.
+
+<div style="display:flex;height:700px;width:105%;overflow:hidden;">
+<iframe width="100%" height="100%" style="margin-left:-48px;margin-top:-25px;" src="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing?&amp;rm=minimal&amp;single=true&amp;headers=false&amp;"></iframe>
+</div>
+
 
 ### Damage absorption formula
 Credit to <a href="https://discord.com/users/205096956941434880"><t>Mixed Nuts</t></a>.
@@ -49,6 +56,7 @@ Put simply, your absorption is: **(AF + SE)** + ABSVitals
 - **AF + SE** is capped at 50%, unless AF is over 50% as mentioned above.
 
 <br>
+
 
 ---
 
@@ -88,7 +96,7 @@ For all DPS it's ideal to use a Cut Pristine Opal **or** Diamond **unless** the 
 (30% - WPN%)/2 >= 15%
 ```
 - 30% = The maximum % bonus any elemental type will do.
-- WPN% = The % bonus your weapon does against the mobtype. [Found here](/docs/information/mobresists/)
+- WPN% = The % bonus your weapon does against the mobtype. [Found here](/nw/info/mobresists/)
 - Divide by 2 as elemental gems convert half of your damage.
   
 examples:
