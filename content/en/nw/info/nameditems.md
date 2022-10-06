@@ -65,6 +65,12 @@ toc: true
 
 ---
 
+### Warhammer
+
+-- <a href="https://ptr.nwdb.info/db/item/2hwarhammer_batheqetscudgelt5_v2" target="_blank">Batheqet's Cudgel  || Ancient Bane + Thwarting Strikes + Sundering Shockwave</a>
+
+---
+
 ### Ice Gauntlet
 
 -- <a href="https://nwdb.info/db/item/1hgauntletice_crystalfloet5" target="_blank">Crystal Floe  || Keen + Vicious + Keenly Empowered</a>
