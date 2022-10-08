@@ -44,7 +44,7 @@ Server: Delos (AP)
 
 Mutation: Eternal + Barbaric + Censored
 
-Links: **<a href="https://www.youtube.com/watch?v=TFBRAVg3vjo" target="_blank">VOD</a>**
+Links: **<a href="https://www.youtube.com/watch?v=TFBRAVg3vjo" target="_blank">VOD</a>** || **<a href="https://twitch.tv/M11PvE" target="_blank">M11PvE on Twitch</a>**
 {{< /details >}}
 
 ---

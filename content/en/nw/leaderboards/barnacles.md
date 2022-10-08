@@ -17,7 +17,7 @@ Mutation: Overgrown + Savage + Desiccated
 
 **Note: This WR has a skip at the end that is not always doable, and is estimated to save up to 2 minutes.**
 
-Links: **<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_blank">IMG</a> || <a href="https://www.twitch.tv/videos/1600744357" target="_blank">VOD</a>**
+Links: **<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_blank">IMG</a> || <a href="https://www.twitch.tv/videos/1600744357" target="_blank">VOD</a>** || **<a href="https://twitch.tv/M11PvE" target="_blank">M11PvE on Twitch</a>**
 
 {{< /details >}}
 
@@ -25,11 +25,11 @@ Links: **<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_b
 ---
 
 {{< details "#2 - 20:38 - Uploaded by Bd3ricks & eRectile Dysfunct" >}}
-Players: **eRectile Dysfunct | Bd3ricks | Lilith Crane | Goldbergstein | Boostinn**
+Players: **eRectile Dysfunct | Bd3ricks | Lilith Crane | Goldbergstein | Boostin**
 
 Weapons: Sword+WH | Hatchet+GA | Hatchet+GA | Hatchet+GA | LS+VG
 
-Server: idk
+Server: Orofena (USE)
 
 Mutation: Overgrown + Savage + Desiccated
 
