@@ -20,6 +20,23 @@ Links:
 
 --- -->
 
+{{< details "#1 - 16:31 - Uploaded by Bd3ricks" >}}
+Players: **Bd3ricks | Lilith Crane | Goldbergstein | Boostin | PandaWife**
+
+Weapons: SnS+WH | Hatchet+Spear | Hatchet+GA | Hatchet+Spear | LS+VG
+
+Server: Orofena (USE)
+
+Mutation: Hellfire + Indomitable + Censored
+
+Links: **<a href="https://www.youtube.com/watch?v=V8UvUZyM8As" target="_blank">VOD</a>** || **<a href="https://www.youtube.com/user/MrBdericks" target="_blank">Bdericks on YT</a>**
+
+{{< /details >}}
+
+---
+
+
+
 {{< details "#2 - 17:53 - M11" >}}
 Players: **SforSkelly | Perihelia | mynameisjono1 | Affluent | Roelof xd**
 
@@ -29,26 +46,12 @@ Server: Delos (AP)
 
 Mutation: Hellfire + Unsure
 
-Links: **<a href="https://imgur.com/a/NAxcPEu" target="_blank">IMG</a>**
+Links: **<a href="https://imgur.com/a/NAxcPEu" target="_blank">IMG</a>** || **<a href="https://twitch.tv/M11PvE" target="_blank">M11PvE on Twitch</a>**
 
 {{< /details >}}
 
 ---
 
-{{< details "#3 - 19:41 - Uploaded by Bd3ricks" >}}
-Players: **eRectile Dysfunct | Bd3ricks | Lilith Crane | Goldbergstein | PandaWife**
-
-Weapons: Sword+WH | Hatchet+GA | Hatchet+GA | Hatchet+GA | LS+VG
-
-Server: idk
-
-Mutation: Icebound + Berserk + Frenzied
-
-Links: **<a href="https://www.youtube.com/watch?v=V573wLzpoSs" target="_blank">VOD</a>**
-
-{{< /details >}}
-
----
 
 <br>
 <br>

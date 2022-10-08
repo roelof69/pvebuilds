@@ -229,17 +229,15 @@ Sns+WH | Rapier+Spear | Rapier+IG | WH+GA | LS+VG
 
 ---
 
-## 17:53 - The Depths
+## 16:31 - The Depths
 
-**<a href="https://imgur.com/a/NAxcPEu" target="_blank">IMG</a>**
+**<a href="https://www.youtube.com/watch?v=V8UvUZyM8As" target="_blank">VOD</a>**
 
-Server: **Delos (AP)**
+Server: **Orofena (USE)**
 
-Company: **M11**
+**Bd3ricks | Lilith Crane | Goldbergstein | Boostin | PandaWife**
 
-**SforSkelly | Perihelia | mynameisjono1 | Affluent | Roelof xd**
-
-SnS+GA | Rapier+IG | Spear+Hatchet/GA | Rapier+Spear | LS+VG
+SnS+WH | Hatchet+Spear | Hatchet+GA | Hatchet+Spear | LS+VG
 
 ---
 
