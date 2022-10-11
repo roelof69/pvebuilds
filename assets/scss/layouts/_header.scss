@@ -140,7 +140,7 @@ button#doks-versions {
 
 // .header-bar {
 //   border-top: 4px solid;
-//   border-image-source: linear-gradient(90deg, $primary, #fbbc69 50%, $primary);
+//   border-image-source: linear-gradient(90deg, $primary, #fdb402 50%, $primary);
 //   border-image-slice: 1;
 // }
 
@@ -191,7 +191,7 @@ button#doks-versions {
 
 .form-control.is-search {
   padding-right: 4rem;
-  border: 1px solid transparent;
+  border: 1px solid #fdb402;
   background: $gray-100;
 
   @include media-breakpoint-up(md) {
