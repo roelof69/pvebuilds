@@ -229,15 +229,15 @@ Sns+WH | Rapier+Spear | Rapier+IG | WH+GA | LS+VG
 
 ---
 
-## 16:31 - The Depths
+## 13:11 - The Depths
 
-**<a href="https://www.youtube.com/watch?v=V8UvUZyM8As" target="_blank">VOD</a>**
+**<a href="https://www.youtube.com/watch?v=x8oNOUMBZE0" target="_blank">VOD</a>**
 
-Server: **Orofena (USE)**
+Server: **Nysa (EU)**
 
-**Bd3ricks | Lilith Crane | Goldbergstein | Boostin | PandaWife**
+**Drexen | Benedict G. | Hrodgir | Riasq | Corisita**
 
-SnS+WH | Hatchet+Spear | Hatchet+GA | Hatchet+Spear | LS+VG
+SnS+WH | Hatchet+GA | Hatchet+Spear | Hatchet+GA | LS+VG
 
 ---
 

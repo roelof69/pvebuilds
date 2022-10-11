@@ -5,22 +5,22 @@ description: "Depths M10 Speedrun Leaderboard."
 weight: 140
 toc: false
 ---
-<!-- {{< details "#1 - 14:15 - Benedicat" >}}
+{{< details "#1 - 13:11 - Benedicat" >}}
 Players: **Drexen | Benedict G. | Hrodgir | Riasq | Corisita**
 
-Weapons: SnS+WH | Hatchet+Spear | Rapier+IG | Hatchet+GA | LS+VG
+Weapons: SnS+WH | Hatchet+GA | Hatchet+Spear | Hatchet+GA | LS+VG
 
 Server: Nysa (EU)
 
-Mutation:
+Mutation: Hellfire + Indomitable + Censored
 
-Links:
+Links: **<a href="https://www.youtube.com/watch?v=x8oNOUMBZE0" target="_blank">VOD</a>** || **<a href="https://twitch.tv/genedictb" target="_blank">GenedictB on Twitch</a>**
 
 {{< /details >}}
 
---- -->
+---
 
-{{< details "#1 - 16:31 - Uploaded by Bd3ricks" >}}
+{{< details "#2 - 16:31 - Uploaded by Bd3ricks" >}}
 Players: **Bd3ricks | Lilith Crane | Goldbergstein | Boostin | PandaWife**
 
 Weapons: SnS+WH | Hatchet+Spear | Hatchet+GA | Hatchet+Spear | LS+VG
@@ -37,7 +37,7 @@ Links: **<a href="https://www.youtube.com/watch?v=V8UvUZyM8As" target="_blank">V
 
 
 
-{{< details "#2 - 17:53 - M11" >}}
+{{< details "#3 - 17:53 - M11" >}}
 Players: **SforSkelly | Perihelia | mynameisjono1 | Affluent | Roelof xd**
 
 Weapons: SnS+GA | Rapier+IG | Spear+Hatchet/GA | Rapier+Spear | LS+VG
