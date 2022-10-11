@@ -78,7 +78,7 @@ alertDismissable = true
 # alertText = "Welcome to the new and improved pvebuilds.xyz! There will a lot added in the coming weeks...<br> Thanks for visiting -Roelof"
 
 [sections]
-  sectionNav = ["nw", "records", "builds"]
+  sectionNav = ["nw"]
 
 [options]
   lazySizes = true
