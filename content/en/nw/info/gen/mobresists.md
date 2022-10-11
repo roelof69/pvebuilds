@@ -1,7 +1,7 @@
 ---
 title: "Mob Weaknesses"
 description: "New World Mob Weakness/Resistance."
-weight: 40
+weight: 50
 toc: false
 ---
 

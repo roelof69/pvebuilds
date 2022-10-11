@@ -2,7 +2,7 @@
 title: "Lazarus Instrumentality"
 lead: "M10 Speedrun Leaderboards."
 description: "Lazarus M10 Speedrun Leaderboard."
-weight: 110
+weight: 2020
 toc: false
 ---
 

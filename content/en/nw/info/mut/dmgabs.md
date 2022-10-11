@@ -2,7 +2,7 @@
 title: "Damage Absorption"
 description: "New World Damage Absorption"
 lead: "Explanation of how damage absorption/mitigation functions"
-weight: 10
+weight: 110
 toc: true
 ---
 

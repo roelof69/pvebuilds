@@ -2,7 +2,7 @@
 title: "Mutators"
 description: "Mutation 10 Mutators/Modifiers."
 lead: "Each mutated expedition has three mutators applied:"
-weight: 30
+weight: 100
 toc: true
 ---
 

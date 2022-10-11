@@ -1,8 +1,8 @@
 ---
-title: "Armour Weight"
+title: "Ideal Armour Weight"
 description: "Ideal Weight Distributions New World"
 lead: "Ideal weight distributions."
-weight: 50
+weight: 60
 toc: true
 ---
 

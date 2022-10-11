@@ -2,7 +2,7 @@
 title: "Barnacles & Blackpowder"
 lead: "M10 Speedrun Leaderboards."
 description: "Barnacles M10 Speedrun Leaderboard."
-weight: 150
+weight: 2050
 toc: false
 ---
 
