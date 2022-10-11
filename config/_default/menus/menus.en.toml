@@ -1,7 +1,7 @@
-[[main]]
-name = "Home"
-weight = 1
-url = "/"
+# [[main]]
+# name = "Home"
+# weight = 1
+# url = "/"
 
 [[main]]
 name = "High Level PvE"

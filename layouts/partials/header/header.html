@@ -11,9 +11,10 @@
 <header class="navbar navbar-expand-lg navbar-light doks-navbar">
   <nav class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }} flex-wrap flex-lg-nowrap" aria-label="Main navigation">
 
-    {{/*  <a class="navbar-brand order-0" href="{{ "/" | relLangURL }}" aria-label="{{ .Site.Params.Title }}">
-      {{ .Site.Params.Title }}
-    </a>  */}}
+      <a href="/" class="nav flex-column flex-lg-row align-items-lg-center mt-2 mt-lg-0 ms-lg-2 me-lg-auto">
+        <img style="margin:0px;" src="/36x36.png" height="100%" width="100%">
+      </a> 
+
 
     {{ if (in .Site.Params.sections.sectionNav .Section) -}}
     <button class="btn btn-link order-0 ms-auto d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">

@@ -2,7 +2,7 @@
 
 ## Homepage
 title = "M11"
-titleSeparator = "-"
+titleSeparator = "|"
 titleAddition = "The #1 New World PvE Company"
 description = "M11 create and maintain PvE Builds and Information for Amazon's New World."
 
@@ -10,7 +10,7 @@ description = "M11 create and maintain PvE Builds and Information for Amazon's N
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["M11.png"]
+images = ["M11.jpg"]
 ogLocale = "en_US"
 domainTLD = "M11.netlify.app"
 titleHome = "M11 PvE Builds"
