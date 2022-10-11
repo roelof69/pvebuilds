@@ -43,7 +43,7 @@ schemaSection = "blog"
 siteLinksSearchBox = false
 
 ## Chrome Browser
-themeColor = "#fff"
+themeColor = "#000000"
 
 # Images
 quality = 85
@@ -78,7 +78,7 @@ alertDismissable = true
 # alertText = "Welcome to the new and improved pvebuilds.xyz! There will a lot added in the coming weeks...<br> Thanks for visiting -Roelof"
 
 [sections]
-  sectionNav = ["docs", "guides"]
+  sectionNav = ["nw", "records", "builds"]
 
 [options]
   lazySizes = true
