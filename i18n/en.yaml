@@ -11,7 +11,7 @@
   translation: "Page not found :("
 
 - id: 404-text
-  translation: "fucked up, whatever you were directed to wasn't found - 404."
+  translation: "Whatever you were looking for has likely been moved, otherwise I've fucked up. Try hard refreshing via Ctrl+Shift+R to see if the site has changed."
 
 - id: browse
   translation: "Browse"
