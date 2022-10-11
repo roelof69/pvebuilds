@@ -105,7 +105,7 @@ Source:
   {{- end }}
   {{- end }}
   {{- else }}
-  {{- $list = (where .Site.Pages "Section" "docs") }}
+  {{- $list = (where .Site.Pages "Section" "nw") }}
   {{- end }}
 
   {{ $len := (len $list) -}}
