@@ -1,45 +1,30 @@
-# [[main]]
-# name = "Home"
-# weight = 1
-# url = "/"
-
 [[main]]
-name = "High Level PvE"
-weight = 10
-identifier = "builds"
-url = "/builds/"
-
-[[main]]
-name = "Information"
+name = "Info"
 url = "/nw/info/faq"
-# url = "/docs/1.0/information/introduction/"
-weight = 20
-parent = "builds"
-
-[[main]]
-name = "Leaderboards"
-url = "/nw/leaderboards"
-# url = "/docs/1.0/information/introduction/"
-weight = 50
-parent = "builds"
+weight = 10
 
 [[main]]
 name = "Builds"
-weight = 40
+weight = 20
 url = "/builds/"
-parent = "builds"
 
- [[main]]
- name = "中文(繁體) 翻譯"
- weight = 70
- url = "/tw"
-parent = "builds"
+[[main]]
+name = "Speedruns"
+url = "/records"
+weight = 30
+identifier = "recs"
 
 [[main]]
 name = "World Records"
 url = "/records"
-# url = "/docs/1.0/information/introduction/"
-weight = 60
+weight = 40
+parent = "recs"
+
+[[main]]
+name = "Leaderboards"
+url = "/nw/leaderboards"
+weight = 50
+parent = "recs"
 
 [[social]]
 name = "Twitch"

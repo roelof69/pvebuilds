@@ -3,7 +3,7 @@
 // Source: https://material.io/design/color/dark-theme.html
 
 $body-bg-dark: #000000;
-$body-overlay-dark: darken($body-bg-dark, 2.5%);
+$body-overlay-dark: lighten($body-bg-dark, 5%);
 
 /*
 $border-dark: darken($body-bg-dark, 2.5%);
@@ -14,7 +14,7 @@ $dots-dark: darken($body-color-dark, 50%);
 
 $link-color-dark: $m11;
 $button-color-dark: $link-color-dark;
-$focus-color-dark: lighten($link-color-dark, 2.5%);
+$focus-color-dark: lighten($link-color-dark, 5%);
 
 $navbar-dark-color:                 $body-color-dark;
 $navbar-dark-hover-color:           $link-color-dark;
@@ -502,13 +502,13 @@ $navbar-dark-active-color:          $link-color-dark;
 
   &:hover {
     color: $body-bg-dark;
-    background-color: $body-color-dark;
+    background-color: $body-bg-dark;
     border-color: $body-color-dark;
   }
 
   &:focus {
     color: $body-bg-dark;
-    background-color: $body-color-dark;
+    background-color: $body-bg-dark;
   }
 }
 
@@ -529,7 +529,7 @@ $navbar-dark-active-color:          $link-color-dark;
 }
 
 [data-dark-mode] .dropdown-menu {
-  background: $body-overlay-dark;
+  background: #000000;
 }
 
 [data-dark-mode] .dropdown-menu .dropdown-item {

@@ -1,5 +1,11 @@
-- id: get-started
+- id: view-builds
   translation: "View Builds"
+
+- id: pve-info
+  translation: "PvE Info"
+
+- id: records
+  translation:  "World Records"
 
 - id: on-this-page
   translation: "On this page"
