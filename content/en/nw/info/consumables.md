@@ -20,6 +20,7 @@ Coating recipes here: <a href="https://nwdb.info/db/recipe/procedural_coatinganc
 Keep in mind honing stones **are counted towards your empower cap**. You should be using common or above.
 
 Honing stone recipes here: <a href="https://nwdb.info/db/recipe/honingstonet2" target="_blank">Weak</a> | <a href="https://nwdb.info/db/recipe/honingstonet3" target="_blank">Common</a> | <a href="https://nwdb.info/db/recipe/honingstonet4" target="_blank">Strong</a> | <a href="https://nwdb.info/db/recipe/honingstonet5" target="_blank">Powerful</a>
+
 |               	| **Weak** 	| **Common** 	| **Strong** 	| **Powerful** 	|
 |:-------------:	|:--------:	|:----------:	|:----------:	|:------------:	|
 | **% Empower** 	|    4%    	|     5%     	|     6%     	|      7%      	|
