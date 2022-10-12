@@ -11,7 +11,7 @@ toc: true
 ## How The Fortify Cap Works
 
 Each of your individual resistances are capped at 50%. Seen here in your inventory:<br><br>
-<img src="https://i.imgur.com/UBokXGg.png"></img>
+<img src="/images/_etc/iceresistsAF.png"></img>
 <br><br>
 However, if you're able to achieve over 50% in this interface, via gems and protection perk, then your cap is set to the % displayed.
 <br><br>
