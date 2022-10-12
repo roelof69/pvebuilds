@@ -37,6 +37,6 @@ All of the gear seen on TTV/M11PvE.
 
 {{< details "Barnacles" >}}
 
-
+<a href="/images/builds/roelof/bbgear.png/" target="_blank"><img src="/images/builds/roelof/bbgear.png/"></a>
     
 {{< /details >}}
