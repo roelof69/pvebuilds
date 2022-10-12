@@ -18,15 +18,19 @@ toc: true
 ## Mutation (Element)
 
 ### Void - Eternal
-<img src="/images/modifiers/mutation/eternal.png"></img>
+
+<img src="/images/modifiers/mutation/eternal.png">
 
 ### Fire - Hellfire
+
 <img src="/images/modifiers/mutation/hellfire.png"></img>
 
 ### Nature - Overgrown
+
 <img src="/images/modifiers/mutation/overgrown.png"></img>
 
 ### Ice - Icebound
+
 <img src="/images/modifiers/mutation/icebound.png"></img>
 
 ---
@@ -35,15 +39,19 @@ toc: true
 ## Promotion (Mob Buffs)
 
 ### Indomitable
+
 <img src="/images/modifiers/promotion/indomitable.png"></img>
 
 ### Savage
+
 <img src="/images/modifiers/promotion/savage.png"></img>
 
 ### Oppressive
+
 <img src="/images/modifiers/promotion/oppressive.png"></img>
 
 ### Barbaric
+
 <img src="/images/modifiers/promotion/barbaric.png"></img>
 
 ---
@@ -53,14 +61,18 @@ toc: true
 The Curse changes each week to match the Mutation (Element). These screenshots are mixed but the %'s remain the same. 
 
 ### Desiccated
-<img src="/images/curse/promotion/desiccated.png"></img>
+
+<img src="/images/modifiers/curse/desiccated.png"></img>
 
 ### Censored
-<img src="/images/curse/promotion/censored.png"></img>
+
+<img src="/images/modifiers/curse/censored.png"></img>
 
 ### Fiendish
-<img src="/images/curse/promotion/fiendish.png"></img>
+
+<img src="/images/modifiers/curse/fiendish.png"></img>
 
 ### Frenzied
-<img src="/images/curse/promotion/frenzied.png"></img>
+
+<img src="/images/modifiers/curse/frenzied.png"></img>
 
