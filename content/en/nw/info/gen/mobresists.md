@@ -5,9 +5,11 @@ weight: 50
 toc: false
 ---
 
-## Current:
-<img src="https://i.imgur.com/aHAaFgV.png">
+- With the release of Brimstone Sands, mobs no longer have resistances. 
+- Mobs still have weaknesses.
+- When inside of a mutation, mobs inherit Elemental-Resistance to match the mutation.
+<br><br>
 
-## Post-Brimstone Patch:
-With the Brimstone patch, mobs innate resistances will be removed. This means anything that does -% damage currently, will do neutral damage post-patch. Will look like this:
-<img src="https://i.imgur.com/5rjgFzw.png">
+<a href="/images/mobresists/mobresists.png" target="_blank"><img src="/images/mobresists/mobresists.png"></a>
+
+-- Click the image to open it in higher resolution.
