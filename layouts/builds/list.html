@@ -4,7 +4,7 @@
     <article>
       <h1 class="text-center">{{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
       <div class="text-center">{{ .Content }}</div>
-			<div class="card-list">
+			{{/*  <div class="card-list">
 				{{ $currentSection := .CurrentSection }}
 				{{ range where .Site.RegularPages.ByTitle "Section" .Section }}
 					{{ if in (.RelPermalink | string) $currentSection.RelPermalink }}
@@ -15,7 +15,7 @@
 						</div>
 					{{ end }}
 				{{ end }}
-			</div>
+			</div>  */}}
     </article>
   </div>
 </div>
