@@ -7,7 +7,7 @@ All of the gear and skill trees used on the <a href="https://twitch.tv/M11PvE" t
 
 <br>
 
- <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;border:black;" href="/roeheals"
+ <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/heals"
         role="button">Heal</a>
- <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;border:black;" href="/roedps"
+ <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/dps"
         role="button">DPS</a>
