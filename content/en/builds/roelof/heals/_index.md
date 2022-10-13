@@ -1,9 +1,9 @@
 ---
-title : "Roelof's AoE Healer Gear"
-description: "Gear and Builds used while Live at Twitch.tv/M11PvE."
+title : "Roelof's Healer Gear"
+description: "Gear used while Live at twitch.tv/M11PvE."
 
 ---
-All of the gear and skill trees used on the <a href="https://twitch.tv/M11PvE" target="_blank">M11 Twitch</a>
+All of the gear used on the <a href="https://twitch.tv/M11PvE" target="_blank">M11 Twitch</a>
 
 <br>
 
