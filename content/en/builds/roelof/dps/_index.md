@@ -11,7 +11,9 @@ All of the gear used on the <a href="https://twitch.tv/M11PvE" target="_blank">M
         role="button">Heal</a>
  <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/dps"
         role="button">DPS</a>
-
+ <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof"
+        role="button">Jewellery</a>
+        
 {{< details "Ancients" >}}
 
 <a href="/images/builds/roelof/ancientdps.png/" target="_blank"><img src="/images/builds/roelof/ancientdps.png/"></a>
