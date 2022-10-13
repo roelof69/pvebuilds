@@ -8,7 +8,7 @@ DPS Gear used on the <a href="https://twitch.tv/M11PvE" target="_blank">M11 Twit
         role="button">Heal</a>
  <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/dps"
         role="button">DPS</a>
- <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof"
+ <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/jewellery"
         role="button">Jewellery</a>
         
 {{< details "Ancients" >}}
