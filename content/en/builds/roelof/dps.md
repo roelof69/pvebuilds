@@ -12,39 +12,26 @@ All of the gear and skill trees used on the <a href="https://twitch.tv/M11PvE" t
  <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;border:black;" href="/roedps"
         role="button">DPS</a>
 
-{{< details "Genesis" >}}
+{{< details "Ancients" >}}
 
-
+<a href="/images/builds/roelof/ancientdps.png/" target="_blank"><img src="/images/builds/roelof/ancientdps.png/"></a>
     
 {{< /details >}}
 
-{{< details "Lazarus" >}}
+{{< details "Angry Earth" >}}
 
-
+<a href="/images/builds/roelof/angrydps.png/" target="_blank"><img src="/images/builds/roelof/angrydps.png/"></a>
     
 {{< /details >}}
 
-{{< details "Dynasty" >}}
+{{< details "Corrupted" >}}
 
-
+<a href="/images/builds/roelof/corrupteddps.png/" target="_blank"><img src="/images/builds/roelof/corrupteddps.png/"></a>
     
 {{< /details >}}
 
-{{< details "Tempest" >}}
+{{< details "Lost" >}}
 
-
-    
-{{< /details >}}
-
-{{< details "Depths" >}}
-
-
-    
-{{< /details >}}
-
-
-{{< details "Barnacles" >}}
-
-<a href="/images/builds/roelof/bbgear.png/" target="_blank"><img src="/images/builds/roelof/bbgear.png/"></a>
+<a href="/images/builds/roelof/lostdps.png/" target="_blank"><img src="/images/builds/roelof/lostdps.png/"></a>
     
 {{< /details >}}
