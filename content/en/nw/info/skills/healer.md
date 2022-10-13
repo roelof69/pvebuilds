@@ -1,7 +1,8 @@
 ---
 title : "Heals"
 description: "M11-Approved Healer Skill Trees."
-
+weight: 220
+toc: true
 ---
 
 ### AoE Lifestaff
