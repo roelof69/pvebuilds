@@ -7,9 +7,9 @@ Jewellery used on the <a href="https://twitch.tv/M11PvE" target="_blank">M11 Twi
 
 
  <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/heals"
-        role="button">Healer Gear</a>
+        role="button">Healer</a>
  <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/dps"
-        role="button">DPS Gear</a>
+        role="button">DPS</a>
  <a class="btn btn-primary btn-lg px-4 mb-2" style="color:black;background-color:#fdb402;" href="/roelof/jewellery"
         role="button">Jewellery</a>
 
