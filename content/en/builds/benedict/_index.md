@@ -11,35 +11,9 @@ BenedictG's Gear - Watch live at: <a href="https://twitch.tv/genedictb" target="
         target="_blank" role="button">Youtube</a>
 
 {{< details "Ancients" >}}
-
-<div style="height:800px;">
-  <div id="player" style="z-index:1;"></div>
-<script>
-  // 2. This code loads the IFrame Player API code asynchronously.
-  var tag = document.createElement('script');
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-  // 3. This function creates an <iframe> (and YouTube player)
-  //    after the API code downloads.
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '100%',
-      width: '100%',
-      videoId: 'BV0VD0vLqqM',
-      events: {
-        'onReady': onPlayerReady
-      }
-    });
-  }
-  // 4. The API will call this function when the video player is ready.
-  function onPlayerReady(event) {
-    event.target.mute();
-    event.target.playVideo();
-  }
-</script>
-    
+<iframe width="100%" height="800"
+src="https://www.youtube.com/embed/BV0VD0vLqqM">
+</iframe>    
 {{< /details >}}
 
 {{< details "Angry Earth" >}}
@@ -49,35 +23,9 @@ need link
 {{< /details >}}
 
 {{< details "Corrupted" >}}
-
-<div style="height:800px;">
-  <div id="player" style="z-index:1;"></div>
-<script>
-  // 2. This code loads the IFrame Player API code asynchronously.
-  var tag = document.createElement('script');
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-  // 3. This function creates an <iframe> (and YouTube player)
-  //    after the API code downloads.
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '100%',
-      width: '100%',
-      videoId: 'EARCuvPWfZE',
-      events: {
-        'onReady': onPlayerReady
-      }
-    });
-  }
-  // 4. The API will call this function when the video player is ready.
-  function onPlayerReady(event) {
-    event.target.mute();
-    event.target.playVideo();
-  }
-</script>
-    
+<iframe width="100%" height="800"
+src="https://www.youtube.com/embed/EARCuvPWfZE">
+</iframe>
 {{< /details >}}
 
 {{< details "Lost" >}}
