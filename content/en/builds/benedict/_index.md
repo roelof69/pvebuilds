@@ -13,7 +13,7 @@ BenedictG's Gear - Watch live at: <a href="https://twitch.tv/genedictb" target="
 {{< details "Ancients" >}}
 
 <div style="height:800px;">
-  <div id="player" style="z-index:0;"></div>
+  <div id="player" style="z-index:1;"></div>
 <script>
   // 2. This code loads the IFrame Player API code asynchronously.
   var tag = document.createElement('script');
@@ -28,7 +28,6 @@ BenedictG's Gear - Watch live at: <a href="https://twitch.tv/genedictb" target="
       height: '100%',
       width: '100%',
       videoId: 'BV0VD0vLqqM',
-      playerVars: { 'autoplay': 1, 'playsinline': 1, 'loop': 1, 'muted': 0},
       events: {
         'onReady': onPlayerReady
       }
@@ -52,7 +51,7 @@ need link
 {{< details "Corrupted" >}}
 
 <div style="height:800px;">
-  <div id="player" style="z-index:0;"></div>
+  <div id="player" style="z-index:1;"></div>
 <script>
   // 2. This code loads the IFrame Player API code asynchronously.
   var tag = document.createElement('script');
@@ -67,7 +66,6 @@ need link
       height: '100%',
       width: '100%',
       videoId: 'EARCuvPWfZE',
-      playerVars: { 'autoplay': 1, 'playsinline': 1, 'loop': 1, 'muted': 0},
       events: {
         'onReady': onPlayerReady
       }
