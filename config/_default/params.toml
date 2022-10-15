@@ -10,7 +10,7 @@ description = "M11 create and maintain PvE Builds and Information for Amazon's N
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["M11.jpg"]
+images = ["M11.png"]
 ogLocale = "en_US"
 domainTLD = "M11.netlify.app"
 titleHome = "M11 PvE Builds"
