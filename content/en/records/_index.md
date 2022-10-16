@@ -122,7 +122,7 @@ toc: false
 <!-- Twitch Video Embed genedictb m11-->
 <script>
   var options = {
-    channel: "igraphici",
+    channel: "m11pve",
     width: 1280,
     height: 720,
     parent: ["pvebuilds.xyz"]
