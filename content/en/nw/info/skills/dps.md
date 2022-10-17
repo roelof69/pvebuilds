@@ -10,9 +10,10 @@ toc: true
 
 
 
-<!-- ### Greatsword -->
+### Greatsword
 
 
+<a href="/images/skilltrees/greatsword/1.png" target="_blank"><img src="/images/skilltrees/greatsword/1.png"></a>
 
 ---
 
