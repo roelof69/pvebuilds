@@ -8,8 +8,8 @@ toc: false
     left: 0;
     top: 0;            /* <<< No offset */
     bottom: 0;         /* <<< Pull to the bottom for height */
+    right:0;
     margin: 60px 0 0; /* <<< gives room for the navbar */
-    width: 100vw;
     overflow: hidden;
 }
 
@@ -18,6 +18,7 @@ toc: false
   display:flex;
   height:100%;
   width:100%;
+  overflow:hidden;
 }
 </style>
 
