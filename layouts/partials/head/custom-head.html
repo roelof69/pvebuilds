@@ -38,7 +38,8 @@ crossorigin="anonymous"></script>
       
       /* The following css just makes sure the twitch video stays responsive */
       #twitch,
-      #twitch2 {
+      #twitch2,
+      #twitch3 {
         border-radius: 0.25rem !important;
         z-index: 1000;
         position: fixed;
@@ -53,7 +54,9 @@ crossorigin="anonymous"></script>
       #twitch object,
       #twitch iframe,
       #twitch2 object,
-      #twitch2 iframe {
+      #twitch2 iframe,
+      #twitch3 object,
+      #twitch3 iframe {
         z-index: 1000;
         border-radius: 0.25rem !important;
         position: absolute;
@@ -64,7 +67,8 @@ crossorigin="anonymous"></script>
       }
       @media screen and (max-width:600px) {
         #twitch,
-        #twitch2 {
+        #twitch2,
+        #twitch3 {
           width: 208px;
           height: 117px;
           top:175px;
@@ -82,6 +86,8 @@ crossorigin="anonymous"></script>
 </div>
 <div id="twitch2" class="hide">
 </div>
+<div id="twitch3" class="hide">
+</div>
 
 <!-- Twitch Video Embed genedictb m11-->
 
@@ -98,10 +104,18 @@ crossorigin="anonymous"></script>
     height: 720,
     parent: ["pvebuilds.xyz"]
   };
+  var options3 = {
+    channel: "hrodgirr",
+    width: 1280,
+    height: 720,
+    parent: ["pvebuilds.xyz"]
+  };
+  var player3 = new Twitch.Player("twitch3", options3);
   var player2 = new Twitch.Player("twitch2", options2);
   var player = new Twitch.Player("twitch", options);
   player.addEventListener(Twitch.Player.READY, initiate)
   player.addEventListener(Twitch.Player.OFFLINE, initiate2);
+  player.addEventListener(Twitch.Player.OFFLINE, initiate3);
 
   function initiate() {
     player.addEventListener(Twitch.Player.ONLINE, handleOnline);
@@ -143,6 +157,29 @@ crossorigin="anonymous"></script>
     player2.removeEventListener(Twitch.Player.OFFLINE, handleOffline2);
     player2.addEventListener(Twitch.Player.ONLINE, handleOnline2);
     player2.setMuted(true);
+  }
+  
+
+
+  function initiate3() {
+    player3.addEventListener(Twitch.Player.ONLINE, handleOnline3);
+    player3.addEventListener(Twitch.Player.OFFLINE, handleOffline3);
+    player3.removeEventListener(Twitch.Player.READY, initiate3);
+  }
+
+  function handleOnline3() {
+    document.getElementById("twitch3").classList.remove('hide');
+    player3.removeEventListener(Twitch.Player.ONLINE, handleOnline3);
+    player3.addEventListener(Twitch.Player.OFFLINE, handleOffline3);
+    player3.setMuted(false);
+    player3.setVolume(0.1);
+  }
+
+  function handleOffline3() {
+    document.getElementById("twitch3").classList.add('hide');
+    player3.removeEventListener(Twitch.Player.OFFLINE, handleOffline3);
+    player3.addEventListener(Twitch.Player.ONLINE, handleOnline3);
+    player3.setMuted(true);
   }
 </script>
 
