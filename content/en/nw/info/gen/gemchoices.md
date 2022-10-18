@@ -7,7 +7,11 @@ toc: true
 ---
 
 ## Armour Gems
-The ideal gem loadout is 58.1% Elemental resist, via 8 mutation-specific gems with elemental protection on amulet or shield.
+The ideal (& affordable) gem loadout is 28.1% Elemental (3 Mutation-Specific Gems + Amulet or Shield Protection) & 10% Physical (5 Runeglass Opals) Resistance. 
+
+- We recommend <a href="https://ptr.nwdb.info/db/item/runeglass_gem_opal_melee" target="_blank">Runeglass of Punishing Opal</a> for your armour.
+
+The most consistent setup is running 58.1% mutation-specific resistance. This is only attainable with 8x mutation-specific gems, and amulet or shield protection. This setup is no longer practical due to the cost of swapping Runeglass Gems.
 
 The majority of damage in mutations is elemental, so in order to perform consistently it's important to have a high base resistance against the mutation. 
 
@@ -18,6 +22,9 @@ See [here](/nw/info/dmgabs) for more information about damage absorption.
 
 ## Weapon Gems
 ### DPS
+This is currently out of date, will be updated within 24hrs to display which is best.
+
+
 The ideal weapon gem for each build is listed alongside that build.
 
 For all DPS it's ideal to use a Cut Pristine Opal **or** Diamond **unless** the following is true:
