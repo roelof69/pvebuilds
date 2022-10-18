@@ -23,7 +23,7 @@ toc: true
 
 -- <a href="https://nwdb.info/db/item/2hgreatsword_craftsmanspassiont5_v2" target="_blank">Craftsman's Passion  || Vicious + Thwarting Strikes + Keenly Empowered</a>
 
--- <a href="https://nwdb.info/db/item/2hgreatsword_stonehewert5_v2" target="_blank">Blade of the 19th  || Ancient Bane + Trenchant Strikes + Mortal Refreshment</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_stonehewert5_v2" target="_blank">Stonehewer  || Ancient Bane + Trenchant Strikes + Mortal Refreshment</a>
 
 -- <a href="https://nwdb.info/db/item/16_side_27_2hgreatsword_t5" target="_blank">Blade of the 19th  || Corrupted Bane + Trenchant Strikes + Mortal Power</a>
 
