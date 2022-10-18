@@ -2,7 +2,7 @@
 title: "Heartrunes"
 lead: "Ultimate Abilities."
 description: "New World Heartrunes."
-weight: 3020
+weight: 2020
 toc: true
 ---
 

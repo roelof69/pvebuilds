@@ -2,7 +2,7 @@
 title: "The Depths"
 lead: "M10 Speedrun Leaderboards."
 description: "Depths M10 Speedrun Leaderboard."
-weight: 2040
+weight: 5040
 toc: false
 ---
 {{< details "#1 - 13:11 - Benedicat" >}}

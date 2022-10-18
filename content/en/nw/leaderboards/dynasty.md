@@ -2,7 +2,7 @@
 title: "Dynasty Shipyard"
 lead: "M10 Speedrun Leaderboards."
 description: "Dynasty M10 Speedrun Leaderboard."
-weight: 2030
+weight: 5030
 toc: false
 ---
 

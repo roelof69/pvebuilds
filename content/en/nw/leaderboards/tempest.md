@@ -2,7 +2,7 @@
 title: "Tempest's Heart"
 lead: "M10 Speedrun Leaderboards."
 description: "Tempest's Heart M10 Speedrun Leaderboard."
-weight: 2060
+weight: 5060
 toc: false
 ---
 
