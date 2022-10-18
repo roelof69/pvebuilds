@@ -55,11 +55,15 @@ toc: true
 
 ### Warhammer
 
-<a href="/images/skilltrees/warhammer/1.png" target="_blank"><img src="/images/skilltrees/warhammer/1.png"></a>
+#### Highest DPS
 
 <a href="/images/skilltrees/warhammer/2.png" target="_blank"><img src="/images/skilltrees/warhammer/2.png"></a>
 
 <br>
+
+#### Rend and CC
+
+<a href="/images/skilltrees/warhammer/1.png" target="_blank"><img src="/images/skilltrees/warhammer/1.png"></a>
 
 
 ---
@@ -73,12 +77,6 @@ toc: true
 
 <a href="/images/skilltrees/greataxe/2.png" target="_blank"><img src="/images/skilltrees/greataxe/2.png"></a>
 
-#### Single Target DPS (PvE Arenas)
-
-<a href="/images/skilltrees/greataxe/3.png" target="_blank"><img src="/images/skilltrees/greataxe/3.png"></a>
-
-
-<br>
 
 ---
 
