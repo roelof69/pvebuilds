@@ -129,16 +129,16 @@ SnS+WH | Hatchet+GA | Hatchet+Spear | Hatchet+GA | LS+VG
 
 ---
 
-## 18:15 - Barnacles and Blackpowder
-**<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_blank">IMG</a> || <a href="https://www.twitch.tv/videos/1600744357" target="_blank">VOD</a>**
+## 16:54 - Barnacles and Blackpowder
+**<a href="https://www.reddit.com/r/newworldgame/comments/y707aw/wr_barnacles_m10_speedrun_16m54/" target="_blank">Reddit</a> || <a href="https://www.youtube.com/watch?v=K1kNVp9lrWw" target="_blank">VOD</a>**
 
-Server: **Delos (AP)**
+Server: **Nysa (EU)**
 
-Company: **M11**
+Company: **Benedicat**
 
-**Dopple | Perihelia | Lohqq | bigWino | Roelof xd**
+**Drexen | Benedict G. | Hrodgir | Riasq | Corisita**
 
-Sword+WH/Hatchet | Hatchet+IG | WH+GA | Hatchet+GA | LS+VG
+Sword+/Hatchet | Hatchet+Spear | Rapier+IG | Hatchet+GA | LS+VG
 
 ---
 

@@ -6,7 +6,20 @@ weight: 2050
 toc: false
 ---
 
-{{< details "#1 - 18:15 - M11" >}}
+{{< details "#1 - 16:54 - Benedicat" >}}
+Players: **Drexen | Benedict G. | Hrodgir | Riasq | Corisita**
+
+Weapons: Sword+/Hatchet | Hatchet+Spear | Rapier+IG | Hatchet+GA | LS+VG
+
+Server: Nysa (EU)
+
+Mutation: Eternal + Oppressive + Desiccated
+
+Links: **<a href="https://www.reddit.com/r/newworldgame/comments/y707aw/wr_barnacles_m10_speedrun_16m54/" target="_blank">Reddit</a> || <a href="https://www.youtube.com/watch?v=K1kNVp9lrWw" target="_blank">VOD</a>** || **<a href="https://twitch.tv/genedictb" target="_blank">BenedictG on Twitch</a>**
+
+{{< /details >}}
+
+{{< details "#2 - 18:15 - M11" >}}
 Players: **Dopple | Perihelia | Lohqq | bigWino | Roelof xd**
 
 Weapons: Sword+WH/Hatchet | Hatchet+IG | WH+GA | Hatchet+GA | LS+VG
@@ -24,7 +37,7 @@ Links: **<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_b
 
 ---
 
-{{< details "#2 - 20:38 - Uploaded by Bd3ricks & eRectile Dysfunct" >}}
+{{< details "#3 - 20:38 - Uploaded by Bd3ricks & eRectile Dysfunct" >}}
 Players: **eRectile Dysfunct | Bd3ricks | Lilith Crane | Goldbergstein | Boostin**
 
 Weapons: Sword+WH | Hatchet+GA | Hatchet+GA | Hatchet+GA | LS+VG
