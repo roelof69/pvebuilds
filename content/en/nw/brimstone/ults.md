@@ -18,8 +18,9 @@ These are untested, but are what we believe to be the best Heartrunes to use.
 
 ## DPS/Tank
 
-- <a href="https://ptr.nwdb.info/db/item/runedetonatet3a" target="_blank">Cunning Detonate</a>
+
 - <a href="https://ptr.nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a>
+- <a href="https://ptr.nwdb.info/db/item/runedetonatet3a" target="_blank">Cunning Detonate</a>
 
 
 ## Healer
