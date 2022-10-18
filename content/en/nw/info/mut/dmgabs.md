@@ -77,11 +77,11 @@ height:770px;
 
 
 ## Absorption Calculator
-<p class="desktop">If someones tampered with this, is currently editing, or you want the master sheet,&nbsp;<a href="https://docs.google.com/spreadsheets/d/1el_mW517XV3viFN6voXxQpg2PTrq4xuy65R4zEKbGr0/edit#gid=81538186" target="_blank"><t>click here</t></a>.</p>
+<p class="desktop">If someones tampered with this, is currently editing, or you want the master sheet,&nbsp;<a href="https://docs.google.com/spreadsheets/d/1el_mW517XV3viFN6voXxQpg2PTrq4xuy65R4zEKbGr0/edit?usp=sharing" target="_blank"><t>click here</t></a>.</p>
 
 <div class="desktop">
 <iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/1dG5PGholXP_6kcKXk43Own0J5Q2LWktTknxIvmzkDc0/edit?usp=sharing?&amp;rm=minimal&amp;single=true&amp;headers=false&amp;"></iframe>
 </div>
-<p class="mobile">Unfortunately the calculator isn't usable from mobile/windows this small, <a href="https://docs.google.com/spreadsheets/d/1el_mW517XV3viFN6voXxQpg2PTrq4xuy65R4zEKbGr0/edit#gid=81538186" target="_blank"><t>please tap here to make a copy in Google Sheets</t></a>.</p>
+<p class="mobile">Unfortunately the calculator isn't usable from mobile/windows this small, <a href="https://docs.google.com/spreadsheets/d/1el_mW517XV3viFN6voXxQpg2PTrq4xuy65R4zEKbGr0/edit?usp=sharing" target="_blank"><t>please tap here to make a copy in Google Sheets</t></a>.</p>
 
 ---
