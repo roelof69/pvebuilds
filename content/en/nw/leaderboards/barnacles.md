@@ -19,6 +19,8 @@ Links: **<a href="https://www.reddit.com/r/newworldgame/comments/y707aw/wr_barna
 
 {{< /details >}}
 
+---
+
 {{< details "#2 - 18:15 - M11" >}}
 Players: **Dopple | Perihelia | Lohqq | bigWino | Roelof xd**
 
