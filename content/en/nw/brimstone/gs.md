@@ -1,6 +1,6 @@
 ---
 title: "Greatsword"
-lead: "All of the Greatsword Info in one place."
+lead: "Greatsword info"
 description: "New World Greatsword Recommendations."
 weight: 2010
 toc: true
@@ -21,10 +21,10 @@ toc: true
 
 -- <a href="https://nwdb.info/db/item/2hgreatsword_beasthuntersbladet5_v2" target="_blank">Beast Hunter's Blade  || Beast Bane + Trenchant Strikes + Keenly Jagged</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_voidswordt5_v2" target="_blank">Voidsword  || Ancient Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_voidswordt5_v2" target="_blank">Voidsword  || Ancient Bane + Vicious + Chain</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_firewoodt5_v2" target="_blank">Firewood  || Angry Earth Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_firewoodt5_v2" target="_blank">Firewood  || Angry Earth Bane + Vicious + Chain</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_livelinesst5_v2" target="_blank">Liveliness  || Corrupted Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_livelinesst5_v2" target="_blank">Liveliness  || Corrupted Bane + Vicious + Chain</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_afterthoughtt5_v2" target="_blank">Afterthought  || Lost Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_afterthoughtt5_v2" target="_blank">Afterthought  || Lost Bane + Vicious + Chain</a>

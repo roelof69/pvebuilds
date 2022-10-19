@@ -29,13 +29,13 @@ toc: true
 
 -- <a href="https://nwdb.info/db/item/2hgreatsword_beasthuntersbladet5_v2" target="_blank">Beast Hunter's Blade  || Beast Bane + Trenchant Strikes + Keenly Jagged</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_voidswordt5_v2" target="_blank">Voidsword  || Ancient Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_voidswordt5_v2" target="_blank">Voidsword  || Ancient Bane + Vicious + Chain</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_firewoodt5_v2" target="_blank">Firewood  || Angry Earth Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_firewoodt5_v2" target="_blank">Firewood  || Angry Earth Bane + Vicious + Chain</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_livelinesst5_v2" target="_blank">Liveliness  || Corrupted Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_livelinesst5_v2" target="_blank">Liveliness  || Corrupted Bane + Vicious + Chain</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hgreatsword_afterthoughtt5_v2" target="_blank">Afterthought  || Lost Bane + Vicious + Chain</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_afterthoughtt5_v2" target="_blank">Afterthought  || Lost Bane + Vicious + Chain</a>
 
 ---
 
@@ -61,22 +61,22 @@ toc: true
 
 ### Sword
 
--- <a href="https://ptr.nwdb.info/db/item/1hlongsword_infernust5_v2" target="_blank">Infernus  || Enchanted + Refreshing Move + Lifestealing</a>
+-- <a href="https://nwdb.info/db/item/1hlongsword_infernust5_v2" target="_blank">Infernus  || Enchanted + Refreshing Move + Lifestealing</a>
 
--- <a href="https://ptr.nwdb.info/db/item/1hlongsword_deeproott5_v2" target="_blank">Deeproot  || Enchanted + Refreshing Move + Lifestealing</a>
+-- <a href="https://nwdb.info/db/item/1hlongsword_deeproott5_v2" target="_blank">Deeproot  || Enchanted + Refreshing Move + Lifestealing</a>
 
 -- <a href="https://nwdb.info/db/item/1hlongsword_timekeepershandt5" target="_blank">Timekeeper's Hand  || Enchanted + Refreshing Move + Keen</a>
 
 #### Shield
 
--- <a href="https://ptr.nwdb.info/db/item/1htshield_hourglasst5_v2" target="_blank">Hourglass  || Refreshing + Sturdy + Accelerated Resolve</a>
+-- <a href="https://nwdb.info/db/item/1htshield_hourglasst5_v2" target="_blank">Hourglass  || Refreshing + Sturdy + Accelerated Resolve</a>
 
 
 ---
 
 ### Warhammer
 
--- <a href="https://ptr.nwdb.info/db/item/2hwarhammer_batheqetscudgelt5_v2" target="_blank">Batheqet's Cudgel  || Ancient Bane + Thwarting Strikes + Sundering Shockwave</a>
+-- <a href="https://nwdb.info/db/item/2hwarhammer_batheqetscudgelt5_v2" target="_blank">Batheqet's Cudgel  || Ancient Bane + Thwarting Strikes + Sundering Shockwave</a>
 
 ---
 
@@ -88,15 +88,15 @@ toc: true
 
 ### Lifestaff
 
--- <a href="https://ptr.nwdb.info/db/item/2hstafflife_staffofthethronet5_v2" target="_blank">Staff of the Throne  || **Blessed + Refreshing Move + Keen Beacon**</a>
+-- <a href="https://nwdb.info/db/item/2hstafflife_staffofthethronet5_v2" target="_blank">Staff of the Throne  || **Blessed + Refreshing Move + Keen Beacon**</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hstafflife_spiritpoolt5_v2" target="_blank">Spiritpool || **Blessed + Refreshing Move + Purity of Light**</a>
+-- <a href="https://nwdb.info/db/item/2hstafflife_spiritpoolt5_v2" target="_blank">Spiritpool || **Blessed + Refreshing Move + Purity of Light**</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hstafflife_glowinglifecrystalstafft5_v2" target="_blank">Glowing Lifestaff Crystal  || **Blessed + Refreshing Move + Refreshing Divine Embrace**</a>
+-- <a href="https://nwdb.info/db/item/2hstafflife_glowinglifecrystalstafft5_v2" target="_blank">Glowing Lifestaff Crystal  || **Blessed + Refreshing Move + Refreshing Divine Embrace**</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hstafflife_willoftheancientst5_v2" target="_blank">Will of the Ancients  || Blessed + Refreshing Move + Refreshing</a>
+-- <a href="https://nwdb.info/db/item/2hstafflife_willoftheancientst5_v2" target="_blank">Will of the Ancients  || Blessed + Refreshing Move + Refreshing</a>
 
--- <a href="https://ptr.nwdb.info/db/item/2hstafflife_iridescencet5_v2" target="_blank">Iridescence || Blessed + Refreshing Evasion + Fortifying Sacred Ground</a>
+-- <a href="https://nwdb.info/db/item/2hstafflife_iridescencet5_v2" target="_blank">Iridescence || Blessed + Refreshing Evasion + Fortifying Sacred Ground</a>
 
 -- <a href="https://nwdb.info/db/item/2hstafflife_greatstaffofthelightsjudgementt5" target="_blank">Greatstaff of the Light's Judgement  || Blessed + Keenly Empowered + Mending Protection</a>
 
