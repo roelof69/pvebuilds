@@ -52,8 +52,12 @@ You need 4x <a href="https://nwdb.info/db/recipe/sulfurt1" target="_blank">Sulfu
 
 5x <a href="https://nwdb.info/db/item/sulfurchunk" target="_blank">Sulfur Chunk</a> + 1x Obsidian Sandpaper per 1x Charged Sand.
 
-- Gather <a href="https://nwdb.info/db/gatherable/brimstonelarge" target="_blank">Sandstone Blocks</a> all over Brimstone.
-- 50x Sandstone Blocks per gem, 250x per gear-set (you cannot slot Runeglass Gems into jewellery, only armour)
+- Gather <a href="https://nwdb.info/db/gatherable/brimstonelarge" target="_blank">Sulfur Chunks</a> all over Brimstone.
+- 50x Sulfur Chunks per gem, 250x per gear-set (you cannot slot Runeglass Gems into jewellery, only armour)
+
+
+
+
 
 ### Ancient Glob of Ectoplasm
 Looted from Chests/Mobs in specific areas of Brimstone:
