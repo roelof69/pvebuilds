@@ -31,7 +31,9 @@ Seems likely we continue running standard opal/diamond gems for now...
 
 ## Armour Gems
 
-We recommend <a href="https://nwdb.info/db/item/runeglass_gem_opal_melee" target="_blank">Runeglass of Punishing Opal</a> for your armour.
+We recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour.
+
+- Mutation-specific gems on your Jewellery.
 
 <br>
 
