@@ -9,7 +9,7 @@ toc: true
 ## Armour Gems
 The ideal (& affordable) gem loadout is 28.1% Elemental (3 Mutation-Specific Gems + Amulet or Shield Protection) & 10% Physical (5 Runeglass Onyx) Resistance. 
 
-- We recommend <a href="https://nwdb.info/db/item/runeglass_gem_opal_melee" target="_blank">Runeglass of Punishing Opal</a> for your armour.
+- We recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour.
 
 The most consistent setup is running 58.1% mutation-specific resistance. This is only attainable with 8x mutation-specific gems, and amulet or shield protection. This setup is no longer practical due to the cost of swapping Runeglass Gems.
 
