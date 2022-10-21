@@ -22,26 +22,24 @@ See [here](/nw/info/dmgabs) for more information about damage absorption.
 
 ## Weapon Gems
 ### DPS
-This is currently out of date, will be updated within 24hrs to display which is best.
+
+Even after the release of Brimstone, we believe that Cut Pristine Opal and Diamond are still the best to slot in **all weapons**.
+
+- The new gems cost quite a lot, and you **lose** damage on a lot of hits with them (15% normal opal, 12% runeglass)
+- We use an Opal or Diamond because of the 50/100STR perks, and slashdamage on ring. These bonuses **only apply to physical damage**, so if you use a conversion gem you lose some of these bonuses.
+  
+It may be worth using Runeglass gems on slow attacking weapons: Greatsword, Greataxe, and Sword.
 
 
-The ideal weapon gem for each build is listed alongside that build.
-
-For all DPS it's ideal to use a Cut Pristine Opal **or** Diamond **unless** the following is true:
 
 
-```
-(30% - WPN%)/2 >= 15%
+<!-- ```
+(30% - WPN%)/2 >= 20%
 ```
 - 30% = The maximum % bonus any elemental type will do.
 - WPN% = The % bonus your weapon does against the mobtype. [Found here](/nw/info/mobresists/)
 - Divide by 2 as elemental gems convert half of your damage.
-  
-examples:
-
--- Hatchet vs Angry Earth = (30% - 20%)/2 = 5% (This is why Opal is better than Ruby for Genesis.)
-
--- Spear vs. Ancients = (30% - 0%)/2 = 15% (Topaz is worth using for the consistent uptime)
+   -->
 
 ---
 

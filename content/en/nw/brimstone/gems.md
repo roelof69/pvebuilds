@@ -11,7 +11,12 @@ toc: true
 
 ## Weapon Gems
 
-Seems likely we continue running standard opal/diamond gems for now...
+Even after the release of Brimstone, we believe that Cut Pristine Opal and Diamond are still the best to slot in **all weapons**.
+
+- The new gems cost quite a lot, and you **lose** damage on a lot of hits with them (15% normal opal, 12% runeglass)
+- We use an Opal or Diamond because of the 50/100STR perks, and slashdamage on ring. These bonuses **only apply to physical damage**, so if you use a conversion gem you lose some of these bonuses.
+  
+It may be worth using Runeglass gems on slow attacking weapons: Greatsword, Greataxe, and Sword.
 
 <br>
 
@@ -34,6 +39,8 @@ Seems likely we continue running standard opal/diamond gems for now...
 We recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour.
 
 - Mutation-specific gems on your Jewellery.
+- This setup makes you much more reliant on a good healer - you will die to bleeds, burns, etc unless you're constantly being healed
+- Tanks and Healers should stick to the original 58.1% elemental resistance setup
 
 <br>
 

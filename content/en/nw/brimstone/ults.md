@@ -25,7 +25,7 @@ toc: true
 ---
 
 
-## DPS/Tank
+## DPS
 
 
 - <a href="https://nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a>
@@ -35,3 +35,7 @@ toc: true
 
 - <a href="https://nwdb.info/db/item/runegraspingvinest3a" target="_blank">Cunning Grasping Vines</a>
 - <a href="https://nwdb.info/db/item/runegraspingvinest3c" target="_blank">Brutal Grasping Vines</a>
+
+## Tank
+
+- <a href="https://nwdb.info/db/item/runestoneformt3a" target="_blank">Greater Stoneform</a>
