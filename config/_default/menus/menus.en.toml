@@ -1,7 +1,28 @@
 [[main]]
 name = "Info"
 url = "/nw/info/faq"
+identifier = "info"
 weight = 10
+
+[[main]]
+name = "General"
+url = "/nw/gen"
+weight = 11
+parent = "info"
+
+[[main]]
+name = "Mutations"
+url = "/nw/mut"
+weight = 12
+parent = "info"
+
+[[main]]
+name = "Brimstone"
+url = "/brimstone"
+weight = 13
+parent = "info"
+
+
 
 [[main]]
 name = "Builds"
