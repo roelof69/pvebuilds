@@ -7,13 +7,14 @@ toc: true
 ---
 
 ## Armour Gems
-The ideal (& affordable) gem loadout is 28.1% Elemental (3 Mutation-Specific Gems + Amulet or Shield Protection) & 10% Physical (5 Runeglass Onyx) Resistance. 
+For public runs, we recommend to continue using Cut Pristine Mutation-Specific gems. There is no reason to pay the price of runeglass casing for public runs.
 
-- We recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour.
 
-The most consistent setup is running 58.1% mutation-specific resistance. This is only attainable with 8x mutation-specific gems, and amulet or shield protection. This setup is no longer practical due to the cost of swapping Runeglass Gems.
+- The most consistent setup is running 58.1% mutation-specific resistance, attainable with 8x mutation-specific gems.
 
 The majority of damage in mutations is elemental, so in order to perform consistently it's important to have a high base resistance against the mutation. 
+
+For speedrunning we recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour, however this setup makes you completely reliant on your healer. **Do not attempt to run this in publics, unless you know the healer is good.**
 
 See [here](/nw/info/dmgabs) for more information about damage absorption.
 

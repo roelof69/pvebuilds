@@ -36,7 +36,9 @@ It may be worth using Runeglass gems on slow attacking weapons: Greatsword, Grea
 
 ## Armour Gems
 
-We recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour.
+For public runs, we recommend to continue using Cut Pristine Mutation-Specific gems. There is no reason to pay the price of runeglass casing for public runs.
+
+For speedrunning we recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour, however this setup makes you completely reliant on your healer. **Do not attempt to run this in publics, unless you know the healer is good.**
 
 - Mutation-specific gems on your Jewellery.
 - This setup makes you much more reliant on a good healer - you will die to bleeds, burns, etc unless you're constantly being healed
