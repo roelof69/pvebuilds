@@ -6,19 +6,19 @@ weight = 10
 
 [[main]]
 name = "General"
-url = "/nw/gen"
+url = "/nw/info/gen"
 weight = 11
 parent = "info"
 
 [[main]]
 name = "Mutations"
-url = "/nw/mut"
+url = "/nw/info/mut"
 weight = 12
 parent = "info"
 
 [[main]]
 name = "Brimstone"
-url = "/brimstone"
+url = "/nw/brimstone"
 weight = 13
 parent = "info"
 

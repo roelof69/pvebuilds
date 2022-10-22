@@ -1,11 +1,11 @@
 - id: view-builds
-  translation: "View Builds"
+  translation: "PvE Builds"
 
 - id: pve-info
   translation: "FAQ"
 
 - id: records
-  translation:  "World Records"
+  translation:  "Records"
 
 - id: on-this-page
   translation: "On this page"
