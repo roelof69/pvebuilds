@@ -6,9 +6,12 @@ toc: true
 ---
 
 ### Sword and Shield
+
 <a href="/images/skilltrees/sword/1.png" target="_blank"><img src="/images/skilltrees/sword/1.png"></a>
 
-<!-- ### Greatsword -->
+### Greatsword
+
+<a href="/images/skilltrees/greatsword/tank.png" target="_blank"><img src="/images/skilltrees/greatsword/tank.png"></a>
 
 ### Hatchet
 
