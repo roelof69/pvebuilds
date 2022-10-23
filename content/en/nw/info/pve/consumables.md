@@ -2,7 +2,7 @@
 title: "Consumables"
 description: "New World PvE Consumables Information."
 lead: "All of the consumables you'll need for New World PvE."
-weight: 40
+weight: 50
 toc: true
 ---
 

@@ -2,7 +2,7 @@
 title: "Boss & Status Effects"
 description: "Boss Debuffs and Status Effects for New World."
 lead: "Boss Debuffs and Status Effects."
-weight: 120
+weight: 230
 toc: true
 ---
 

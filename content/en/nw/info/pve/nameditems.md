@@ -2,7 +2,7 @@
 title: "Named Items"
 description: "Useful Named Items New World."
 lead: "Named items worth looking out for."
-weight: 80
+weight: 90
 toc: true
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: "Information"
 description: "New World PvE Information."
-weight: 1
+weight: 10
 ---

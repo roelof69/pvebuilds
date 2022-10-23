@@ -2,7 +2,7 @@
 title: "FAQ"
 description: "Answers to frequently asked questions."
 lead: "Answers to frequently asked questions."
-weight: 10
+weight: 40 
 toc: true
 ---
 

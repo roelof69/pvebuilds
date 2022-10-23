@@ -2,7 +2,7 @@
 title: "Gem Choices"
 description: "Mutation 10 Gem Choices."
 lead: "Mutation 10 Gem Choices."
-weight: 70
+weight: 220
 toc: true
 ---
 
