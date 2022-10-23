@@ -12,6 +12,8 @@ toc: true
 
 ### Greatsword
 #### Highest DPS
+Spin to win. Highest DPS but hard to survive in M10 with.
+
 <a href="/images/skilltrees/greatsword/dps.png" target="_blank"><img src="/images/skilltrees/greatsword/dps.png"></a>
 
 #### Recommended
