@@ -24,19 +24,48 @@
     <hr style="color:#fdb402;">
 
     <script>
+      function time2TimeAgo(ts) {
+        // This function computes the delta between the
+        // provided timestamp and the current time, then test
+        // the delta for predefined ranges.
+    
+        var d=new Date();  // Gets the current time
+        var nowTs = Math.floor(d.getTime()/1000); // getTime() returns milliseconds, and we need seconds, hence the Math.floor and division by 1000
+        var seconds = nowTs-ts;
+    
+        // more that two days
+        if (seconds > 2*24*3600) {
+           return "a few days ago";
+        }
+        // a day
+        if (seconds > 24*3600) {
+           return "yesterday";
+        }
+    
+        if (seconds > 3600) {
+           return "a few hours ago";
+        }
+        if (seconds > 1800) {
+           return "half an hour ago";
+        }
+        if (seconds > 60) {
+           return Math.floor(seconds/60) + " minutes ago";
+        }
+    }
+
       fetch('https://api.github.com/repos/roelof69/pvebuilds/commits?per_page=10')
       .then(res => res.json())
       .then(res => {
-        document.getElementById('message').innerHTML = "- "+res[0].commit.message.bold()+'\n\n'+res[0].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message2').innerHTML = "- "+res[1].commit.message.bold()+" | "+res[1].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message3').innerHTML = "- "+res[2].commit.message.bold()+" | "+res[2].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message4').innerHTML = "- "+res[3].commit.message.bold()+" | "+res[3].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message5').innerHTML = "- "+res[4].commit.message.bold()+" | "+res[4].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message6').innerHTML = "- "+res[5].commit.message.bold()+" | "+res[5].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message7').innerHTML = "- "+res[6].commit.message.bold()+" | "+res[6].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message8').innerHTML = "- "+res[7].commit.message.bold()+" | "+res[7].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message9').innerHTML = "- "+res[8].commit.message.bold()+" | "+res[8].commit.committer.date.replace('T',' at ').replace('Z','UTC')
-        document.getElementById('message10').innerHTML = "- "+res[9].commit.message.bold()+" | "+res[9].commit.committer.date.replace('T',' at ').replace('Z','UTC')
+        document.getElementById('message').innerHTML = res[0].commit.author.name.replace("roelof69","Roelof")+" - "+res[0].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[0].commit.committer.date).getTime() / 1000))
+        document.getElementById('message2').innerHTML = res[1].commit.author.name.replace("roelof69","Roelof")+" - "+res[1].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[1].commit.committer.date).getTime() / 1000))
+        document.getElementById('message3').innerHTML = res[2].commit.author.name.replace("roelof69","Roelof")+" - "+res[2].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[2].commit.committer.date).getTime() / 1000))
+        document.getElementById('message4').innerHTML = res[3].commit.author.name.replace("roelof69","Roelof")+" - "+res[3].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[3].commit.committer.date).getTime() / 1000))
+        document.getElementById('message5').innerHTML = res[4].commit.author.name.replace("roelof69","Roelof")+" - "+res[4].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[4].commit.committer.date).getTime() / 1000))
+        document.getElementById('message6').innerHTML = res[5].commit.author.name.replace("roelof69","Roelof")+" - "+res[5].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[5].commit.committer.date).getTime() / 1000))
+        document.getElementById('message7').innerHTML = res[6].commit.author.name.replace("roelof69","Roelof")+" - "+res[6].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[6].commit.committer.date).getTime() / 1000))
+        document.getElementById('message8').innerHTML = res[7].commit.author.name.replace("roelof69","Roelof")+" - "+res[7].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[7].commit.committer.date).getTime() / 1000))
+        document.getElementById('message9').innerHTML = res[8].commit.author.name.replace("roelof69","Roelof")+" - "+res[8].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[8].commit.committer.date).getTime() / 1000))
+        document.getElementById('message10').innerHTML = res[9].commit.author.name.replace("roelof69","Roelof")+" - "+res[9].commit.message.bold()+" - "+time2TimeAgo(Math.floor(new Date(res[9].commit.committer.date).getTime() / 1000))
       })
     </script>
   </section> 
