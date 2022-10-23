@@ -68,11 +68,8 @@ Ward potion recipes here: <a href="https://nwdb.info/db/recipe/potionfamiliyward
 ## Foods
 Below is a comprehensive list of the +40 attribute foods; you should be using one every run. Each food links to its respective recipe on nwdb.
 
+<div class="content" style="height:450px;">
+<iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnLHrfBQ7pzm1SaikWYvUQ0R-PdC7ZG7JddNUt6_6qJIglji8uYWkjdG8igAZ_MmpxWCw93mPp8Tpn/pubhtml"></iframe>
 
-|                  	|              **Strength**              	|             **Dexterity**            	|         **Intelligence**         	|               **Focus**               	|             **Constitution**            	|
-|:----------------:	|:--------------------------------------:	|:------------------------------------:	|:--------------------------------:	|:-------------------------------------:	|:---------------------------------------:	|
-|   **Strength**   	|          [Roasted Gnufish 40STR](https://nwdb.info/db/recipe/foodstrt5)         	|   [Bacon-Wrapped Scallops 24STR16DEX](https://nwdb.info/db/recipe/foodstrdext5)  	|  [Spaghetti Bolognese 24STR16INT](https://nwdb.info/db/recipe/foodstrintt5)  	|      [Honey Roasted Ham 24STR16FOC](https://nwdb.info/db/recipe/foodstrfoct5)     	|          [Carrot Cake 24STR16CON](https://nwdb.info/db/recipe/foodstrcont5)         	|
-|   **Dexterity**  	|     [Fall Harvest Turkey 24DEX16STR](https://nwdb.info/db/recipe/fooddexstrt5)     	|         [Fried Albenaja 40 DEX](https://nwdb.info/db/recipe/fooddext5)        	|     [Poacher's Pie 24DEX16INT](https://nwdb.info/db/recipe/fooddexintt5)     	|          [Carbonara 24DEX16FOC](https://nwdb.info/db/recipe/fooddexfoct5)         	|          [Rabbit Stew 24DEX16CON](https://nwdb.info/db/recipe/fooddexcont5)         	|
-| **Intelligence** 	|       [Squid Ink Pasta 24INT16STR](https://nwdb.info/db/recipe/foodintstrt5)       	|  [Filet in Mushroom Sauce 24INT16DEX](https://nwdb.info/db/recipe/foodintdext5)  	|     [Steamed Abaia Serpe 40INT](https://nwdb.info/db/recipe/foodintt5)    	| [Stuffed Venison Tenderloin 24INT16FOC](https://nwdb.info/db/recipe/foodintfoct5) 	| [Glazed Bear with Sauteed Veg 24INT16CON](https://nwdb.info/db/recipe/foodintcont5) 	|
-|     **Focus**    	|    [Butter Poached Oysters 24FOC16STR](https://nwdb.info/db/recipe/foodfocstrt5)   	|    [Roasted Turkey Thigh 24FOC16DEX](https://nwdb.info/db/recipe/foodfocdext5)   	|   [Venison Tenderloin 24FOC16INT](https://nwdb.info/db/recipe/foodfocintt5)  	|      [Blacked Mandje Mandje 40FOC](https://nwdb.info/db/recipe/foodfoct5)      	|    [Slow Roasted Bear Flank 24FOC16CON](https://nwdb.info/db/recipe/foodfoccont5)   	|
-| **Constitution** 	| [Turkey Thigh with Pan Gravy 24CON16STR](https://nwdb.info/db/recipe/foodconstrt5) 	| [Blackened Ray-Finned Barb 24CON16DEX](https://nwdb.info/db/recipe/foodcondext5) 	| [Pork Belly Fried Rice 24CON16INT](https://nwdb.info/db/recipe/foodconintt5) 	|       [Smoked Rib Cap 24CON16FOC](https://nwdb.info/db/recipe/foodconfoct5)       	|  [Roasted Rabbit with Seasoned Veg 40CON](https://nwdb.info/db/recipe/foodcont5) 	|
+
+---
