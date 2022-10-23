@@ -39,7 +39,23 @@ Links: **<a href="https://gyazo.com/614ca973056571e5fc422d6bab04d6f5" target="_b
 
 ---
 
-{{< details "#3 - 20:38 - Uploaded by Bd3ricks & eRectile Dysfunct" >}}
+{{< details "#3 - 20:20 - Project United" >}}
+Players: **zPyr0 | Sethz | DyGii | LordBucketHead | Beocca Parto**
+
+Weapons: Sword+WH | Hatchet+GA | Hatchet+GA | Hatchet+Spear | LS+VG
+
+Server: Maramma (USE)
+
+Mutation: Eternal + Oppressive + Desiccated
+
+<a href="https://www.youtube.com/watch?v=FdqYuHxBdb0" target="_blank">VOD</a>**
+
+{{< /details >}}
+
+
+---
+
+{{< details "#4 - 20:38 - Uploaded by Bd3ricks & eRectile Dysfunct" >}}
 Players: **eRectile Dysfunct | Bd3ricks | Lilith Crane | Goldbergstein | Boostin**
 
 Weapons: Sword+WH | Hatchet+GA | Hatchet+GA | Hatchet+GA | LS+VG
