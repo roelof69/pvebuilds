@@ -9,7 +9,13 @@ toc: true
 
 ## Skill Tree
 
+### DPS
+
 <a href="/images/skilltrees/greatsword/1.png" target="_blank"><img src="/images/skilltrees/greatsword/1.png"></a>
+
+### Tank
+
+<a href="/images/skilltrees/greatsword/tank.png" target="_blank"><img src="/images/skilltrees/greatsword/tank.png"></a>
 
 ## Free Farmable Greatswords
 
