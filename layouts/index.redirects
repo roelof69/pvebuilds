@@ -6,6 +6,9 @@
 
 
 # _redirects
+https://pvebuilds.xyz/nw/info/gen/* https://pvebuilds.xyz/nw/info/pve/:splat 301!
+https://pvebuilds.xyz/nw/info/faq/* https://pvebuilds.xyz/nw/info/pve/faq/:splat 301!
+
 https://pvebuilds.xyz/docs/information/*    https://pvebuilds.xyz/nw/info/:splat    301!
 https://pvebuilds.xyz/docs/*     https://pvebuilds.xyz/nw/:splat     301!
 https://pvebuilds.xyz/worldrecords/*    https://pvebuilds.xyz/records/:splat    301!
