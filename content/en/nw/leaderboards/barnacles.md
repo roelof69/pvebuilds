@@ -48,7 +48,7 @@ Server: Maramma (USE)
 
 Mutation: Eternal + Oppressive + Desiccated
 
-<a href="https://www.youtube.com/watch?v=FdqYuHxBdb0" target="_blank">VOD</a>**
+**<a href="https://www.youtube.com/watch?v=FdqYuHxBdb0" target="_blank">VOD</a>**
 
 {{< /details >}}
 
