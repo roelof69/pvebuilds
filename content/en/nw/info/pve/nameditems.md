@@ -108,70 +108,91 @@ toc: true
 ## Armour
 
 ### DPS
+
 #### Ancient
+
 -- <a href="https://nwdb.info/db/item/lightchest_bs_boss_mutt5_600_v2" target="_blank">**Light** Sun Lord's Set || Ancient Ward + Refreshing Evasion + Shirking Fortification</a>
+
 -- <a href="https://nwdb.info/db/item/mediumlegs_simpleskirtt5_v2" target="_blank">**Medium** Simple Skirt || Ancient Ward + Refreshing Evasion + Shirking Energy</a>
 
 ---
 
 #### Angry Earth
+
 -- <a href="https://nwdb.info/db/item/mediumchest_bb_boss2_mutt5_600_v2" target="_blank">**Light** Siren's Set || Angry Earth Ward + Refreshing + Elemental Aversion **(CON)**</a>
+
 -- <a href="https://nwdb.info/db/item/mediumchest_elitepoi_harbingerrobest5" target="_blank">**Medium** Harbinger's Set || Angry Earth Ward + Refreshing + Elemental Aversion **(DEX)**</a>
 
 ---
 
 #### Corrupted
+
 -- <a href="https://nwdb.info/db/item/mediumchest_m_boss600_mutt5_v2" target="_blank">**Medium** Isabellas Set  || Corrupted Ward + Refreshing Evasion + Shirking/Emp Breaker/Sturdy Energy/Vigor</a>
 
 ---
 
 #### Lost
+
 -- <a href="https://nwdb.info/db/item/lightchest_bb_boss_mutt5_600_v2" target="_blank">**Light** Admiral's Set || Lost Ward + Refreshing  + Physical Aversion</a>
 
 ---
 
 ### Tank
 #### Ancient
+
 -- <a href="https://nwdb.info/db/item/heavychest_li_boss600_mutt5_v2" target="_blank">**Heavy** Chardis Set  || Ancient Ward + Refreshing Ward + Invigorated</a>
+
 -- <a href="https://nwdb.info/db/item/heavychest_colossalstormplatet5_v2" target="_blank">**Heavy** Colossal  || Ancient Ward + Elemental Aversion + Invigorated</a>
+
 -- <a href="https://nwdb.info/db/item/heavylegs_weightedgreavest5_v2" target="_blank">**Heavy** Weighted Greaves  || Ancient Ward + Refreshing Ward + Invigorated</a>
+
 -- <a href="https://nwdb.info/db/item/heavyhead_castrumcrownofthegoatkingt5_v2" target="_blank">**Heavy** Castrum Crown of the Goat-King  || Ancient Ward + Refreshing Ward + Physical Aversion</a>
+
 -- <a href="https://nwdb.info/db/item/heavyhands_guardiansgauntletst5_v2" target="_blank">**Heavy** Guardian's Gauntlet  || Ancient Ward + Empowering Breaker + Physical Aversion</a>
 
 ---
 
 #### Angry Earth
+
 -- <a href="https://nwdb.info/db/item/heavychest_elitepoi_harbingerrobest5" target="_blank">**Heavy** Harbinger Set  || Angry Earth Ward + Refreshing + Invigorated</a>
+
 -- <a href="https://nwdb.info/db/item/heavyhead_crownofsobekt5_v2" target="_blank">**Heavy** Crown of Sobek  || Angry Earth Ward + Vigor + Physical Aversion</a>
 
 ---
 
 #### Corrupted
+
 -- <a href="https://nwdb.info/db/item/heavychest_d_boss_mutt5_600_v2" target="_blank">**Heavy** Expedition Captain's Set  || Corrupted Ward + Refreshing + Physical Aversion</a>
+
 -- <a href="https://nwdb.info/db/item/heavyhead_bs_boss_mutt5_600_v2" target="_blank">**Heavy** Auerate's Golden Set  || Corrupted Ward + Refreshing Ward + Physical Aversion</a>
 
 ---
 
 #### Lost
+
 N/A?
 
 ---
 
 ### Healer
 #### Ancient
+
 -- <a href="https://nwdb.info/db/item/mediumfeet_elitepoi_highwaymant5" target="_blank">**Light** Highwayman's Boots  || Ancient Ward + Refreshing + Freedom</a>
 
 ---
 
 #### Angry Earth
+
 -- <a href="https://nwdb.info/db/item/mediumchest_bb_boss2_mutt5_600_v2" target="_blank">**Light** Siren's Set || Angry Earth Ward + Refreshing + Elemental Aversion **(CON)**</a>
 
 ---
 
 #### Corrupted
+
 -- <a href="https://nwdb.info/db/item/lightchest_ds_boss600_mutt5_v2" target="_blank">**Light** Empress Zhou's Set  || Corrupted Ward + Refreshing Evasion + Invigorated</a>
 
 ---
 
 #### Lost
+
 N/A?
