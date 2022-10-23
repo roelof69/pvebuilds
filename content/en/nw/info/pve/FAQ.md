@@ -33,7 +33,7 @@ DPS and Tanks should have:
 |   DPS/Tank   	|      Perk 1      	|              Perk 2              	|                                Perk 3                               	|
 |:-------:	|:----------------:	|:--------------------------------:	|:-------------------------------------------------------------------:	|
 |  Amulet 	|      Health      	|       Elemental  Protection      	|                         Refreshing or Empowered                        	|
-|   Ring  	|     Leeching     	| DamageType   (e.g. Slash Damage) 	| Refreshing=Hearty.  If you're **over** 150DEX, Refreshing is better. 	|
+|   Ring  	|     <a href="https://nwdb.info/db/item/ringt5_legatesring_v2" target="_blank">Legate's Ring for 150+ DEX</a>     	| <a href="https://nwdb.info/db/item/ring_smoothboneringt5_v2" target="_blank">Smooth Bone Ring for <150 DEX</a> 	|  <a href="https://nwdb.info/db/item/ringt5_heartofheka_v2" target="_blank">Alternative - Heart of Heka</a>	|
 | Earring 	| Refreshing Toast 	|            Refreshing            	|             Purifying Toast=Beloved=Evasive >Regenerating            	|
 
 Healers should have:
