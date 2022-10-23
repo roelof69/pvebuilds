@@ -2,7 +2,7 @@
 title: "Greatsword"
 lead: "Greatsword info"
 description: "New World Greatsword Recommendations."
-weight: 2010
+weight: 2020
 toc: true
 ---
 

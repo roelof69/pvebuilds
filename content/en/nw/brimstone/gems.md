@@ -2,7 +2,7 @@
 title: "Runeglass Gems"
 lead: "New Gems added with Brimstone Sands."
 description: "Best Heartgems for New World PvE."
-weight: 2020
+weight: 2030
 toc: true
 ---
 

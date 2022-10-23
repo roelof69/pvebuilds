@@ -2,7 +2,7 @@
 title: "Golden Scarabs"
 lead: "Everything you need to know about Golden Scarabs."
 description: "How and where to farm Golden Scarabs in New World."
-weight: 2040
+weight: 2010
 toc: true
 ---
 
