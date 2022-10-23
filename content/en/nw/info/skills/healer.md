@@ -1,7 +1,7 @@
 ---
 title : "Heals"
 description: "M11-Approved Healer Skill Trees."
-weight: 220
+weight: 530
 toc: true
 ---
 

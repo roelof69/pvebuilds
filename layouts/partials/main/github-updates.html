@@ -51,6 +51,9 @@
         if (seconds > 60) {
            return Math.floor(seconds/60) + " minutes ago";
         }
+        if (seconds < 60) {
+         return Math.floor(seconds) + " seconds ago";
+      }
     }
 
       fetch('https://api.github.com/repos/roelof69/pvebuilds/commits?per_page=10')

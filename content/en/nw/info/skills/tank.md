@@ -1,7 +1,7 @@
 ---
 title : "Tank"
 description: "M11-Approved Tank Skill Trees."
-weight: 200
+weight: 520
 toc: true
 ---
 

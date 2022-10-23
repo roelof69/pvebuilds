@@ -1,7 +1,7 @@
 ---
 title : "DPS"
 description: "M11-Approved DPS Skill Trees."
-weight: 200
+weight: 510
 toc: true
 ---
 
