@@ -11,9 +11,15 @@ toc: true
 
 
 ### Greatsword
+#### Highest DPS
+<a href="/images/skilltrees/greatsword/dps.png" target="_blank"><img src="/images/skilltrees/greatsword/dps.png"></a>
 
+#### Recommended
+Open with Rupture for the Fortify & Weaken, then use Skyward/Crosscut to change stance and start swinging heavies.
 
 <a href="/images/skilltrees/greatsword/1.png" target="_blank"><img src="/images/skilltrees/greatsword/1.png"></a>
+
+
 
 ---
 
