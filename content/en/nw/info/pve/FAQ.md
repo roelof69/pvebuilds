@@ -9,14 +9,14 @@ toc: true
 ## Armour Gems
 **What gems should I have on my armour?**
 
-It depends on the amount of fortify you're applying, [see here for an explanation.](/nw/info/gemchoices/) 
+It depends on the amount of fortify you're applying, [see here for an explanation.](/nw/info/pve/gemchoices/) 
 
 For the open world and base expeditions, use Cut Pristine Onyxes.
 
 ## Weapon Gems
 **What gems should I have on my weapons?**
 
-See [here](/nw/info/gemchoices/#dps) for an explanation.
+See [here](/nw/info/pve/gemchoices/#dps) for an explanation.
 
 
 ## Armour Perks

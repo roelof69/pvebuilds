@@ -16,7 +16,7 @@ The majority of damage in mutations is elemental, so in order to perform consist
 
 For speedrunning we recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour, however this setup makes you completely reliant on your healer. **Do not attempt to run this in publics, unless you know the healer is good.**
 
-See [here](/nw/info/dmgabs) for more information about damage absorption.
+See [here](/nw/info/pve/dmgabs) for more information about damage absorption.
 
 ---
 ---
@@ -38,7 +38,7 @@ It may be worth using Runeglass gems on slow attacking weapons: Greatsword, Grea
 (30% - WPN%)/2 >= 20%
 ```
 - 30% = The maximum % bonus any elemental type will do.
-- WPN% = The % bonus your weapon does against the mobtype. [Found here](/nw/info/mobresists/)
+- WPN% = The % bonus your weapon does against the mobtype. [Found here](/nw/info/pve/mobresists/)
 - Divide by 2 as elemental gems convert half of your damage.
    -->
 
