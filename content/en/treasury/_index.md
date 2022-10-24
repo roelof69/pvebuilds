@@ -23,6 +23,6 @@ toc: false
 </style>
 
   <div id="iframe-container">
-    <iframe
+    <iframe scrolling="no"frameborder="0" marginheight="0" marginwidth="0"
       src="https://docs.google.com/spreadsheets/d/1y93auTDK0jFxhhhObp2PPRChx5IdW9GuUDe0xuHAFJQ/edit#gid=1742636747?headers=false"></iframe>
   </div>

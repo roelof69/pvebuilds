@@ -1,6 +1,6 @@
 {{ define "main" }}
-<div class="row justify-content-center">
-  <div class="">
+<div class="row justify-content-center" style="overflow:auto;">
+
     <article>
       <h1 class="text-center">{{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
       <div class="text-center">{{ .Content }}</div>
@@ -18,5 +18,5 @@
 			</div>  */}}
     </article>
   </div>
-</div>
+
 {{ end }}

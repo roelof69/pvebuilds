@@ -24,6 +24,6 @@ weight: 10
 </style>
 
   <div id="iframe-container">
-    <iframe
+    <iframe scrolling="no"frameborder="0" marginheight="0" marginwidth="0"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTP0Wb_33YwYCh0MUrWnVRBWpDHBlKOTz87AUJIU1VFEIy5_oQissr9S9cYVVmaEzgEFJK5TszpRtB4/pubhtml?headers=false&gridlines=false"></iframe>
   </div>
