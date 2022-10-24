@@ -16,11 +16,11 @@ https://pvebuilds.xyz/worldrecords/*    https://pvebuilds.xyz/records/:splat    
 https://pvebuilds.xyz/nw/info/statusbosseffects/* https://pvebuilds.xyz/nw/info/mut/statusbosseffects/:splat 301!
 https://pvebuilds.xyz/nw/info/dmgabs/* https://pvebuilds.xyz/nw/info/mut/dmgabs/:splat 301!
 https://pvebuilds.xyz/nw/info/modifiers/* https://pvebuilds.xyz/nw/info/mut/modifiers/:splat 301!
-https://pvebuilds.xyz/nw/info/consumables/* https://pvebuilds.xyz/nw/info/gen/consumables/:splat 301!
-https://pvebuilds.xyz/nw/info/mobresists/* https://pvebuilds.xyz/nw/info/gen/mobresists/:splat 301!
-https://pvebuilds.xyz/nw/info/weightloadouts/* https://pvebuilds.xyz/nw/info/gen/weightloadouts/:splat 301!
-https://pvebuilds.xyz/nw/info/gemchoices/* https://pvebuilds.xyz/nw/info/gen/gemchoices/:splat 301!
-https://pvebuilds.xyz/nw/info/nameditems/* https://pvebuilds.xyz/nw/info/gen/nameditems/:splat 301!
+https://pvebuilds.xyz/nw/info/consumables/* https://pvebuilds.xyz/nw/info/pve/consumables/:splat 301!
+https://pvebuilds.xyz/nw/info/mobresists/* https://pvebuilds.xyz/nw/info/pve/mobresists/:splat 301!
+https://pvebuilds.xyz/nw/info/weightloadouts/* https://pvebuilds.xyz/nw/info/pve/weightloadouts/:splat 301!
+https://pvebuilds.xyz/nw/info/gemchoices/* https://pvebuilds.xyz/nw/info/pve/gemchoices/:splat 301!
+https://pvebuilds.xyz/nw/info/nameditems/* https://pvebuilds.xyz/nw/info/pve/nameditems/:splat 301!
 
 
 #STREAM GEAR REDIRECTS
