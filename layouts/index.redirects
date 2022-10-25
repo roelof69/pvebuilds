@@ -14,7 +14,7 @@ https://pvebuilds.xyz/docs/information/*    https://pvebuilds.xyz/nw/info/:splat
 https://pvebuilds.xyz/docs/*     https://pvebuilds.xyz/nw/:splat     301!
 https://pvebuilds.xyz/worldrecords/*    https://pvebuilds.xyz/records/:splat    301!
 https://pvebuilds.xyz/nw/info/statusbosseffects/* https://pvebuilds.xyz/nw/info/mut/statusbosseffects/:splat 301!
-https://pvebuilds.xyz/nw/info/dmgabs/* https://pvebuilds.xyz/nw/info/mut/dmgabs/:splat 301!
+https://pvebuilds.xyz/nw/info/dmgabs/* https://pvebuilds.xyz/nw/info/pve/dmgabs/:splat 301!
 https://pvebuilds.xyz/nw/info/modifiers/* https://pvebuilds.xyz/nw/info/mut/modifiers/:splat 301!
 https://pvebuilds.xyz/nw/info/consumables/* https://pvebuilds.xyz/nw/info/pve/consumables/:splat 301!
 https://pvebuilds.xyz/nw/info/mobresists/* https://pvebuilds.xyz/nw/info/pve/mobresists/:splat 301!
