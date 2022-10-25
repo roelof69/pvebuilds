@@ -17,6 +17,168 @@ toc: true
 ---
 ---
 
+## DPS 
+
+### Weapons
+
+{{< details "Ancient" >}}
+### Hatchet
+
+-- <a href="https://nwdb.info/db/item/1hthrowingaxe_bonechoppert5" target="_blank">Bonechopper  || Angry Earth Bane + Rogue + Keenly Fortified</a>
+
+---
+
+### Spear
+
+-- <a href="https://nwdb.info/db/item/2hspear_javelinofdryadicempowermentt5" target="_blank">Javelin of Dryadic Empowerment  || Keen + Vicious + Keenly Empowered</a>
+
+-- <a href="https://nwdb.info/db/item/2hspear_angryearthexterminatort5" target="_blank">Angry Earth Exterminator  || Keen + Vicious + Angry Earth Bane</a>
+
+---
+
+### Rapier
+
+-- <a href="https://nwdb.info/db/item/1hrapier_hopelessnesst5" target="_blank">Hopelessness **not free nor farmable**  || Corrupted Bane + Rogue + Chain</a>
+
+---
+
+### Sword
+
+-- <a href="https://nwdb.info/db/item/1hlongsword_infernust5_v2" target="_blank">Infernus  || Enchanted + Refreshing Move + Lifestealing</a>
+{{< /details >}}
+
+{{< details "Angry Earth" >}}
+test
+{{< /details >}}
+
+{{< details "Beast" >}}
+test
+{{< /details >}}
+
+{{< details "Corrupted" >}}
+test
+{{< /details >}}
+
+
+
+### Armour
+
+{{< details "Ancient" >}}
+test
+{{< /details >}}
+
+{{< details "Angry Earth" >}}
+test
+{{< /details >}}
+
+{{< details "Beast" >}}
+test
+{{< /details >}}
+
+{{< details "Corrupted" >}}
+test
+{{< /details >}}
+
+---
+
+## Tank
+
+### Weapons
+
+{{< details "Ancient" >}}
+test
+{{< /details >}}
+
+{{< details "Angry Earth" >}}
+test
+{{< /details >}}
+
+{{< details "Beast" >}}
+test
+{{< /details >}}
+
+{{< details "Corrupted" >}}
+test
+{{< /details >}}
+
+
+
+### Armour
+
+{{< details "Ancient" >}}
+test
+{{< /details >}}
+
+{{< details "Angry Earth" >}}
+test
+{{< /details >}}
+
+{{< details "Beast" >}}
+test
+{{< /details >}}
+
+{{< details "Corrupted" >}}
+test
+{{< /details >}}
+
+---
+
+## Healer
+
+### Weapons
+
+{{< details "Ancient" >}}
+test
+{{< /details >}}
+
+{{< details "Angry Earth" >}}
+test
+{{< /details >}}
+
+{{< details "Beast" >}}
+test
+{{< /details >}}
+
+{{< details "Corrupted" >}}
+test
+{{< /details >}}
+
+
+
+### Armour
+
+{{< details "Ancient" >}}
+test
+{{< /details >}}
+
+{{< details "Angry Earth" >}}
+test
+{{< /details >}}
+
+{{< details "Beast" >}}
+test
+{{< /details >}}
+
+{{< details "Corrupted" >}}
+test
+{{< /details >}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Weapons
 
 ### Greatsword
