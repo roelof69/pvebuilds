@@ -23,11 +23,11 @@ toc: false
 
 @media screen and (max-width:500px) {
       #iframe-container {
-        position:fixed;
+        position:absolute;
         top:0;
         left:0;
-        width:250%;
         height:250%;
+        width:250%;
         margin: 60px 0 0; /* <<< gives room for the navbar */
         overflow: hidden;
       }
