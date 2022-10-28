@@ -27,8 +27,8 @@ weight: 10
         position:absolute;
         top:0;
         left:0;
-        width:1920px;
-        height: 1080px;
+        width:250%;
+        height:250%;
       }
 }
 </style>
