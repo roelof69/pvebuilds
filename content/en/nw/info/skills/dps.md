@@ -81,12 +81,6 @@ Open with Rupture for the Fortify & Weaken, then use Skyward/Crosscut to change 
 
 <a href="/images/skilltrees/greataxe/1.png" target="_blank"><img src="/images/skilltrees/greataxe/1.png"></a>
 
-#### Lazarus
-
-Reap and Execute; swap Reap for Execute before the Cilla & Chardis bossfights for extra DPS. 
-
-<a href="/images/skilltrees/greataxe/2.png" target="_blank"><img src="/images/skilltrees/greataxe/2.png"></a>
-
 
 ---
 
