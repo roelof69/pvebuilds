@@ -13,39 +13,39 @@ You must progress through the main story and complete <a href="https://nwdb.info
 
 - You can craft Minor Heartrunes with Expedition Materia, or receive them as a guaranteed drop from their respective boss.
 
--- **(Currently on the PTR)** <a href="https://ptr.nwdb.info/db/item/runebilebombt1" target="_blank">Bile Bomb</a> from Simon Gray in Startstone Barrows
+-- **(Currently on the PTR)** <a href="https://ptr.nwdb.info/db/item/runebilebombt1" target="_blank">Bile Bomb</a> from Simon Gray in Startstone Barrows.
   
--- <a href="https://nwdb.info/db/item/runedetonatet1" target="_blank">Detonate</a> from Heru in Ennead
+-- <a href="https://nwdb.info/db/item/runedetonatet1" target="_blank">Detonate</a> from Heru in Ennead.
 
--- <a href="https://nwdb.info/db/item/runegraspingvinest1" target="_blank">Grasping Vines</a> from Alluvium Marl in Genesis
+-- <a href="https://nwdb.info/db/item/runegraspingvinest1" target="_blank">Grasping Vines</a> from Alluvium Marl in Genesis.
 
--- <a href="https://nwdb.info/db/item/runestoneformt1" target="_blank">Stoneform</a> from Chardis in Lazarus
+-- <a href="https://nwdb.info/db/item/runestoneformt1" target="_blank">Stoneform</a> from Chardis in Lazarus.
 
--- <a href="https://nwdb.info/db/item/runehereticsfallt1" target="_blank">Dark Ascent</a> from Isabella in Tempest
+-- <a href="https://nwdb.info/db/item/runehereticsfallt1" target="_blank">Dark Ascent</a> from Isabella in Tempest.
 
--- <a href="https://nwdb.info/db/item/runecannonblastt1" target="_blank">Cannon Blast</a> from Admiral Blackpowder in Barnacles
+-- <a href="https://nwdb.info/db/item/runecannonblastt1" target="_blank">Cannon Blast</a> from Admiral Blackpowder in Barnacles.
 
 ---
 
 
 ## DPS
 
-We recommend <a href="https://nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a> as it's the most damage - hitting up to 14k (that I've seen)
+We recommend <a href="https://nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a> as it's the most damage - hitting up to 14k (that I've seen).
 
-- Be aware that the 15% increased damage taken can be rough, make sure to drink a ward potion or be ready to use a health potion if needed
+- Be aware that the 15% increased damage taken can be rough, make sure to drink a ward potion or be ready to use a health potion if needed.
 
 ## Healer
 
 As healer, you have two choices.
-1. <a href="https://nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a> for the damage - hitting up to 10k with your Lifestaff out
-2. <a href="https://nwdb.info/db/item/runegraspingvinest3c" target="_blank">Brutal Grasping Vines</a> for the utility - rooting and rending all mobs, best used after a big gravity well
+1. <a href="https://nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a> for the damage - hitting up to 10k with your Lifestaff out.
+2. <a href="https://nwdb.info/db/item/runegraspingvinest3c" target="_blank">Brutal Grasping Vines</a> for the utility - rooting and rending all mobs, best used after a big Gravity Well.
 
 
 ## Tank
 
 For tanks, again we recommend 
 
-1. <a href="https://nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a> for damage
-2. <a href="https://nwdb.info/db/item/runestoneformt3a" target="_blank">Greater Stoneform</a> for extra survivability
-3. <a href="https://nwdb.info/db/item/runegraspingvinest3c" target="_blank">Brutal Grasping Vines</a> for keeping big clumps in place and rend/weaken
+1. <a href="https://nwdb.info/db/item/runedetonatet3c" target="_blank">Brutal Detonate</a> for damage.
+2. <a href="https://nwdb.info/db/item/runestoneformt3a" target="_blank">Greater Stoneform</a> for extra survivability.
+3. <a href="https://nwdb.info/db/item/runegraspingvinest3c" target="_blank">Brutal Grasping Vines</a> for keeping big clumps in place and rend/weaken.
 

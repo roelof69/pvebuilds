@@ -7,8 +7,8 @@ toc: true
 
 Greatsword is the **highest DPS in-game**, it makes M10 challenging but you can definitely run with Greatsword as your primary weapon.
 
-- In my opinion, Greatsword+Greataxe is the ideal combination - allowing you to group mobs, peel for your healer, and do insane damage
-- Hatchet is still better DPS for groups of mobs, so you could consider running Hatchet and swapping to Greatsword for bosses
+- In my opinion, Greatsword+Greataxe is the ideal combination - allowing you to group mobs, peel for your healer, and do insane damage.
+- Hatchet is still better DPS for groups of mobs, so you could consider running Hatchet and swapping to Greatsword for bosses.
 
 ---
 
@@ -16,9 +16,9 @@ Greatsword is the **highest DPS in-game**, it makes M10 challenging but you can 
 
 ### Armour
 
-- <a href="https://nwdb.info/db/perk/perkid_ability_greatsword_combo" target="_blank">Leeching Crosscut</a> on your armour (or weapon) is highly recommended, it allows you to survive through a lot of risky situations
-- <a href="https://nwdb.info/db/perk/perkid_ability_greatsword_burst" target="_blank">Slowing Rupture</a> is not mandatory but the slow can increase your DPS if there are no other slows on the team
-- No other perks are worth using PvE
+- <a href="https://nwdb.info/db/perk/perkid_ability_greatsword_combo" target="_blank">Leeching Crosscut</a> on your armour (or weapon) is highly recommended, it allows you to survive through a lot of risky situations.
+- <a href="https://nwdb.info/db/perk/perkid_ability_greatsword_burst" target="_blank">Slowing Rupture</a> is not mandatory but the slow can increase your DPS if there are no other slows on the team.
+- No other perks are worth using PvE.
 
 ---
 
@@ -38,17 +38,17 @@ The ideal PvE Greatsword is:
 
 Spin to win. This build puts you at empower cap and is the highest DPS, but leaves you extremely vulnerable.
 
-- Open with Relentless Rush -> Skyward -> Crosscut and spam heavies
+- Open with Relentless Rush -> Skyward -> Crosscut and spam heavies.
 
 <a href="/images/skilltrees/greatsword/gsdps.png" target="_blank"><img src="/images/skilltrees/greatsword/gsdps.png"></a>
 
 ### Utility 
 
-This tree provides a lot of utility for your team, and is only marginally less DPS (depending on if your healer is using Oblivion or not)
+This tree provides a lot of utility for your team, and is only marginally less DPS (depending on if your healer is using Oblivion or not).
 
-- Open with Rupture for weaken/fortify, then use Skyward to apply rend/disease/stance swap, then crosscut into charged heavy attacks
-- Skyward can be swapped with Relentless Rush, depending on your needs
-- The pull from Rupture can be extremely useful for peeling mobs, if you need it then open with either Crosscut or Skyward first, then use Rupture for the pull before using your last ability to stance swap
+- Open with Rupture for weaken/fortify, follow up with Skyward to apply rend/disease/stance swap, then Crosscut into charged heavy attacks.
+- Skyward can be swapped with Relentless Rush, depending on your needs.
+- The pull from Rupture can be extremely useful for peeling mobs, if you need it then open with either Crosscut or Skyward first, then use Rupture for the pull before using your last ability to stance swap.
 
 <a href="/images/skilltrees/greatsword/gsutility.png" target="_blank"><img src="/images/skilltrees/greatsword/gsutility.png"></a>
 

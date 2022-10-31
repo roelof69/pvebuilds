@@ -6,22 +6,34 @@ toc: true
 ---
 
 
+
 ## Primary Weapons
 
-
+---
 
 ### Greatsword
+
+Visit the Greatsword page <a href="/nw/brimstone/gs/" target="_blank">here</a> for more.
+
 #### Highest DPS
-Spin to win. Highest DPS but hard to survive in M10 with.
+
+Spin to win. This build puts you at empower cap and is the highest DPS, but leaves you extremely vulnerable.
+
+- Open with Relentless Rush -> Skyward -> Crosscut and spam heavies.
 
 <a href="/images/skilltrees/greatsword/gsdps.png" target="_blank"><img src="/images/skilltrees/greatsword/gsdps.png"></a>
 
-#### Recommended
-Open with Rupture for the Fortify & Weaken, then use Skyward/Crosscut to change stance and start swinging heavies.
+#### Utility DPS
+
+This tree provides a lot of utility for your team, and is only marginally less DPS (depending on if your healer is using Oblivion or not).
+
+- Open with Rupture for weaken/fortify, follow up with Skyward to apply rend/disease/stance swap, then Crosscut into charged heavy attacks.
+- Skyward can be swapped with Relentless Rush, depending on your needs.
+- The pull from Rupture can be extremely useful for peeling mobs, if you need it then open with either Crosscut or Skyward first, then use Rupture for the pull before using your last ability to stance swap.
 
 <a href="/images/skilltrees/greatsword/gsutility.png" target="_blank"><img src="/images/skilltrees/greatsword/gsutility.png"></a>
 
-
+<br>
 
 ---
 
