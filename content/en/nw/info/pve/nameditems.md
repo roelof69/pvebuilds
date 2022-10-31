@@ -18,7 +18,7 @@ overflow:hidden;
 }
 .gsheet {
 margin-top:-28px;
-margin-bottom:-61px;
+margin-bottom:-81px;
 height:600px;
 width:100%;
 }

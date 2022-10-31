@@ -1,5 +1,5 @@
 ---
-title: "Weapon Skill Trees"
+title: "Skill Trees"
 description: "M11 approved weapon skill trees."
 weight: 500
 toc: true

@@ -1,25 +1,73 @@
 [[main]]
 name = "Info"
-identifier = "info"
-weight = 10
+url = "/nw/info/pve/"
+identifier = "pve"
+weight = 1
+
+[[main]]
+name = "Brimstone"
+url = "/brimstone/"
+weight = 12
+parent = "pve"
 
 [[main]]
 name = "FAQ"
-url = "/nw/info/pve/faq"
+url = "/nw/info/pve/faq/"
 weight = 11
-parent = "info"
+parent = "pve"
 
 [[main]]
-name = "Mutations"
-url = "/nw/info/mut/"
+name = "Consumables"
+url = "/nw/info/pve/consumables/"
 weight = 12
-parent = "info"
+parent = "pve"
 
 [[main]]
-name = "Skill Trees"
-url = "/skills"
+name = "Ideal Armour Weight"
+url = "/nw/info/pve/weightloadouts/"
 weight = 13
-parent = "info"
+parent = "pve"
+
+[[main]]
+name = "Mob Weaknesses"
+url = "/nw/info/pve/mobresists/"
+weight = 14 
+parent = "pve"
+
+[[main]]
+name = "Named Items"
+url = "/nw/info/pve/nameditems/"
+weight = 15 
+parent = "pve"
+
+
+[[main]]
+name = "Mutators"
+url = "/nw/info/mut/modifiers/"
+weight = 16 
+parent = "pve"
+
+[[main]]
+name = "Boss & Status Effects"
+url = "/nw/info/mut/statusbosseffects/"
+weight = 17 
+parent = "pve"
+
+[[main]]
+name = "Gem Choices"
+url = "/nw/info/mut/gemchoices/"
+weight = 18 
+parent = "pve"
+
+[[main]]
+name = "Damage Absorption"
+url = "/nw/info/pve/dmgabs/"
+weight = 19
+parent = "pve"
+
+
+
+
 
 
 
@@ -30,8 +78,13 @@ weight = 400
 url = "/builds/"
 
 [[main]]
+name = "Skill Trees"
+url = "/skills/" 
+weight = 420
+
+[[main]]
 name = "Records"
-url = "/records"
+url = "/records/"
 weight = 500
 
 
