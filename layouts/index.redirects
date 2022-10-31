@@ -36,8 +36,12 @@ https://pvebuilds.xyz/benedict/* https://pvebuilds.xyz/builds/benedict/:splat 20
 https://pvebuilds.xyz/hatchet/ https://pvebuilds.xyz/nw/info/skills/dps/#hatchet/ 301!
 https://pvebuilds.xyz/tankhatchet/ https://pvebuilds.xyz/images/skilltrees/hatchet/tank.png/ 200!
 
-https://pvebuilds.xyz/gs/ https://pvebuilds.xyz/nw/info/skills/dps/#greatsword/ 301!
-https://pvebuilds.xyz/greatsword/ https://pvebuilds.xyz/images/skilltrees/greatsword/1.png/ 200!
+https://pvebuilds.xyz/gs/ https://pvebuilds.xyz/nw/brimstone/gs/ 200!
+https://pvebuilds.xyz/greatsword/ https://pvebuilds.xyz/nw/brimstone/gs/ 200!
+https://pvebuilds.xyz/images/skilltrees/greatsword/dps.png https://pvebuilds.xyz/images/skilltrees/greatsword/gsdps.png 200!
+https://pvebuilds.xyz/images/skilltrees/greatsword/1.png https://pvebuilds.xyz/images/skilltrees/greatsword/gsdps.png 200!
+https://pvebuilds.xyz/images/skilltrees/greatsword/tank.png https://pvebuilds.xyz/images/skilltrees/greatsword/gstank.png 200!
+
 
 https://pvebuilds.xyz/rapier/ https://pvebuilds.xyz/images/skilltrees/rapier/1.png/ 200!
 
@@ -47,6 +51,7 @@ https://pvebuilds.xyz/warhammer/ https://pvebuilds.xyz/images/skilltrees/warhamm
 
 https://pvebuilds.xyz/greataxe/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
 https://pvebuilds.xyz/greataxelaz/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
+https://pvebuilds.xyz/images/skilltrees/greataxe/2.png/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
 
 https://pvebuilds.xyz/bow/ https://pvebuilds.xyz/images/skilltrees/spear/1.png/ 200!
 
