@@ -9,15 +9,32 @@ toc: true
 ---
 
 ## Jewellery
+<style>
+.sheetcontainer {
+display:flex;
+width:100%;
+overflow:hidden;
 
-<div style="display:flex;height:600px;">
-<iframe style="height:100%;width:100%;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_8aP20nFKq-l-Zk08SzUsScYofiRLWvdJ_rucl2PdK9Nb8wr-_nZH6YF3t-gGx7hEGIzt-bUnirT9/pubhtml?"></iframe>
+}
+.gsheet {
+margin-top:-28px;
+margin-bottom:-45px;
+height:600px;
+width:100%;
+}
+
+  
+
+</style>
+
+<div class="sheetcontainer">
+<iframe class="gsheet" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_8aP20nFKq-l-Zk08SzUsScYofiRLWvdJ_rucl2PdK9Nb8wr-_nZH6YF3t-gGx7hEGIzt-bUnirT9/pubhtml?"></iframe>
 </div>
 
 ---
 ---
 
-## DPS 
+<!-- ## DPS 
 
 ### Weapons
 
@@ -171,7 +188,7 @@ test
 
 
 
-
+ -->
 
 
 

@@ -55,11 +55,15 @@ Put simply, your absorption is: **(AF + SE)** + ABSVitals
 display:flex;
 width:105%;
 overflow:hidden;
+
 }
 .desktop iframe{
 margin-left:-46px;
 margin-top:-24px;
-height:770px;
+margin-bottom:-195px;
+height:1000px;
+overflow-x:hidden; 
+
 }
 @media(max-width: 775px) {
   .desktop {
