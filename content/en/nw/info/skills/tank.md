@@ -11,7 +11,7 @@ toc: true
 
 ### Greatsword
 
-<a href="/images/skilltrees/greatsword/tank.png" target="_blank"><img src="/images/skilltrees/greatsword/tank.png"></a>
+<a href="/images/skilltrees/greatsword/gstank.png" target="_blank"><img src="/images/skilltrees/greatsword/gstank.png"></a>
 
 ### Hatchet
 

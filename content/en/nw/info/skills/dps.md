@@ -14,12 +14,12 @@ toc: true
 #### Highest DPS
 Spin to win. Highest DPS but hard to survive in M10 with.
 
-<a href="/images/skilltrees/greatsword/dps.png" target="_blank"><img src="/images/skilltrees/greatsword/dps.png"></a>
+<a href="/images/skilltrees/greatsword/gsdps.png" target="_blank"><img src="/images/skilltrees/greatsword/gsdps.png"></a>
 
 #### Recommended
 Open with Rupture for the Fortify & Weaken, then use Skyward/Crosscut to change stance and start swinging heavies.
 
-<a href="/images/skilltrees/greatsword/1.png" target="_blank"><img src="/images/skilltrees/greatsword/1.png"></a>
+<a href="/images/skilltrees/greatsword/gsutility.png" target="_blank"><img src="/images/skilltrees/greatsword/gsutility.png"></a>
 
 
 
