@@ -1,24 +1,22 @@
 ---
 title: "Golden Scarabs"
 lead: "Everything you need to know about Golden Scarabs."
-description: "How and where to farm Golden Scarabs in New World."
+description: "How and where to get Golden Scarabs in New World."
 weight: 2010
 toc: true
 ---
 
+- Golden Scarabs allow you to guarantee an attribute and two perks on a piece of gear, they roll between 595 and 600GS with maximum boosts
+
+- They are crafted the same was as a timeless shard, but require 3 shards and 25 attribute mods per roll
+
 ---
-
-Golden Scarabs allow you to guarantee an attribute and two perks on a piece of gear
-
-- They are crafted like a timeless shard, but require 3x timeless shards and 25x attribute mods per roll
-
 
 ## How to get
 
-Scarabs drop from Glyph Chests and Elite Grave Offerings in Brimstone Sands. 
+Scarabs drop from Glyph Chests and Elite Grave Offerings in Brimstone Sands
 
-- Use <a href="https://aeternum-map.gg/" target="_blank">aeternum-map.gg</a> to track your location in real-time while running to chests.
-- For maximum odds, just loot every "Glyph Chest" and "Elite Grave Offering" every day.
+- For maximum odds, loot every "Glyph Chest" and "Elite Grave Offering" every day
 
 ### Odds per chest
 
@@ -28,11 +26,28 @@ Scarabs drop from Glyph Chests and Elite Grave Offerings in Brimstone Sands.
 |  **Glyph Chest (Elite)** 	|      4%     	|     4.24%    	|
 |      **Glyph Chest**     	|      2%     	|     2.12%    	|
 
+---
 
+## Chest Runs
 
-## Elite run
+- We have two routes - one for solo players and one for groups of 5+
+- You can track your character in real-time using <a href="https://aeternum-map.gg/" target="_blank">aeternum-map.gg</a> and the <a href="https://www.overwolf.com/app/Leon_Machens-Aeternum_Map" target="_blank">overwolf plugin</a>
 
-- We have an elite run setup on <a href="https://aeternum-map.gg/" target="_blank">aeternum-map.gg</a>, just search "M11" under Routes.
+### Solo
 
+- You need to respective glyph to unlock chests in each zone
+- It can be difficult to loot the elite zones without a group of players, if you're alone just follow the route below
+- This route only loots the Elite Grave Offerings in Acid Pools - these have the highest odds of a scarab
+- This route can be found on <a href="https://aeternum-map.gg/routes/635f257cb2397f1f28033672" target="_blank">aeternum-map.gg here</a>
 
-<a href="/images/_etc/eliterun.png" target="_blank"><img src="/images/_etc/eliterun.png"></a>
+<iframe src="https://aeternum-map.gg/routes/635f257cb2397f1f28033672" width='100%' height='600px'></iframe>
+
+---
+
+### Group
+
+- Follow this route in a group of 5-10+
+- Only one player needs to have the Glyphs unlocked to use the teleporters/chests, but it helps it more have it
+- This route can be found on <a href="https://aeternum-map.gg/routes/6353369abb06242dfc7ca193" target="_blank">aeternum-map.gg here</a>
+
+<iframe src="https://aeternum-map.gg/routes/6353369abb06242dfc7ca193" width='100%' height='600px'></iframe>
