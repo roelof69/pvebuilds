@@ -4,47 +4,36 @@ identifier = "info"
 weight = 10
 
 [[main]]
-name = "General"
-url = "/nw/info/pve"
-weight = 12
+name = "FAQ"
+url = "/nw/info/pve/faq"
+weight = 11
 parent = "info"
 
 [[main]]
 name = "Mutations"
-url = "/nw/info/mut"
-weight = 13
+url = "/nw/info/mut/"
+weight = 12
 parent = "info"
 
 [[main]]
-name = "Brimstone"
-url = "/nw/brimstone"
-weight = 14
+name = "Skill Trees"
+url = "/skills"
+weight = 13
 parent = "info"
+
 
 
 
 [[main]]
 name = "Builds"
-weight = 20
+weight = 400
 url = "/builds/"
 
 [[main]]
-name = "Speedruns"
+name = "Records"
 url = "/records"
-weight = 30
-identifier = "recs"
+weight = 500
 
-[[main]]
-name = "World Records"
-url = "/records"
-weight = 40
-parent = "recs"
-
-[[main]]
-name = "Leaderboards"
-url = "/nw/leaderboards"
-weight = 50
-parent = "recs"
 
 [[social]]
 name = "Twitch"
