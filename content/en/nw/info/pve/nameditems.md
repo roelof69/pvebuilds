@@ -362,7 +362,7 @@ N/A?
 
 #### Angry Earth
 
--- <a href="https://nwdb.info/db/item/mediumchest_bb_boss2_mutt5_600_v2" target="_blank">**Light** Siren's Set || Angry Earth Ward + Refreshing + Elemental Aversion **(CON)**</a>
+-- <a href="https://nwdb.info/db/item/mediumchest_bb_boss2_mutt5_600_v2" target="_blank">**Medium** Siren's Set || Angry Earth Ward + Refreshing + Elemental Aversion **(CON)**</a>
 
 ---
 
