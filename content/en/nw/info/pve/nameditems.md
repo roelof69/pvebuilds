@@ -183,7 +183,7 @@ test
 
 ### Greatsword
 
--- <a href="https://nwdb.info/db/item/2hgreatsword_craftsmanspassiont5_v2" target="_blank">Craftsman's Passion  || Vicious + Thwarting Strikes + Keenly Empowered</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_craftsmanspassiont5_v2" target="_blank">Craftsman's Passion  || Angry Earth Bane + Vicious + Keenly Empowered</a>
 
 -- <a href="https://nwdb.info/db/item/2hgreatsword_stonehewert5_v2" target="_blank">Stonehewer  || Ancient Bane + Trenchant Strikes + Mortal Refreshment</a>
 
