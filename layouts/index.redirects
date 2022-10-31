@@ -23,14 +23,17 @@ https://pvebuilds.xyz/nw/info/gemchoices/* https://pvebuilds.xyz/nw/info/pve/gem
 https://pvebuilds.xyz/nw/info/nameditems/* https://pvebuilds.xyz/nw/info/pve/nameditems/:splat 301!
 
 https://pvebuilds.xyz/info/mut/gemchoices/* https://pvebuilds.xyz/nw/info/mut/gemchoices/:splat 301!
+
+
+# /word REDIRECTS
+https://pvebuilds.xyz/mobresists/ https://pvebuilds.xyz/images/_etc/mobresists.png 200!
+
 #STREAM GEAR REDIRECTS
 https://pvebuilds.xyz/brimstone/ https://pvebuilds.xyz/nw/brimstone/ 200!
 
 https://pvebuilds.xyz/roelof/* https://pvebuilds.xyz/builds/roelof/:splat 200!
 
 https://pvebuilds.xyz/benedict/* https://pvebuilds.xyz/builds/benedict/:splat 200!
-
-#SKILLTREE REDIRECTS
 
 # DPS WEAPON
 https://pvebuilds.xyz/hatchet/ https://pvebuilds.xyz/nw/info/skills/dps/#hatchet/ 301!
