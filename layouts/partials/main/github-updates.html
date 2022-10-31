@@ -33,22 +33,32 @@
         var nowTs = Math.floor(d.getTime()/1000); // getTime() returns milliseconds, and we need seconds, hence the Math.floor and division by 1000
         var seconds = nowTs-ts;
     
-        // more than two days
+
+        //2 days ago
         if (seconds > 2*24*3600) {
          return Math.floor(seconds/(24*3600)) + " days ago";
         }
+        //1 day ago
         if (seconds > 24*3600) {
          return Math.floor(seconds/(24*3600)) + " day ago";
         }
+        //x hours ago
         if (seconds > 7200) {
          return Math.floor(seconds/3600) + " hours ago";
       }   
+      // 1 hour ago
         if (seconds > 3600) {
            return "an hour ago";
         }
-        if (seconds > 60) {
+        //2+ minutes ago
+        if (seconds > 120) {
            return Math.floor(seconds/60) + " minutes ago";
         }
+        //1 minute
+        if (seconds > 60) {
+          return Math.floor(seconds/60) + " minute ago";
+       }
+       //seconds
         if (seconds < 60) {
          return Math.floor(seconds) + " seconds ago";
       }
