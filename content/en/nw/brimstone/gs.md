@@ -26,7 +26,7 @@ Greatsword is the **highest DPS in-game**, it makes M10 challenging but you can 
 
 The ideal PvE Greatsword is: 
 - **Bane**
-- Thwarting Strikes > Trenchant Crits > Trenchant Strikes > Rogue > Enchanted > Vicious
+- Thwarting Strikes > Trenchant Strikes > Trenchant Crits > Rogue > Enchanted > Vicious
 - Keenly Empowered = Elemental Chain(mob weakness) > Attunement
 
 ---
