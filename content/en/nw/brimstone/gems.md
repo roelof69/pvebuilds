@@ -11,16 +11,15 @@ toc: true
 
 ## Weapon Gems
 
-Even after the release of Brimstone, we believe that Cut Pristine Opal and Diamond are still the best to slot in **all weapons**.
+Runeglass weapon casings **are not** worth the money. Only a single person benefits from the bleed (if you take the gems listed below), making runeglass diamond/opals a DPS loss for everyone who doesn't have their bleed apply.
 
-- The new gems cost quite a lot, and you **lose** damage on a lot of hits with them (15% normal opal, 12% runeglass)
-- We use an Opal or Diamond because of the 50/100STR perks, and slashdamage on ring. These bonuses **only apply to physical damage**, so if you use a conversion gem you lose some of these bonuses.
+- Cut Pristine Opal or Diamond are the best to use **in all weapons, in all expeditions**.
+- You need an uptime of 50% on your Diamond/Opal for it to be better than an elemental gem (0% vs 30%).
+- This is because of the 50/100STR perks, and slashdamage on ring. These bonuses **only apply to physical damage**, so if you use a conversion gem you lose some of these bonuses.
   
-It may be worth using Runeglass gems on slow attacking weapons: Greatsword, Greataxe, and Sword.
-
 <br>
 
-- The alternative is running Runeglass Opals in our weapons, with elemental burn depending on the mob.
+- These are the best runeglass casings for DPS, but keep in mind only one person per party gets the bleed.
   
 -- Ancients:  <a href="https://nwdb.info/db/item/runeglass_gem_opal_lightning" target="_blank">Runeglass of Electrified Opal</a>
 
