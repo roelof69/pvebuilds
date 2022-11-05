@@ -5,64 +5,64 @@ identifier = "pve"
 weight = 1
 
 [[main]]
-name = "Brimstone"
-url = "/brimstone/"
-weight = 12
-parent = "pve"
-
-[[main]]
 name = "FAQ"
 url = "/nw/info/pve/faq/"
 weight = 11
 parent = "pve"
 
 [[main]]
+name = "Brimstone"
+url = "/brimstone/"
+weight = 12
+parent = "pve"
+
+[[main]]
 name = "Consumables"
 url = "/nw/info/pve/consumables/"
-weight = 12
+weight = 13
 parent = "pve"
 
 [[main]]
 name = "Ideal Armour Weight"
 url = "/nw/info/pve/weightloadouts/"
-weight = 13
+weight = 14
 parent = "pve"
 
 [[main]]
 name = "Mob Weaknesses"
 url = "/nw/info/pve/mobresists/"
-weight = 14 
+weight = 15 
 parent = "pve"
 
 [[main]]
 name = "Named Items"
 url = "/nw/info/pve/nameditems/"
-weight = 15 
+weight = 16 
 parent = "pve"
 
 
 [[main]]
 name = "Mutators"
 url = "/nw/info/mut/modifiers/"
-weight = 16 
+weight = 17 
 parent = "pve"
 
 [[main]]
 name = "Boss & Status Effects"
 url = "/nw/info/mut/statusbosseffects/"
-weight = 17 
+weight = 18 
 parent = "pve"
 
 [[main]]
 name = "Gem Choices"
 url = "/nw/info/mut/gemchoices/"
-weight = 18 
+weight = 19 
 parent = "pve"
 
 [[main]]
 name = "Damage Absorption"
 url = "/nw/info/pve/dmgabs/"
-weight = 19
+weight = 20
 parent = "pve"
 
 
