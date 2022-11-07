@@ -10,7 +10,7 @@ toc: false
     top: 0;            /* <<< No offset */
     bottom: 0;         /* <<< Pull to the bottom for height */
     right:0;
-    margin: 60px 0 0; /* <<< gives room for the navbar */
+    margin-top:-92px;
     overflow: hidden;
 }
 

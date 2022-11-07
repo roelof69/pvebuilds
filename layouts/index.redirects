@@ -6,6 +6,8 @@
 
 
 # _redirects
+https://pvebuilds.xyz/phoenicians https://pvebuilds.xyz/phoenician 200!
+
 https://pvebuilds.xyz/nw/info/gen/* https://pvebuilds.xyz/nw/info/pve/:splat 301!
 https://pvebuilds.xyz/nw/info/faq/* https://pvebuilds.xyz/nw/info/pve/faq/:splat 301!
 https://pvebuilds.xyz/nw/info/pve/gemchoices/* https://pvebuilds.xyz/info/mut/gemchoices:splat 301!
