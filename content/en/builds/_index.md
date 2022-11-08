@@ -105,13 +105,13 @@ weight: 10
     parent: ["pvebuilds.xyz"]
   };
   var options2 = {
-    channel: "roeloflol",
+    channel: "genedictb",
     width: 1280,
     height: 720,
     parent: ["pvebuilds.xyz"]
   };
   var options3 = {
-    channel: "genedictb",
+    channel: "olddirtydaz",
     width: 1280,
     height: 720,
     parent: ["pvebuilds.xyz"]
