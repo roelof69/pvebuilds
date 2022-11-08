@@ -1,6 +1,6 @@
 ---
 
-title: "Phoenicians Treasury"
+title: "Phoenicians"
 description: "Phoenician War Roster & Treasury"
 toc: false
 ---

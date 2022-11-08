@@ -7,46 +7,23 @@
 
 # _redirects
 https://pvebuilds.xyz/phoenicians https://pvebuilds.xyz/phoenician 200!
-
-https://pvebuilds.xyz/nw/info/gen/* https://pvebuilds.xyz/nw/info/pve/:splat 301!
-https://pvebuilds.xyz/nw/info/faq/* https://pvebuilds.xyz/nw/info/pve/faq/:splat 301!
-https://pvebuilds.xyz/nw/info/pve/gemchoices/* https://pvebuilds.xyz/info/mut/gemchoices:splat 301!
-
-https://pvebuilds.xyz/docs/information/*    https://pvebuilds.xyz/nw/info/:splat    301!
-https://pvebuilds.xyz/docs/*     https://pvebuilds.xyz/nw/:splat     301!
-https://pvebuilds.xyz/worldrecords/*    https://pvebuilds.xyz/records/:splat    301!
-https://pvebuilds.xyz/nw/info/statusbosseffects/* https://pvebuilds.xyz/nw/info/mut/statusbosseffects/:splat 301!
-https://pvebuilds.xyz/nw/info/dmgabs/* https://pvebuilds.xyz/nw/info/pve/dmgabs/:splat 301!
-https://pvebuilds.xyz/nw/info/modifiers/* https://pvebuilds.xyz/nw/info/mut/modifiers/:splat 301!
-https://pvebuilds.xyz/nw/info/consumables/* https://pvebuilds.xyz/nw/info/pve/consumables/:splat 301!
-https://pvebuilds.xyz/nw/info/mobresists/* https://pvebuilds.xyz/nw/info/pve/mobresists/:splat 301!
-https://pvebuilds.xyz/nw/info/weightloadouts/* https://pvebuilds.xyz/nw/info/pve/weightloadouts/:splat 301!
-https://pvebuilds.xyz/nw/info/gemchoices/* https://pvebuilds.xyz/nw/info/pve/gemchoices/:splat 301!
-https://pvebuilds.xyz/nw/info/nameditems/* https://pvebuilds.xyz/nw/info/pve/nameditems/:splat 301!
-
-https://pvebuilds.xyz/info/mut/gemchoices/* https://pvebuilds.xyz/nw/info/mut/gemchoices/:splat 301!
 https://pvebuilds.xyz/nw/info/skills/* https://pvebuilds.xyz/skills 301!
 
-# /word REDIRECTS
-https://pvebuilds.xyz/mobresists/ https://pvebuilds.xyz/images/_etc/mobresists.png 200!
 
-#STREAM GEAR REDIRECTS
-https://pvebuilds.xyz/brimstone/ https://pvebuilds.xyz/nw/brimstone/ 200!
 
-https://pvebuilds.xyz/roelof/* https://pvebuilds.xyz/builds/roelof/:splat 200!
 
-https://pvebuilds.xyz/benedict/* https://pvebuilds.xyz/builds/benedict/:splat 200!
 
-# DPS WEAPON
-https://pvebuilds.xyz/hatchet/ https://pvebuilds.xyz/nw/info/skills/dps/#hatchet/ 301!
+
+# Spreadsheet REDIRECTS
+
+
+https://pvebuilds.xyz/hatchet/ https://pvebuilds.xyz/images/skilltrees/hatchet/1.png 200!
+https://pvebuilds.xyz/hatchetutil/ https://pvebuilds.xyz/images/skilltrees/hatchet/2.png 200!
 https://pvebuilds.xyz/tankhatchet/ https://pvebuilds.xyz/images/skilltrees/hatchet/tank.png/ 200!
 
-https://pvebuilds.xyz/gs/ https://pvebuilds.xyz/nw/brimstone/gs/ 200!
-https://pvebuilds.xyz/greatsword/ https://pvebuilds.xyz/nw/brimstone/gs/ 200!
-https://pvebuilds.xyz/images/skilltrees/greatsword/dps.png https://pvebuilds.xyz/images/skilltrees/greatsword/gsdps.png 200!
-https://pvebuilds.xyz/images/skilltrees/greatsword/1.png https://pvebuilds.xyz/images/skilltrees/greatsword/gsdps.png 200!
-https://pvebuilds.xyz/images/skilltrees/greatsword/tank.png https://pvebuilds.xyz/images/skilltrees/greatsword/gstank.png 200!
-
+https://pvebuilds.xyz/greataxe/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
+https://pvebuilds.xyz/greataxelaz/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
+https://pvebuilds.xyz/images/skilltrees/greataxe/2.png/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
 
 https://pvebuilds.xyz/rapier/ https://pvebuilds.xyz/images/skilltrees/rapier/1.png/ 200!
 
@@ -54,9 +31,8 @@ https://pvebuilds.xyz/spear/ https://pvebuilds.xyz/images/skilltrees/spear/1.png
 
 https://pvebuilds.xyz/warhammer/ https://pvebuilds.xyz/images/skilltrees/warhammer/1.png/ 200!
 
-https://pvebuilds.xyz/greataxe/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
-https://pvebuilds.xyz/greataxelaz/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
-https://pvebuilds.xyz/images/skilltrees/greataxe/2.png/ https://pvebuilds.xyz/images/skilltrees/greataxe/1.png/ 200!
+https://pvebuilds.xyz/gs/ https://pvebuilds.xyz/images/skilltrees/greatsword/gsutility.png 200!
+https://pvebuilds.xyz/gsdps/ https://pvebuilds.xyz/images/skilltrees/greatsword/gsdps.png 200!
 
 https://pvebuilds.xyz/bow/ https://pvebuilds.xyz/images/skilltrees/spear/1.png/ 200!
 
@@ -69,16 +45,27 @@ https://pvebuilds.xyz/firestaff/ https://pvebuilds.xyz/images/skilltrees/firesta
 https://pvebuilds.xyz/igsecondary/ https://pvebuilds.xyz/images/skilltrees/icegauntlet/secondary.png/ 200!
 https://pvebuilds.xyz/ig/ https://pvebuilds.xyz/images/skilltrees/icegauntlet/dps.png/ 200!
 
-# HEALER
-https://pvebuilds.xyz/lifestaff/ https://pvebuilds.xyz/images/skilltrees/lifestaff/1.png/ 200!
-
-https://pvebuilds.xyz/vg/ https://pvebuilds.xyz/nw/info/skills/healer/ 301!
 https://pvebuilds.xyz/vgdps/ https://pvebuilds.xyz/images/skilltrees/voidgauntlet/dps.png/ 200!
 https://pvebuilds.xyz/vgheal/ https://pvebuilds.xyz/images/skilltrees/voidgauntlet/heal.png/ 200!
 https://pvebuilds.xyz/vghealutil/ https://pvebuilds.xyz/images/skilltrees/voidgauntlet/healutility.png/ 200!
 
-# TANK LUL
+https://pvebuilds.xyz/lifestaff/ https://pvebuilds.xyz/images/skilltrees/lifestaff/1.png/ 200!
+
 https://pvebuilds.xyz/sword/ https://pvebuilds.xyz/images/skilltrees/sword/1.png/ 200!
+
+
+
+
+
+#STREAM REDIRECTS
+
+https://pvebuilds.xyz/mobresists/ https://pvebuilds.xyz/images/_etc/mobresists.png 200!
+
+https://pvebuilds.xyz/brimstone/ https://pvebuilds.xyz/nw/brimstone/ 200!
+
+https://pvebuilds.xyz/greatsword/ https://pvebuilds.xyz/nw/brimstone/gs/ 200!
+
+https://pvebuilds.xyz/roelof/* https://pvebuilds.xyz/builds/roelof/:splat 200!
 
 
 
