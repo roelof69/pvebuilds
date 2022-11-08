@@ -1,7 +1,7 @@
 ---
 
 title: "Phoenicians Treasury"
-description: "for Frangie ❤️"
+description: "Phoenician War Roster & Treasury"
 toc: false
 ---
 <style>#iframe-container {
