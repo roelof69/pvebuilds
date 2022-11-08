@@ -200,13 +200,15 @@ test
 
 ### Greatsword
 
--- <a href="https://nwdb.info/db/item/2hgreatsword_craftsmanspassiont5_v2" target="_blank">Craftsman's Passion  || Angry Earth Bane + Vicious + Keenly Empowered</a>
+-- <a href="https://nwdb.info/db/item/2hgreatsword_tempestuousgreatswordt5" target="_blank">Tempestuous Greatsword  || Corrupted Bane + Trenchant Strikes + Chain Lightning</a>
 
 -- <a href="https://nwdb.info/db/item/2hgreatsword_stonehewert5_v2" target="_blank">Stonehewer  || Ancient Bane + Trenchant Strikes + Mortal Refreshment</a>
 
 -- <a href="https://nwdb.info/db/item/16_side_27_2hgreatsword_t5" target="_blank">Blade of the 19th  || Corrupted Bane + Trenchant Strikes + Mortal Power</a>
 
 -- <a href="https://nwdb.info/db/item/2hgreatsword_beasthuntersbladet5_v2" target="_blank">Beast Hunter's Blade  || Beast Bane + Trenchant Strikes + Keenly Jagged</a>
+
+-- <a href="https://nwdb.info/db/item/2hgreatsword_craftsmanspassiont5_v2" target="_blank">Craftsman's Passion  || Angry Earth Bane + Vicious + Keenly Empowered</a>
 
 -- <a href="https://nwdb.info/db/item/2hgreatsword_voidswordt5_v2" target="_blank">Voidsword  || Ancient Bane + Vicious + Chain</a>
 
