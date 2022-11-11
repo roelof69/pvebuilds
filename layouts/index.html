@@ -41,7 +41,7 @@
       display: none
     }      
     /* The following css just makes sure the twitch video stays responsive */
-    #twitch {
+    #twitch4 {
       border-radius: 0.25rem !important;
       position: fixed;
       bottom: 5px;
@@ -50,57 +50,60 @@
       width: 432px;
       height: 243px;
       overflow: hidden;
-      z-index:10;
+      z-index:1000;
     }
     
-    #twitch object,
-    #twitch iframe{
+    #twitch4 object,
+    #twitch4 iframe{
       border-radius: 0.25rem !important;
       position: absolute;
       top: 0;
       left: 0;
       width: 100%;
       height: 100%;
-      z-index:10;
+      z-index:1000;
     }   
 
-      #ttvclose input{
+    #ttvclose input{
       position: fixed;
       right:8px;
       bottom:220px;
       float:right;
-      z-index:11;
+      z-index:1001;
       background:transparent;
       color:white;
       border:none;  
     }  
 
-</style>
+</style> 
 
 <!-- Twitch Video Embed -->
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
 
+<div id="twitch4" class="hide"></div>
+
 <div id="ttvclose" class="hide"><input type="button" value="X" onclick="removeTTV()"></input></div>
 
-<div id="twitch" class="hide"></div>
+
 
 
 
 
 <script>
   function removeTTV() {
-      twitch.remove();
+      twitch4.remove();
       handleOffline();
   }
 
 if (window.innerWidth > 500) {
+
   var options = {
-    channel: "genedictb", // TODO: Change this to the streamsusername you want to embed
+    channel: "genedictb", // TODO: Change this to the streams username you want to embed
     width: 640,
     height: 360,
-    parent: ["pvebuilds.xyz"],
   };
-  var player = new Twitch.Player("twitch", options);
+
+  var player = new Twitch.Player("twitch4", options);
 
   player.addEventListener(Twitch.Player.READY, initiate)
 
@@ -111,15 +114,15 @@ if (window.innerWidth > 500) {
   }
 
   function handleOnline() {
+    document.getElementById("twitch4").classList.remove('hide');
     document.getElementById("ttvclose").classList.remove('hide');
-    document.getElementById("hide").classList.remove('hide');
     player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
     player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
     player.setMuted(false);
   }
 
   function handleOffline() {
-    document.getElementById("twitch").classList.add('hide');
+    document.getElementById("twitch4").classList.add('hide');
     document.getElementById("ttvclose").classList.add('hide');
     player.removeEventListener(Twitch.Player.OFFLINE, handleOffline);
     player.addEventListener(Twitch.Player.ONLINE, handleOnline);
