@@ -9,7 +9,7 @@ weight: 10
     top: 0;            /* <<< No offset */
     bottom: 0;         /* <<< Pull to the bottom for height */
     right:0;
-    margin: 60px 0 0; /* <<< gives room for the navbar */
+    margin: 57px 0 0; /* <<< gives room for the navbar */
     overflow: hidden;
 }
 
@@ -28,7 +28,7 @@ weight: 10
         left:0;
         height:250%;
         width:250%;
-        margin: 60px 0 0; /* <<< gives room for the navbar */
+        margin: 57px 0 0; /* <<< gives room for the navbar */
         overflow: hidden;
       }
 }
@@ -39,15 +39,10 @@ weight: 10
 <style>
     .hide {
         display: none
-      }
-      
-      
+      }      
       /* The following css just makes sure the twitch video stays responsive */
-      #twitch,
-      #twitch2,
-      #twitch3 {
+      #twitch {
         border-radius: 0.25rem !important;
-        z-index: 1000;
         position: fixed;
         bottom: 5px;
         right: 5px;
@@ -55,34 +50,19 @@ weight: 10
         width: 432px;
         height: 243px;
         overflow: hidden;
+        z-index:10;
       }
       
       #twitch object,
-      #twitch iframe,
-      #twitch2 object,
-      #twitch2 iframe,
-      #twitch3 object,
-      #twitch3 iframe {
-        z-index: 1000;
+      #twitch iframe{
         border-radius: 0.25rem !important;
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-      }
-      @media screen and (max-width:600px) {
-        #twitch,
-        #twitch2,
-        #twitch3 {
-          width: 208px;
-          height: 117px;
-          top:175px;
-          right: 5px;
-        }
-      }
-    
-      
+        z-index:10;
+      }   
 </style>
 
 <!-- Twitch Video Embed -->
@@ -90,102 +70,37 @@ weight: 10
 
 <div id="twitch" class="hide">
 </div>
-<div id="twitch2" class="hide">
-</div>
-<div id="twitch3" class="hide">
-</div>
-
-<!-- Twitch Video Embed m11-->
 
 <script>
-  var options = {
-    channel: "m11pve",
-    width: 1280,
-    height: 720,
-    parent: ["pvebuilds.xyz"]
-  };
-  var options2 = {
-    channel: "genedictb",
-    width: 1280,
-    height: 720,
-    parent: ["pvebuilds.xyz"]
-  };
-  var options3 = {
-    channel: "roeloflol",
-    width: 1280,
-    height: 720,
-    parent: ["pvebuilds.xyz"]
-  };
-  var player3 = new Twitch.Player("twitch3", options3);
-  var player2 = new Twitch.Player("twitch2", options2);
-  var player = new Twitch.Player("twitch", options);
-  player.addEventListener(Twitch.Player.READY, initiate)
-  player.addEventListener(Twitch.Player.OFFLINE, initiate2);
-  player.addEventListener(Twitch.Player.OFFLINE, initiate3);
+  if (window.innerWidth > 500) {
+    var options = {
+      channel: "m11pve", // TODO: Change this to the streams username you want to embed
+      width: 640,
+      height: 360,
+    };
+    var player = new Twitch.Player("twitch", options);
 
-  function initiate() {
-    player.addEventListener(Twitch.Player.ONLINE, handleOnline);
-    player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
-    player.removeEventListener(Twitch.Player.READY, initiate);
-  }
+    player.addEventListener(Twitch.Player.READY, initiate)
 
-  function handleOnline() {
-    document.getElementById("twitch").classList.remove('hide');
-    player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
-    player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
-    player2.pause();
-    player2.setMuted(true);
-    player.setMuted(false);
-    player.setVolume(0.1);
-  }
+    function initiate() {
+      player.addEventListener(Twitch.Player.ONLINE, handleOnline);
+      player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+      player.removeEventListener(Twitch.Player.READY, initiate);
+    }
 
-  function handleOffline() {
-    player.setMuted(true);
-    document.getElementById("twitch").classList.add('hide');
-    player.removeEventListener(Twitch.Player.OFFLINE, handleOffline);
-  }
-  function initiate2() {
-    player2.addEventListener(Twitch.Player.ONLINE, handleOnline2);
-    player2.addEventListener(Twitch.Player.OFFLINE, handleOffline2);
-    player2.removeEventListener(Twitch.Player.READY, initiate2);
-  }
+    function handleOnline() {
+      document.getElementById("twitch").classList.remove('hide');
+      player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
+      player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+      player.setMuted(false);
+    }
 
-  function handleOnline2() {
-    document.getElementById("twitch2").classList.remove('hide');
-    player2.removeEventListener(Twitch.Player.ONLINE, handleOnline2);
-    player2.addEventListener(Twitch.Player.OFFLINE, handleOffline2);
-    player2.setMuted(false);
-    player2.setVolume(0.1);
-  }
-
-  function handleOffline2() {
-    document.getElementById("twitch2").classList.add('hide');
-    player2.removeEventListener(Twitch.Player.OFFLINE, handleOffline2);
-    player2.addEventListener(Twitch.Player.ONLINE, handleOnline2);
-    player2.setMuted(true);
-  }
-  
-
-
-  function initiate3() {
-    player3.addEventListener(Twitch.Player.ONLINE, handleOnline3);
-    player3.addEventListener(Twitch.Player.OFFLINE, handleOffline3);
-    player3.removeEventListener(Twitch.Player.READY, initiate3);
-  }
-
-  function handleOnline3() {
-    document.getElementById("twitch3").classList.remove('hide');
-    player3.removeEventListener(Twitch.Player.ONLINE, handleOnline3);
-    player3.addEventListener(Twitch.Player.OFFLINE, handleOffline3);
-    player3.setMuted(false);
-    player3.setVolume(0.1);
-  }
-
-  function handleOffline3() {
-    document.getElementById("twitch3").classList.add('hide');
-    player3.removeEventListener(Twitch.Player.OFFLINE, handleOffline3);
-    player3.addEventListener(Twitch.Player.ONLINE, handleOnline3);
-    player3.setMuted(true);
+    function handleOffline() {
+      document.getElementById("twitch").classList.add('hide');
+      player.removeEventListener(Twitch.Player.OFFLINE, handleOffline);
+      player.addEventListener(Twitch.Player.ONLINE, handleOnline);
+      player.setMuted(true);
+    }
   }
 </script>
 
