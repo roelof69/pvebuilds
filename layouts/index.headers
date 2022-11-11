@@ -1,9 +1,9 @@
 /*
-  Strict-Transport-Security: max-age=2696969; includeSubDomains; preload
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
   Feature-Policy: geolocation 'self'
-  Cache-Control: public, max-age=2696969
+  Cache-Control: no-cache
   Access-Control-Allow-Origin: *
