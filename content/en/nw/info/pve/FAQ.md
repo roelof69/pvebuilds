@@ -9,15 +9,13 @@ toc: true
 ## Armour Gems
 **What gems should I have on my armour?**
 
-- For **Runeglass Gems** use  <a href="https://nwdb.info/db/item/runeglass_case_empty_melee" target="_blank">Runeglass of Punishing</a>
-
-### Open World
+#### Open World
 
 The majority of damage in the open world is Physical, making Cut Pristine Onyxes the ideal choice. If you're doing chest runs then use Pristine Pearls.
 
 ---
 
-### Mutations
+#### Mutations
 
 It depends on the [mutation](/nw/info/mut/modifiers/), but we recommend using 8x of the below gems with an elemental protection amulet.
 
@@ -31,6 +29,11 @@ It depends on the [mutation](/nw/info/mut/modifiers/), but we recommend using 8x
  
 - If you aren't above 50% resistance from your gems (7x gems + protection perk), your ideal gem combination depends on the amount of fortify you're applying, [see here for an explanation.](/nw/info/mut/gemchoices/) 
 
+#### Runeglass Gems
+
+- Armour: <a href="https://nwdb.info/db/item/runeglass_case_empty_melee" target="_blank">Runeglass of Punishing</a>
+- Weapons read [here](nw/info/mut/gemchoices/#runeglass-casings)
+
 ---
 
 ## Weapon Gems
@@ -38,12 +41,9 @@ It depends on the [mutation](/nw/info/mut/modifiers/), but we recommend using 8x
 
 ### DPS
 
-With the removal of [mob resists](/nw/info/pve/mobresists/) and the addition of PUNISHING RUNEGLASS, the ideal gem choice for **all weapons in all expeditions** are:
+Diamond or Opal are the **best to slot in all weapons, in all expeditions.** 
 
-1. Cut Pristine Diamond
-2. Cut Pristine Opal
-
-See [here](/nw/info/mut/gemchoices/#dps) for an explanation.
+See [here](/nw/info/mut/gemchoices/#dps) for an explanation or [here](/nw/info/mut/gemchoices/#runeglass-casings) for Runeglass info.
 
 
 

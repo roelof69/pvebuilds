@@ -11,23 +11,23 @@ toc: true
 
 ## Weapon Gems
 
-Runeglass weapon casings **are not** worth the money. Only a single person benefits from the bleed (if you take the gems listed below), making runeglass diamond/opals a DPS loss for everyone who doesn't have their bleed apply.
+Diamond or Opal are still the **best to slot in all weapons, in all expeditions.** More [here](nw/info/mut/gemchoices/#runeglass-casings)
 
-- Cut Pristine Opal or Diamond are the best to use **in all weapons, in all expeditions**.
-- You need an uptime of 50% on your Diamond/Opal for it to be better than an elemental gem (0% vs 30%).
-- This is because of the 50/100STR perks, and slashdamage on ring. These bonuses **only apply to physical damage**, so if you use a conversion gem you lose some of these bonuses.
+- The DoT's status effect is based on the Runeglass casings element.
+- (<a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_lightningdmg" target="_blank">Surge</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_lightning" target="_blank">Electrified</a>, <a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_arcanedmg" target="_blank">Hex</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_arcane" target="_blank">Empowering</a>, <a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_firedmg" target="_blank">Burn</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_fire" target="_blank">Igniting</a>, <a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_naturedmg" target="_blank">Poison</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_nature" target="_blank">Nature</a>)
+- Each of these can only be applied once per mob.
+- A coordinate team should run three different types between their players, to ensure everyone benefits from the 8% (or more from scaling) DoT.
+
   
-<br>
+Best casing for each mob (with a Diamond or Opal slotted):
 
-- These are the best runeglass casings for DPS, but keep in mind only one person per party gets the bleed.
-  
--- Ancients:  <a href="https://nwdb.info/db/item/runeglass_gem_opal_lightning" target="_blank">Runeglass of Electrified Opal</a>
+-- Ancients:  <a href="https://nwdb.info/db/item/runeglass_case_empty_lightning" target="_blank">Runeglass of Electrified Opal</a>
 
--- Angry Earth: <a href="https://nwdb.info/db/item/runeglass_gem_opal_fire" target="_blank">Runeglass of Ignited Opal</a>
+-- Angry Earth: <a href="https://nwdb.info/db/item/runeglass_gem_empty_fire" target="_blank">Runeglass of Ignited Opal</a>
 
--- Corrupted: <a href="https://nwdb.info/db/item/runeglass_gem_opal_arcane" target="_blank">Runeglass of Empowered Opal</a>
+-- Corrupted: <a href="https://nwdb.info/db/item/runeglass_gem_empty_arcane" target="_blank">Runeglass of Empowered Opal</a>
 
--- Lost: <a href="https://nwdb.info/db/item/runeglass_gem_opal_nature" target="_blank">Runeglass of Arboreal Opal</a>
+-- Lost: <a href="https://nwdb.info/db/item/runeglass_gem_empty_nature" target="_blank">Runeglass of Arboreal Opal</a>
 
 <br>
 
@@ -37,7 +37,7 @@ Runeglass weapon casings **are not** worth the money. Only a single person benef
 
 For public runs, we recommend to continue using Cut Pristine Mutation-Specific gems. There is no reason to pay the price of runeglass casing for public runs.
 
-For speedrunning we recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> for your armour, however this setup makes you completely reliant on your healer. **Do not attempt to run this in publics, unless you know the healer is good.**
+For M10 farmers we recommend <a href="https://nwdb.info/db/item/runeglass_gem_onyx_melee" target="_blank">Runeglass of Punishing Onyx</a> or <a href="https://nwdb.info/db/item/runeglass_gem_opal_melee" target="_blank">Runeglass of Punishing Opal</a> for your armour, to avoid changing gems weekly. however this setup makes you completely reliant on your healer. **Do not attempt to run this in publics, unless you know the healer is good.**
 
 - Mutation-specific gems on your Jewellery.
 - This setup makes you much more reliant on a good healer - you will die to bleeds, burns, etc unless you're constantly being healed

@@ -24,13 +24,19 @@ See [here](/nw/info/pve/dmgabs) for more information about damage absorption.
 ## Weapon Gems
 ### DPS
 
-Even after the release of Brimstone, we believe that Cut Pristine Opal and Diamond are still the best to slot in **all weapons**.
+Diamond or Opal are the **best to slot in all weapons, in all expeditions.** 
 
-- The new gems cost quite a lot, and you **lose** damage on a lot of hits with them (15% normal opal, 12% runeglass)
-- We use an Opal or Diamond because of the 50/100STR perks, and slashdamage on ring. These bonuses **only apply to physical damage**, so if you use a conversion gem you lose some of these bonuses.
-  
-It may be worth using Runeglass gems on slow attacking weapons: Greatsword, Greataxe, and Sword.
+- The 50 & 100 Strength attribute perks, as well as Slash Damage on ring **only apply to physical damage**. This means if you use a conversion gem you cut these bonuses in half.
+- Diamond/Opal needs to have an uptime of 50% for it to be the best option - if for some reason you feel like you aren't meeting this check, consider swapping back to an elemental gem for consistency.
 
+#### Runeglass Casings
+
+Typically not recommended, unless you're in a coordinated team. However, they are a slight DPS increase on all weapons, **as long as you're the only one using it in the party.**
+
+- The DoT's status effect is based on the Runeglass casings element.
+- (<a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_lightningdmg" target="_blank">Surge</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_lightning" target="_blank">Electrified</a>, <a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_arcanedmg" target="_blank">Hex</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_arcane" target="_blank">Empowering</a>, <a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_firedmg" target="_blank">Burn</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_fire" target="_blank">Igniting</a>, <a href="https://nwdb.info/db/status-effect/status_perk_runeglass_attunement_naturedmg" target="_blank">Poison</a> for <a href="https://nwdb.info/db/item/runeglass_case_empty_nature" target="_blank">Nature</a>)
+- Each of these can only be applied once per mob.
+- A coordinate team should run three different types between their players, to ensure everyone benefits from the 8% (or more from scaling) DoT.
 
 
 
