@@ -12,8 +12,24 @@ toc: true
    
 - The Curse changes each week to match the Mutation (Element).
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ---
 ---
+
+
 
 ## Mutation (Element)
 
@@ -36,6 +52,19 @@ toc: true
 ---
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## Promotion (Mob Buffs)
 
 ### Indomitable
@@ -56,6 +85,19 @@ toc: true
 
 ---
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Curse (Player Debuffs)
 The Curse changes each week to match the Mutation (Element). These screenshots are mixed but the %'s remain the same. 

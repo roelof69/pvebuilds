@@ -12,6 +12,19 @@ toc: true
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## How to get
 
 Scarabs drop from Glyph Chests and Elite Grave Offerings in Brimstone Sands.
@@ -28,6 +41,19 @@ Scarabs drop from Glyph Chests and Elite Grave Offerings in Brimstone Sands.
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## Chest Runs
 
 - We have two routes - one for solo players and one for groups of 5+
@@ -43,6 +69,19 @@ Scarabs drop from Glyph Chests and Elite Grave Offerings in Brimstone Sands.
 <iframe src="https://aeternum-map.gg/routes/635f257cb2397f1f28033672" width='100%' height='600px'></iframe>
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### Group
 

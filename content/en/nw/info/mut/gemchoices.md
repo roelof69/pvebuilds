@@ -21,6 +21,19 @@ See [here](/nw/info/pve/dmgabs) for more information about damage absorption.
 ---
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## Weapon Gems
 ### DPS
 
@@ -50,10 +63,36 @@ Typically not recommended, unless you're in a coordinated team. However, they ar
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### Healer
 Healers should have a Cut Pristine Diamond in their Lifestaff, and a mobtype weakness gem in their Void Gauntlet.
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### Tank
 Tanks should be using a Cut Pristine Carnelian in **both** weapons.

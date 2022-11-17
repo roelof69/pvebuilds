@@ -12,6 +12,19 @@ Greatsword is the **highest DPS in-game**, it makes M10 challenging but you can 
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## Perks
 
 ### Armour
@@ -30,6 +43,19 @@ The ideal PvE Greatsword is:
 - Keenly Empowered = Elemental Chain(mob weakness) > Attunement
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Skill Trees 
 
@@ -63,6 +89,19 @@ This tree enables you to use Greatsword, combined with dodging to tank. Pair it 
 <a href="/images/skilltrees/greatsword/gstank.png" target="_blank"><img src="/images/skilltrees/greatsword/gstank.png"></a>
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Free Farmable Greatswords
 

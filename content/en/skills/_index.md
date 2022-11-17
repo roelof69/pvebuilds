@@ -56,6 +56,19 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### Hatchet
 
 ##### Highest DPS
@@ -91,6 +104,19 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### Warhammer
 
 ##### Highest DPS
@@ -114,12 +140,39 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 
 ### Bow
 
 <a href="/images/skilltrees/bow/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/bow/1.png"></img></a>
 
 ---
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### Musket
 
@@ -131,6 +184,19 @@ This tree provides a lot of utility for your team, and is only marginally less D
 Only used for light tanking, see the below.
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Tank
 
@@ -151,6 +217,19 @@ Only used for light tanking, see the below.
 <a href="/images/skilltrees/hatchet/tank.png" target="_blank"><img class="skilltree" src="/images/skilltrees/hatchet/tank.png"></img></a>
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
  
 ### Greataxe
 
@@ -172,6 +251,19 @@ Only used for light tanking, see the below.
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### Void Gauntlet
 
 #### DPS
@@ -182,3 +274,16 @@ Only used for light tanking, see the below.
 
 <a href="/images/skilltrees/voidgauntlet/healutility.png" target="_blank"><img class="skilltree" src="/images/skilltrees/voidgauntlet/healutility.png"></img></a>
 
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="7426281108"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
