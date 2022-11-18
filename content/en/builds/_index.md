@@ -41,29 +41,31 @@ weight: 10
 
 
 <style>
-  .ad-right-top {
+  .ad-builds {
     background: transparent;
     position: fixed;
     right:0;
-    top:30px;
     width:250px;
-    height:30vh;
+    height:80vh;
     z-index:2147000;
 
   }
-    .ad-right-bot {
-    background: transparent;
-    position: fixed;
-    right:0;
-    bottom:0;
-    width:250px;
-    height:40vh;
-    z-index:2147000;
 
-  }
 </style>
 
-<div class="ad-right-top">
+<div class="ad-builds">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<!-- HorizontalAds -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="1023227110"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
      crossorigin="anonymous"></script>
 <!-- HorizontalAds -->
@@ -78,17 +80,4 @@ weight: 10
 </script>
 </div>
 
-<div class="ad-right-bot">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
-     crossorigin="anonymous"></script>
-<!-- HorizontalAds -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6183346058041496"
-     data-ad-slot="1023227110"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
