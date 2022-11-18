@@ -66,7 +66,7 @@ Spin to win. This build puts you at empower cap and is the highest DPS, but leav
 
 - Open with Relentless Rush -> Skyward -> Crosscut and spam heavies.
 
-<a href="/images/skilltrees/greatsword/gsdps.png" target="_blank"><img src="/images/skilltrees/greatsword/gsdps.png"></a>
+<a href="https://i.imgur.com/nHtKdAE.png" target="_blank"><img src="https://i.imgur.com/nHtKdAE.png"></a>
 
 ### Utility 
 
@@ -76,7 +76,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 - Skyward can be swapped with Relentless Rush, depending on your needs.
 - The pull from Rupture can be extremely useful for peeling mobs, if you need it then open with either Crosscut or Skyward first, then use Rupture for the pull before using your last ability to stance swap.
 
-<a href="/images/skilltrees/greatsword/gsutility.png" target="_blank"><img src="/images/skilltrees/greatsword/gsutility.png"></a>
+<a href="https://i.imgur.com/gSoA8Ob.png" target="_blank"><img src="https://i.imgur.com/gSoA8Ob.png"></a>
 
 ---
 
@@ -86,7 +86,7 @@ This tree enables you to use Greatsword, combined with dodging to tank. Pair it 
 
 - Steadfast Strike can be swapped with any ability in the Onslaught Tree.
 
-<a href="/images/skilltrees/greatsword/gstank.png" target="_blank"><img src="/images/skilltrees/greatsword/gstank.png"></a>
+<a href="https://i.imgur.com/p0mm5jv.png" target="_blank"><img src="https://i.imgur.com/p0mm5jv.png"></a>
 
 ---
 

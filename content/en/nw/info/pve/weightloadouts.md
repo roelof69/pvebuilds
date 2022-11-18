@@ -18,7 +18,7 @@ Assuming **everyone has 5x ward on their armour**, you should ALWAYS be using li
 ## Loadouts Table
 - These are the highest armour rating loadouts to run:
 
-<a href="/images/_etc/armourweights.png" target="_blank"><img src="/images/_etc/armourweights.png"></a>
+<a href="https://pvebuilds.xyz/weights" target="_blank"><img src="https://i.imgur.com/lldgmEY.png"></a>
 
 -- Click the image to open it in higher resolution.
 

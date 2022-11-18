@@ -34,7 +34,7 @@ Spin to win. This build puts you at empower cap and is the highest DPS, but leav
 
 <br>
 
-<a href="/images/skilltrees/greatsword/gsdps.png" target="_blank"><img class="skilltree" src="/images/skilltrees/greatsword/gsdps.png"></img></a>
+<a href="https://i.imgur.com/nHtKdAE.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/nHtKdAE.png"></img></a>
 
 ##### Utility DPS
 
@@ -50,7 +50,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 <br>
 
-<a href="/images/skilltrees/greatsword/gsutility.png" target="_blank"><img class="skilltree" src="/images/skilltrees/greatsword/gsutility.png"></img></a>
+<a href="https://i.imgur.com/gSoA8Ob.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/gSoA8Ob.png"></img></a>
 
 <br>
 
@@ -73,7 +73,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ##### Highest DPS
 
-<a href="/images/skilltrees/hatchet/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/hatchet/1.png"></img></a>
+<a href="https://i.imgur.com/6pCHPXw.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/6pCHPXw.png"></img></a>
 
 ##### Utility DPS (Nature Mutations)
 
@@ -81,7 +81,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ##### Tank
 
-<a href="/images/skilltrees/hatchet/tank.png" target="_blank"><img class="skilltree" src="/images/skilltrees/hatchet/tank.png"></img></a>
+<a href="https://i.imgur.com/JS1ZNRT.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/JS1ZNRT.png"></img></a>
 
 <br>
 
@@ -89,7 +89,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ### Rapier
 
-<a href="/images/skilltrees/rapier/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/rapier/1.png"></img></a>
+<a href="https://i.imgur.com/pW1w9Sq.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/pW1w9Sq.png"></img></a>
 
 <br>
 
@@ -98,7 +98,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ### Spear
 
-<a href="/images/skilltrees/spear/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/spear/1.png"></img></a>
+<a href="https://i.imgur.com/zYeG1jA.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/zYeG1jA.png"></img></a>
 
 <br>
 
@@ -121,13 +121,13 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ##### Highest DPS
 
-<a href="/images/skilltrees/warhammer/2.png" target="_blank"><img class="skilltree" src="/images/skilltrees/warhammer/2.png"></img></a>
+<a href="https://i.imgur.com/tge1aaG.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/tge1aaG.png"></img></a>
 
 <br>
 
 ##### Rend and CC
 
-<a href="/images/skilltrees/warhammer/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/warhammer/1.png"></img></a>
+<a href="https://i.imgur.com/z06JhJg.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/z06JhJg.png"></img></a>
 
 
 ---
@@ -135,7 +135,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 ### Greataxe
 ##### Highest DPS
 
-<a href="/images/skilltrees/greataxe/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/greataxe/1.png"></img></a>
+<a href="https://i.imgur.com/MzMdcCR.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/MzMdcCR.png"></img></a>
 
 
 ---
@@ -156,7 +156,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ### Bow
 
-<a href="/images/skilltrees/bow/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/bow/1.png"></img></a>
+<a href="https://i.imgur.com/43ojXgi.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/43ojXgi.png"></img></a>
 
 ---
 
@@ -176,7 +176,7 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ### Musket
 
-<a href="/images/skilltrees/musket/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/musket/1.png"></img></a>
+<a href="https://i.imgur.com/G2jBaRC.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/G2jBaRC.png"></img></a>
 
 ---
 
@@ -202,19 +202,19 @@ Only used for light tanking, see the below.
 
 ### Sword and Shield
 
-<a href="/images/skilltrees/sword/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/sword/1.png"></img></a>
+<a href="https://i.imgur.com/Ot8kC9m.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/Ot8kC9m.png"></img></a>
 
 ---
 
 ### Greatsword
 
-<a href="/images/skilltrees/greatsword/gstank.png" target="_blank"><img class="skilltree" src="/images/skilltrees/greatsword/gstank.png"></img></a>
+<a href="https://i.imgur.com/p0mm5jv.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/p0mm5jv.png"></img></a>
 
 ---
 
 ### Hatchet
 
-<a href="/images/skilltrees/hatchet/tank.png" target="_blank"><img class="skilltree" src="/images/skilltrees/hatchet/tank.png"></img></a>
+<a href="https://i.imgur.com/HE5lwKj.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/HE5lwKj.png"></img></a>
 
 ---
 
@@ -233,7 +233,7 @@ Only used for light tanking, see the below.
  
 ### Greataxe
 
-<a href="/images/skilltrees/greataxe/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/greataxe/1.png"></img></a>
+<a href="https://i.imgur.com/MzMdcCR.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/MzMdcCR.png"></img></a>
 
 ---
 
@@ -247,7 +247,7 @@ Only used for light tanking, see the below.
 
 ### AoE Lifestaff
 
-<a href="/images/skilltrees/lifestaff/1.png" target="_blank"><img class="skilltree" src="/images/skilltrees/lifestaff/1.png"></img></a>
+<a href="https://i.imgur.com/z5J2P5h.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/z5J2P5h.png"></img></a>
 
 ---
 
@@ -268,11 +268,11 @@ Only used for light tanking, see the below.
 
 #### DPS
 
-<a href="/images/skilltrees/voidgauntlet/heal.png" target="_blank"><img class="skilltree" src="/images/skilltrees/voidgauntlet/heal.png"></img></a>
+<a href="https://i.imgur.com/N87wyjK.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/N87wyjK.png"></img></a>
 
 #### Utility
 
-<a href="/images/skilltrees/voidgauntlet/healutility.png" target="_blank"><img class="skilltree" src="/images/skilltrees/voidgauntlet/healutility.png"></img></a>
+<a href="https://i.imgur.com/ToQnJQ9.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/ToQnJQ9.png"></img></a>
 
 
 
