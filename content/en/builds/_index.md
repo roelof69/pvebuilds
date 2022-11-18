@@ -44,7 +44,7 @@ weight: 10
   .ad-right {
     background: transparent;
     position: fixed;
-    right:-250px;
+    right:0px;
     width:250px;
     height:80vh;
   }
