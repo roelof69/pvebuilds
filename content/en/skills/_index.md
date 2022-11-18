@@ -77,11 +77,11 @@ This tree provides a lot of utility for your team, and is only marginally less D
 
 ##### Utility DPS (Nature Mutations)
 
-<a href="/images/skilltrees/hatchet/2.png" target="_blank"><img class="skilltree" src="/images/skilltrees/hatchet/2.png"></img></a>
+<a href="https://i.imgur.com/JS1ZNRT.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/JS1ZNRT.png"></img></a>
 
 ##### Tank
 
-<a href="https://i.imgur.com/JS1ZNRT.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/JS1ZNRT.png"></img></a>
+<a href="https://i.imgur.com/HE5lwKj.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/HE5lwKj.png"></img></a>
 
 <br>
 
@@ -239,7 +239,7 @@ Only used for light tanking, see the below.
 
 ### Blunderbuss
 
-<a href="/images/skilltrees/blunderbuss/tank.png" target="_blank"><img class="skilltree" src="/images/skilltrees/blunderbuss/tank.png"></img></a>
+<a href="https://i.imgur.com/h0D0cS5.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/h0D0cS5.png"></img></a>
 
 ---
 
