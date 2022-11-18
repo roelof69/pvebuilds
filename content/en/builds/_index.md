@@ -34,9 +34,33 @@ weight: 10
 }
 </style>
 
-
-
   <div id="iframe-container">
     <iframe scrolling="no" frameborder="0" marginheight="0" marginwidth="0"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnVjb3srmOBZoXm6VKs05dSJDED1qJM6A6miMgsCG8Hb7kH37biLYRzKkUIVZGwNyjiKZtXyBnSLy5/pubhtml?headers=false&gridlines=false"></iframe>
   </div>
+
+
+<style>
+  .ad-right {
+    background: transparent;
+    position: fixed;
+    right:-250px;
+    width:250px;
+    height:80vh;
+  }
+</style>
+
+<div class="ad-right">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<!-- HorizontalAds -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="1023227110"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
