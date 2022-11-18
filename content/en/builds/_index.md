@@ -45,9 +45,11 @@ weight: 10
     background: transparent;
     position: fixed;
     right:0;
-    top:0;
+    top:30px;
     width:250px;
-    height:50vh;
+    height:30vh;
+    z-index:2147000;
+
   }
     .ad-right-bot {
     background: transparent;
@@ -55,7 +57,9 @@ weight: 10
     right:0;
     bottom:0;
     width:250px;
-    height:50vh;
+    height:40vh;
+    z-index:2147000;
+
   }
 </style>
 
