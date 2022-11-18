@@ -41,16 +41,40 @@ weight: 10
 
 
 <style>
-  .ad-right {
+  .ad-right-top {
     background: transparent;
     position: fixed;
-    right:0px;
+    right:0;
+    top:0;
     width:250px;
-    height:80vh;
+    height:50vh;
+  }
+    .ad-right-bot {
+    background: transparent;
+    position: fixed;
+    right:0;
+    bottom:0;
+    width:250px;
+    height:50vh;
   }
 </style>
 
-<div class="ad-right">
+<div class="ad-right-top">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
+     crossorigin="anonymous"></script>
+<!-- HorizontalAds -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6183346058041496"
+     data-ad-slot="1023227110"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="ad-right-bot">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6183346058041496"
      crossorigin="anonymous"></script>
 <!-- HorizontalAds -->
