@@ -50,6 +50,11 @@ weight: 10
     z-index:2147000;
 
   }
+    @media screen and (max-width:500px) {
+    .ad-builds {
+      display:none;
+    }
+  }
 
 </style>
 
