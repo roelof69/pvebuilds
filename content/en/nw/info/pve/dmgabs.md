@@ -89,7 +89,7 @@ overflow:hidden;
 margin-left:-46px;
 margin-top:-24px;
 margin-bottom:-195px;
-height:1000px;
+height:1100px;
 overflow-x:hidden; 
 
 }
