@@ -268,7 +268,7 @@ Only used for light tanking, see the below.
 
 #### DPS
 
-<a href="https://i.imgur.com/N87wyjK.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/N87wyjK.png"></img></a>
+<a href="https://i.imgur.com/JSJQJPy.png" target="_blank"><img class="skilltree" src="https://i.imgur.com/JSJQJPy.png"></img></a>
 
 #### Utility
 
