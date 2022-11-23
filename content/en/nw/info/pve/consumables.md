@@ -68,7 +68,7 @@ You can own three houses, so you should have three trophies. Basic trophies are 
 
 ### Gemstone Dust & Oakflesh Balm
 
-Gemstone dust and oakflesh balm function the same way. Gemstone dust is used for elemental absorption; oakflesh balm is used for physical absorption. These **count** towards your fortify cap **unless** you're already above the 50% breakpoint, explained [here.](/nw/info/pve/gemchoices/#ideal-gems-based-on-elemental-absorption-)
+Gemstone dust and oakflesh balm function the same way. Gemstone dust is used for elemental absorption; oakflesh balm is used for physical absorption. These **count** towards your fortify cap **unless** you're already above the 50% breakpoint, explained [here.](/nw/info/mut/gemchoices/#armour-gems/)
 
 It's only worth using strong or powerful variants.
 |                   	|    **Strong**    	|  **Powerful** 	|

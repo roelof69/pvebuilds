@@ -33,7 +33,7 @@ It depends on the [mutation](/nw/info/mut/modifiers/), but we recommend using 8x
 #### Runeglass Gems
 
 - Armour: <a href="https://nwdb.info/db/item/runeglass_case_empty_melee" target="_blank">Runeglass of Punishing</a>
-- Weapons read [here](nw/info/mut/gemchoices/#runeglass-casings)
+- Weapons read [here](/nw/info/mut/gemchoices/#weapon-gems)
 
 ---
 
@@ -58,7 +58,7 @@ It depends on the [mutation](/nw/info/mut/modifiers/), but we recommend using 8x
 
 Diamond or Opal are the **best to slot in all weapons, in all expeditions.** 
 
-See [here](/nw/info/mut/gemchoices/#dps) for an explanation or [here](nw/info/mut/gemchoices/#runeglass-casings) for Runeglass info.
+See [here](/nw/info/mut/gemchoices/#dps) for an explanation or [here](/nw/info/mut/gemchoices/#runeglass-casings) for Runeglass info.
 
 
 
