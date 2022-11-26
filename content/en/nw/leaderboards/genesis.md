@@ -17,6 +17,8 @@ Mutation: Eternal + Indomitable + Desiccated
 
 Links: **<a href="https://www.youtube.com/watch?v=dDpG-hSfmJ0" target="_blank">VOD1</a> || <a href="https://www.youtube.com/watch?v=-eG2SRCqnGY" target="_blank">VOD2</a> || <a href="https://twitch.tv/genedictb" target="_blank">GenedictB on Twitch</a>**
 
+Post-patch 10:17 <a href="https://www.youtube.com/watch?v=cfHLDJrEp-k" target="_blank">VOD</a>
+
 {{< /details >}}
 
 ---
@@ -33,6 +35,20 @@ Mutation: Overgrown + Savage + Fiendish
 Links: **<a href="https://www.youtube.com/watch?v=hhtB26pGblc" target="_blank">VOD</a> || <a href="https://twitch.tv/M11PvE" target="_blank">M11PvE on Twitch</a>**
 {{< /details >}}
 
+
+---
+
+{{< details "#3 - 13:58 - Project United" >}}
+Players: **xGHST* | ZIPITFPS | zPyr0 | KuramaQc | Bazoo**
+
+Weapons: SnS+Hatchet | Hatchet+Spear | Hatchet+Spear | Hatchet+GS | LS+VG
+
+Server: Maramma (USE)
+
+Mutation: Overgrown + Oppressive + Desiccated
+
+Links: **<a href="https://www.youtube.com/watch?v=a6Tx6knSfy0" target="_blank">VOD</a>**
+{{< /details >}}
 
 ---
 
